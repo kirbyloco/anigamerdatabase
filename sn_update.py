@@ -21,7 +21,7 @@ def getdata(_):
     animelist = a.xpath('//ul[@class="anime_list"]/li')
     for _ in animelist:
         with open('sn_list.txt', 'a', encoding='UTF-8') as f:
-            f.write('{0} all {1}\r'.format(getrealvideoid(_.xpath('a')[0].get('href')), _.xpath('div[@class="info"]/b')[0].text))
+            f.write('{0} all {1}\n'.format(getrealvideoid(_.xpath('a')[0].get('href')), _.xpath('div[@class="info"]/b')[0].text))
 
 def cleansntxt():
     with open('sn_list.txt', 'w+', encoding='UTF-8') as f:
