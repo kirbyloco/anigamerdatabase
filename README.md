@@ -4,4 +4,7 @@
 方便處理成其他所需要的資料
 
 # 作者的話
-這個專案預計會跟其他的專案合併
+目前還是有Bug，但已經不影響正常使用了
+
+# 採用此資料庫的專案
+[kirbyloco/aniGamerPlus](https://github.com/kirbyloco/aniGamerPlus)放在kltw_dev分支
