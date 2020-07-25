@@ -18,6 +18,9 @@ def get_sn(sn):
     b = etree.HTML(a.text)
     print(b.xpath('//div[@class="anime_name"]/h1')[0].text)
     animename = re.findall(r'(.*) \[(電影|特別篇|\d.*)\]', b.xpath('//div[@class="anime_name"]/h1')[0].text)[0][0]
+    animename_2 = re.findall(r'(.*) \[(電影|特別篇|\d.*)\]', animename)
+    if animename_2 != []:
+        animename = animename_2[0]
     db[animename] = {}
     index = []
     if len(b.xpath('//section[@class="season"]/p')) > 1:
