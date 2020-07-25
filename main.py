@@ -28,4 +28,4 @@ load_snlist()
 for _sn in snlist:
     get_sn(_sn)
 with open('anigamer.json', 'w', encoding='utf-8') as f:
-    json.dump(db, f, ensure_ascii=False)
+    json.dump(db, f, ensure_ascii=False, indent=4)
