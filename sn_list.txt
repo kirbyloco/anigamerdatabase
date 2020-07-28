@@ -198,6 +198,7 @@
 11392 all 笨拙之極的上野
 11400 all 不愉快的妖怪庵 續
 11390 all 笑容的代價
+16536 all 來自深淵 劇場版總集篇 前編：啟程的黎明
 11388 all BanG Dream！第二季
 11682 all K Seven Stories Circle Vision ～Nameless Song～
 14489 all 機動戰士鋼彈 NT
