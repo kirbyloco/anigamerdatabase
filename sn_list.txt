@@ -272,7 +272,6 @@
 13886 all 香蕉怪大叔 呐呐~呐
 10133 all 多田君不戀愛
 14020 all Aikatsu! 偶像學園！Friends
-10745 all 銀河英雄傳說 Die Neue These 邂逅
 12004 all 東京喰種：re
 9680 all 妖怪旅館營業中
 9660 all 隊長小翼
@@ -333,7 +332,6 @@
 12040 all 超人力霸王捷德
 8327 all 時間支配者
 8312 all 最遊記 RELOAD BLAST
-10733 all 捏造陷阱 -NTR-
 8322 all 徒然喜歡你
 8321 all 單蠢女孩
 8320 all 異世界食堂
