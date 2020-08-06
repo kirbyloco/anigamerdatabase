@@ -529,6 +529,7 @@
 8120 all 山田君與 7 位魔女
 9944 all 絕命制裁 X
 1113 all Hello！！黃金拼圖
+10387 all Fate/stay night [Unlimited Blade Works] 第二季
 15685 all 境界之Rinne
 9966 all 小長門有希的消失
 7624 all 在地下城尋求邂逅是否搞錯了什麼
@@ -561,6 +562,7 @@
 8139 all 灰色的果實
 7900 all 魔彈之王與戰姬
 1354 all 尋找失去的未來
+10361 all Fate/stay night [Unlimited Blade Works]
 4506 all 天使與龍的輪舞
 7418 all Aikatsu! 偶像學園！第3季
 6094 all TERRA FORMARS 火星任務
