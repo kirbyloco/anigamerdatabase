@@ -1,3 +1,4 @@
+16952 all 我的英雄學院 OVA：活下來！殊死的生存訓練
 16437 all 進擊的巨人 劇場版 CHRONICLE
 16429 all GIBIATE 獵魔武士
 16404 all 忍者收藏
@@ -570,6 +571,7 @@
 6094 all TERRA FORMARS 火星任務
 2177 all 劇場版 假面騎士 鎧武 足球大決戰！黃金的果實爭奪盃！
 2190 all 烈車戰隊特急者 THE MOVIE Galaxy Line SOS
+16884 all K MISSING KINGS
 878 all 三坪房間的侵略者！？
 9792 all 東京 ESP
 9794 all LOVE STAGE!!
