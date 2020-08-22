@@ -89,6 +89,7 @@
 16910 all 魯邦三世 過去的監獄
 16665 all 時光沙漏 fragtime
 13811 all 花牌情緣 第三季
+17225 all 鬼滅之宴
 13854 all 美妙射擊部
 13805 all 刀劍神域 Alicization War of Underworld
 13846 all 我的英雄學院 第四季
@@ -471,6 +472,7 @@
 4888 all 虹色時光
 11689 all 灰與幻想的格林姆迦爾
 12618 all 魔法護士小麥 R
+17122 all 闇芝居 第三季
 4616 all 無頭騎士異聞錄 DuRaRaRa!!×2 結
 4612 all Luck & Logic
 8604 all 星光美男 彩虹舞台
@@ -581,6 +583,7 @@
 7870 all 斬！赤紅之瞳
 9437 all 月刊少女野崎同學
 9554 all 戲劇性謀殺
+17109 all 闇芝居 第二季
 903 all 刀劍神域 Sword Art Online 第二季
 1379 all 少年好萊塢
 7184 all 白銀的意志
@@ -609,6 +612,7 @@
 4172 all IS 〈Infinite Stratos〉第二季
 4655 all Aikatsu! 偶像學園！第2季
 14827 all 單色小姐
+17096 all 闇芝居
 7956 all Fate/kaleid liner 魔法少女☆伊莉雅
 14945 all 新科學小飛俠
 7913 all BLOOD LAD 血意少年
