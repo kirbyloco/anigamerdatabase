@@ -88,6 +88,7 @@
 14419 all 少女前線 人形小劇場 - 狂亂篇
 16910 all 魯邦三世 過去的監獄
 16665 all 時光沙漏 fragtime
+17335 all Re：從零開始的異世界生活 冰結之絆
 13811 all 花牌情緣 第三季
 17225 all 鬼滅之宴
 13854 all 美妙射擊部
@@ -222,6 +223,7 @@
 10933 all 逆轉裁判 第二季
 11302 all K Seven Stories Based on Lost Small World ～牢籠的彼端～
 13671 all 新企鵝家族 第二季
+17334 all Re：從零開始的異世界生活 Memory Snow
 10840 all 魔法禁書目錄 Ⅲ
 10922 all JOJO 的奇妙冒險 黃金之風
 10906 all 火之丸相撲
