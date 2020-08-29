@@ -141,6 +141,7 @@
 12665 all Re：Stage！Dream days♪
 12658 all 艾梅洛閣下 II 世事件簿 -魔眼蒐集列車 Grace note-
 12680 all 妖怪人類貝姆（BEM）
+17265 all 闇芝居 第七季
 12684 all 超人力霸王 TAIGA
 12651 all 女高中生的虛度日常
 12653 all Dr.STONE 新石紀
@@ -258,6 +259,7 @@
 15591 all 超人力霸王 R/B
 10758 all K Seven Stories R:B ～BLAZE～
 11684 all K Seven Stories The・偶像 K
+17252 all 闇芝居 第六季
 10208 all 遙的接球
 10212 all 音樂少女
 11977 all 異世界魔王與召喚少女的奴隸魔術
@@ -693,6 +695,7 @@
 15438 all 琴之森
 2189 all 轟轟戰隊冒險者 VS 超級戰隊
 1191 all 史上最強弟子兼一
+5205 all 家庭教師 HITMAN REBORN！
 10579 all 死亡筆記本
 7769 all 怪醫黑傑克 21
 5789 all NANA
