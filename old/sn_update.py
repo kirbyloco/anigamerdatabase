@@ -2,16 +2,12 @@ import requests
 import re
 from lxml import etree
 
-def checklastpage():
-    a = etree.HTML(html.text)
-    return a.xpath('//div[@class="page_number"]/a')[-1].text
-
 def getrealvideoid(url):
     html = requests.get('https://ani.gamer.com.tw/' + url)
-    if html.text.find('18UP') == -1: #檢測是否為R-18
-        return re.findall("=(\d*)", html.url)[0]
+    if html.text.find('18UP') == -1:  # 檢測是否為R-18
+        return re.findall(r"=(\d*)", html.url)[0]
     else:
-        return '' + re.findall("=(\d*)", html.url)[0]
+        return '' + re.findall(r"=(\d*)", html.url)[0]
 
 def getdata(_):
     b = ''

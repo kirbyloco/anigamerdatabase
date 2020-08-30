@@ -1,42 +1,52 @@
 import json
-import re
 
 import requests
-from lxml import etree
 
-snlist = []
 db = {}
 
-def load_snlist():
-    with open('sn_list.txt', 'r') as f:
-        a = f.readlines()
-    for _ in a:
-        snlist.append(re.findall(r'(\d+)', _)[0])
+anime_url = 'https://api.gamer.com.tw/mobile_app/anime/v1/video.php?sn=16844&anime_sn=0'
+page = 1
 
-def get_sn(sn):
-    a = requests.get(f'https://ani.gamer.com.tw/animeVideo.php?sn={sn}')
-    b = etree.HTML(a.text)
-    animename = re.findall(r'(.*) \[(電影|特別篇|\d.*)\]', b.xpath('//div[@class="anime_name"]/h1')[0].text)[0][0]
-    animename_2 = re.findall(r'(.*) \[(電影|特別篇|\d.*)\]', animename)
-    if animename_2 != []:
-        animename = animename_2[0][0]
-    print(animename)
-    db[animename] = {}
-    index = []
-    if len(b.xpath('//section[@class="season"]/p')) > 1:
-        sectag = b.xpath('//section[@class="season"]/p')[1].text
-    for _ in b.xpath('//section[@class="season"]/ul/li/a'):
-        if _.text not in index:
-            db[animename][_.text] = re.findall(r'(\d+)', _.get('href'))[0]
-            index.append(_.text)
+
+def cleansntxt():
+    with open('sn_list.txt', 'w+', encoding='UTF-8') as f:
+        f.write('')
+
+
+def get_anime_list():
+    global page
+    anime_list = requests.get(
+        f'https://api.gamer.com.tw/mobile_app/anime/v1/list.php?page={page}').json()
+    page += 1
+    return anime_list
+
+
+def get_anime_detail(sn: int, title: str):
+    anime = requests.get(
+        f'https://api.gamer.com.tw/mobile_app/anime/v1/video.php?&anime_sn={sn}').json()
+    with open('sn_list.txt', 'a', encoding='UTF-8') as f:
+        f.write(f'{anime["video"]["video_sn"]} all {title}\n')
+    for _type in anime['anime']['volumes']:
+        for _sn in anime['anime']['volumes'][_type]:
+            if _type == '0':
+                db[title][_sn['volume']] = str(_sn["video_sn"])
+            elif _type == '1' or _type == '4':
+                db[title][anime["videoTypeList"]
+                          [int(_type)]["name"]] = str(_sn["video_sn"])
+            else:
+                db[title][f'{anime["videoTypeList"][int(_type)]["name"]} {_sn["volume"]}'] = str(
+                    _sn["video_sn"])
+
+
+if __name__ == "__main__":
+    cleansntxt()
+    while True:
+        anime_list = get_anime_list()
+        if anime_list:
+            for _anime_sn in anime_list:
+                db[_anime_sn['title']] = {}
+                get_anime_detail(_anime_sn['anime_sn'], _anime_sn['title'])
         else:
-            db[animename][f'{sectag} {_.text}'] = re.findall(r'(\d+)', _.get('href'))[0]
-
-    if db[animename] == {}:
-        db[animename][re.findall(r'\[(.*)\]', b.xpath('//div[@class="anime_name"]/h1')[0].text)[0]] = sn
-
-load_snlist()
-for _sn in snlist:
-    get_sn(_sn)
-with open('anigamer.json', 'w', encoding='utf-8') as f:
-    json.dump(db, f, ensure_ascii=False, indent=4)
+            break
+    with open('anigamer.json', 'w', encoding='utf-8') as f:
+        json.dump(db, f, ensure_ascii=False, indent=4)
