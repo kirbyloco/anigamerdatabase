@@ -458,6 +458,7 @@
 11467 all 超人力霸王 X 劇場版
 16406 all 排球少年！！VS 掛科
 7020 all 蠟筆小新電影 爆睡 夢世界大作戰！
+6156 all 至高指令
 12252 all 任性 High-Spec
 5011 all 飛翔的魔女
 15709 all 境界之Rinne 第二季
@@ -613,6 +614,7 @@
 828 all 魔法戰爭
 9529 all 流浪神差
 10992 all 達洋貓
+1 all 刀劍神域 Extra Edition
 12331 all 魔法少女小圓 新編 叛逆的物語
 8069 all 東京闇鴉
 1896 all 蒼翼默示錄 Alter Memory
@@ -638,6 +640,7 @@
 2191 all 特命戰隊 Go Busters VS 海賊戰隊豪快者 THE MOVIE
 16771 all 寶可夢超級願望 第三季
 5682 all 花牌情緣 第二季
+54 all AMNESIA 失憶症
 10244 all 前進吧！登山少女
 12329 all 魔法少女小圓 後編 永遠的物語
 310 all Aikatsu! 偶像學園！
