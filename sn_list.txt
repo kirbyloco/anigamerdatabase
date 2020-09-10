@@ -609,6 +609,7 @@
 6271 all JOJO 的奇妙冒險 星塵遠征軍
 1481 all 惡魔謎題
 2178 all 平成騎士對昭和騎士 假面騎士大戰 feat. 超級戰隊
+17887 all Little Busters ! EX
 2192 all 獸電戰隊強龍者 VS Go Busters 恐龍大決戰！ 再見永遠的朋友啊
 66 all WIZARD BARRISTERS～弁魔士賽希爾
 1012 all 鬼燈的冷徹
@@ -646,7 +647,7 @@
 12329 all 魔法少女小圓 後編 永遠的物語
 310 all Aikatsu! 偶像學園！
 12328 all 魔法少女小圓 前編 起始的物語
-13109 all Little Busters!
+13109 all Little Busters !
 6107 all JOJO 的奇妙冒險
 10649 all K
 926 all 刀劍神域 Sword Art Online
@@ -660,7 +661,6 @@
 16921 all 火影忍者 SD 李洛克的青春全力忍傳
 4643 all 男子高校生的日常
 9507 all Guilty Crown 罪惡王冠
-10551 all 女神異聞錄 4
 5748 all 花牌情緣
 5575 all 獵人 Hunter x Hunter
 10408 all Fate/zero
