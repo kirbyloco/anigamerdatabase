@@ -410,6 +410,7 @@
 15971 all 天地無用！魎皇鬼 第 4 期
 14867 all 劇場版 艦隊 Collection
 9659 all 暗殺教室 365 日倒數計時
+17479 all 寶可夢 太陽＆月亮
 15643 all 黃金拼圖 Pretty Days
 15653 all 毛孩總動員
 6407 all 長騎美眉
@@ -621,7 +622,7 @@
 8069 all 東京闇鴉
 1896 all 蒼翼默示錄 Alter Memory
 8093 all 機巧少女不會受傷
-2029 all Little Busters! ～Refrain～
+2029 all Little Busters ! ～Refrain～
 196 all 來自風平浪靜的明日
 4172 all IS 〈Infinite Stratos〉第二季
 4655 all Aikatsu! 偶像學園！第2季
