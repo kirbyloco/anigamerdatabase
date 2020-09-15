@@ -330,6 +330,7 @@
 10096 all 戰刻夜想曲
 13318 all 食戟之靈 餐之皿
 8777 all UQ HOLDER！悠久持有者！
+18005 all 阿松 第二季
 8716 all UQ HOLDER！悠久持有者！-Amor Primus ～初戀～
 13004 all 假面騎士 Build
 8729 all 夢幻慶典 第二季
@@ -511,6 +512,7 @@
 3396 all 緋彈的亞莉亞 AA
 4617 all 新我們這一家
 12239 all 高校星歌劇
+17981 all 阿松
 4451 all 一拳超人
 8015 all Concrete‧Revolutio 超人幻想
 8203 all 彗星路西法
