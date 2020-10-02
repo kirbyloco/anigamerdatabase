@@ -1,3 +1,5 @@
+18422 all BURN THE WITCH 龍與魔女
+18421 all 暮蟬悲鳴時
 18420 all 大貴族
 18370 all 無能力者娜娜
 18369 all 憂國的莫里亞蒂
@@ -627,6 +629,7 @@
 196 all 來自風平浪靜的明日
 4172 all IS 〈Infinite Stratos〉第二季
 4655 all Aikatsu! 偶像學園！第2季
+18372 all KILL la KILL
 14827 all 單色小姐
 17096 all 闇芝居
 7956 all Fate/kaleid liner 魔法少女☆伊莉雅
@@ -718,6 +721,7 @@
 2186 all 爆龍戰隊 VS 忍風戰隊
 7896 all 怪醫黑傑克特別版 4 個生命奇蹟
 11856 all 東京教父
+6654 all 鋼之鍊金術師 2003
 2183 all 爆龍戰隊電影版
 13616 all 企鵝家族 第五季
 2185 all 忍風戰隊 vs 百獸戰隊
