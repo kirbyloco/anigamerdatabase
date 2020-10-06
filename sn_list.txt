@@ -1,3 +1,4 @@
+18523 all 黃金神威 第三季
 18487 all 秘密結社 鷹之爪 -Golden Spell-
 18438 all 攀岩少女！
 18439 all 眾神眷顧的男人
@@ -529,7 +530,6 @@
 11074 all 新妹魔王的契約者 BURST
 9883 all 櫻子小姐的腳下埋著屍體
 3396 all 緋彈的亞莉亞 AA
-12239 all 高校星歌劇
 17981 all 阿松
 4451 all 一拳超人
 8015 all Concrete‧Revolutio 超人幻想
