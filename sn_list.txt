@@ -1,3 +1,5 @@
+18539 all 強襲魔女 通往柏林之路
+18535 all 月歌。THE ANIMATION 2
 18525 all 在魔王城說晚安
 18523 all 黃金神威 第三季
 18487 all 秘密結社 鷹之爪 -Golden Spell-
@@ -19,8 +21,9 @@
 18440 all BEM 妖怪人類貝姆劇場版～BECOME HUMAN～
 18484 all 鐵路浪漫譚
 18421 all 暮蟬悲鳴時
-18420 all 大貴族
+18537 all 大貴族
 18370 all 無能力者娜娜
+18215 all 熊熊勇闖異世界
 16952 all 我的英雄學院 OVA：活下來！殊死的生存訓練
 16437 all 進擊的巨人 劇場版 CHRONICLE
 16429 all GIBIATE 獵魔武士
