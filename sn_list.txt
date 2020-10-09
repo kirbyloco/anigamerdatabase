@@ -1,4 +1,5 @@
 18539 all 強襲魔女 通往柏林之路
+18541 all 小碧藍幻想！
 18535 all 月歌。THE ANIMATION 2
 18525 all 在魔王城說晚安
 18523 all 黃金神威 第三季
@@ -627,6 +628,7 @@
 10374 all FREE! 男子游泳部 -Eternal Summer-
 4745 all 天降之物 Final 永遠的我的鳥籠
 790 all 蠟筆小新：大對決！機器人爸爸的反擊！
+1908 all 請問您今天要來點兔子嗎？
 7944 all NO GAME NO LIFE 遊戲人生
 2081 all 漫畫家與助手
 5510 all 金色琴弦 Blue Sky
