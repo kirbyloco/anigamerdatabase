@@ -21,7 +21,7 @@
 18422 all BURN THE WITCH 龍與魔女
 18440 all BEM 妖怪人類貝姆劇場版～BECOME HUMAN～
 18484 all 鐵路浪漫譚
-18421 all 暮蟬悲鳴時
+18421 all 暮蟬悲鳴時 業
 18537 all 大貴族
 18370 all 無能力者娜娜
 18215 all 熊熊勇闖異世界
