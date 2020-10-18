@@ -426,6 +426,7 @@
 7147 all BanG Dream！
 17135 all 闇芝居 第四季
 9751 all 動物戰隊獸王者 VS 忍忍者 來自未來的訊息 from 超級戰隊
+18473 all Rewrite 第二季
 7158 all MARGINAL#4
 7157 all 為美好的世界獻上祝福！ 第二季
 8231 all 超級戀人 第二季
@@ -490,6 +491,7 @@
 8040 all 香蕉喵
 14957 all 齊木楠雄的災難
 11578 all B-PROJECT～鼓動＊Ambitious～
+18460 all Rewrite
 10175 all ReLIFE 重返 17 歲
 5793 all 小桃小栗 Love Love 物語
 15873 all 不愉快的妖怪庵
