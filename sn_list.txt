@@ -538,6 +538,7 @@
 4479 all 夢幻之星 Online 2
 12505 all Active Raid -機動強襲室第八組-
 15925 all 無彩限的幻影世界
+18396 all 春 & 夏推理事件簿
 15672 all 疾走王子 Alternative
 11013 all 達洋貓：不可思議劇場
 7895 all 假面騎士Ghost&Drive
@@ -595,6 +596,7 @@
 16201 all 排球少年！！列夫前來拜見！
 11039 all 烈車戰隊特急者 VS 強龍者 THE MOVIE
 10448 all 純潔的瑪利亞
+18408 all 聖劍使的禁咒詠唱
 2145 all 無頭騎士異聞錄 DuRaRaRa!!×2 承
 1392 all 少年好萊塢 第二季
 3441 all 暗殺教室
