@@ -556,6 +556,7 @@
 4451 all 一拳超人
 8015 all Concrete‧Revolutio 超人幻想
 8203 all 彗星路西法
+19035 all 假面騎士 Ghost
 7220 all 終物語
 3030 all 重裝武器
 10656 all K: Return of Kings
@@ -587,7 +588,6 @@
 12616 all 你永遠是我的寶貝
 12216 all 劇場版 境界的彼方 未來篇
 11859 all 七龍珠 Z 劇場版：復活的「F」
-8120 all 山田君與 7 位魔女
 9944 all 絕命制裁 X
 1113 all Hello！！黃金拼圖
 10387 all Fate/stay night [Unlimited Blade Works] 第二季
@@ -705,14 +705,18 @@
 12592 all 加速世界
 16921 all 火影忍者 SD 李洛克的青春全力忍傳
 4643 all 男子高校生的日常
+19027 all 假面騎士 × 假面騎士 Fourze＆OOO MOVIE 大戰 MEGA MAX
+19024 all 蘋果核戰 XIII 劇場版～預言～
 9507 all Guilty Crown 罪惡王冠
 5748 all 花牌情緣
 5575 all 獵人 Hunter x Hunter
 10408 all Fate/zero
 8544 all 假面騎士 FOURZE
+19023 all 蘋果核戰 XIII 劇場版～遺言～
 9816 all 超級戰隊 199 英雄大對決
 3524 all 青之驅魔師
 234 all 花開物語
+19026 all OOO・電王・All Riders Let's Go 假面騎士
 5408 all 惡魔奶爸
 4096 all IS 〈Infinite Stratos〉
 792 all 魔法少女小圓
@@ -744,6 +748,7 @@
 2187 all 獸拳戰隊激氣連者 VS 冒險者
 2171 all 假面騎士電王 俺、誕生！
 9818 all 獸拳戰隊 香港大決戰
+18953 all BACCANO！大騷動！
 15438 all 琴之森
 2189 all 轟轟戰隊冒險者 VS 超級戰隊
 1191 all 史上最強弟子兼一
