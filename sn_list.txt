@@ -256,6 +256,7 @@
 10923 all FAIRY TAIL 魔導少年 最終章
 10861 all 書店裡的骷髏店員本田
 11844 all Anima Yell!
+19240 all 尤利西斯 貞德與鍊金騎士
 10855 all SSSS.GRIDMAN
 10849 all 刀劍神域 Alicization
 10907 all Radiant 虛空魔境
@@ -382,6 +383,7 @@
 12548 all 獨佔我的英雄
 12040 all 超人力霸王捷德
 8327 all 時間支配者
+8325 all 來自深淵
 8312 all 最遊記 RELOAD BLAST
 8322 all 徒然喜歡你
 8321 all 單蠢女孩
@@ -820,6 +822,8 @@
 14225 all 城市獵人 3
 15355 all 真 魔神英雄傳 魔神山篇
 11833 all 機動警察 劇場版 1
+4358 all 五星物語 劇場版
 16746 all 魔神英雄傳
 13020 all 城市獵人 2
 12795 all 城市獵人
+19289 all 卡姆依之劍
