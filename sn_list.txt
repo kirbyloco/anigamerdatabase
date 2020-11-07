@@ -352,7 +352,9 @@
 11471 all Fate/stay night [Heaven's Feel] I. 預示之花
 8788 all 3 月的獅子 第二季
 8835 all 我的女友是個過度認真的處女 Bitch
+8794 all 動畫同好會
 8795 all 如果有妹妹就好了。
+8791 all 血界戰線 & BEYOND
 8790 all 魔法使的新娘
 8789 all 鬼燈的冷徹 第二季
 8796 all ClassicaLoid 第二季
@@ -667,6 +669,7 @@
 8069 all 東京闇鴉
 1896 all 蒼翼默示錄 Alter Memory
 8093 all 機巧少女不會受傷
+1051 all MAGI 魔奇少年 第二季
 2029 all Little Busters ! ～Refrain～
 196 all 來自風平浪靜的明日
 4172 all IS 〈Infinite Stratos〉第二季
@@ -681,6 +684,7 @@
 16039 all 王者天下 第二季
 10131 all 假面騎士×超級戰隊×宇宙刑事 超級英雄大戰 Z
 261 all 魔法禁書目錄外傳 科學超電磁砲 第二季
+129 all 我的妹妹哪有這麼可愛！第二季
 3499 all 進擊的巨人
 14126 all 約會大作戰 DATE A LIVE
 3295 all 果然我的青春戀愛喜劇搞錯了。
@@ -693,10 +697,12 @@
 10244 all 前進吧！登山少女
 12329 all 魔法少女小圓 後編 永遠的物語
 310 all Aikatsu! 偶像學園！
+1048 all MAGI 魔奇少年
 12328 all 魔法少女小圓 前編 起始的物語
 13109 all Little Busters !
 6107 all JOJO 的奇妙冒險
 10649 all K
+437 all 絕園的暴風雨
 926 all 刀劍神域 Sword Art Online
 1883 all 聖靈家族
 16600 all 寶可夢超級願望 第二季
@@ -725,6 +731,7 @@
 28 all 大耳查布 電影
 9750 all 假面騎士 OOO and W Feat Skull Movie 大戰 Core
 804 all 魔法禁書目錄 Ⅱ
+113 all 我的妹妹哪有這麼可愛！
 16444 all 寶可夢超級願望
 8490 all 假面騎士 OOO
 15651 all 劇場版動畫 借來的100天
