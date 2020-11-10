@@ -308,6 +308,7 @@
 11799 all 羽球戰爭！
 10085 all UQ HOLDER！悠久持有者！夏凜前輩不可告人的祕密
 13293 all 卡片戰鬥！！先導者
+9752 all 驚爆危機 Invisible Victory
 9668 all 最終休止符
 9742 all 惡魔高校 D×D HERO
 9676 all 黃金神威
@@ -331,8 +332,10 @@
 17516 all 文豪野犬 劇場版 DEAD APPLE
 15357 all 道別的早晨就用約定之花點綴吧
 16727 all 衛宮家今天的餐桌風景
+19288 all 驚爆危機 總集篇 第三部：Into the blue
 16395 all 劇場版 無敵鐵金剛 ／ INFINITY
 10089 all 劇場版 進擊的巨人 覺醒的咆哮
+19287 all 驚爆危機 總集篇 第二部：One-night stand
 9304 all 博多豚骨拉麵團
 9296 all 爆肝工程師的異世界狂想曲
 12882 all 廢柴王子
@@ -348,6 +351,7 @@
 16507 all 比宇宙更遠的地方
 9251 all IDOLiSH7 - 偶像星願 -
 11626 all 刀劍亂舞 - 花丸 - ～幕間回憶錄～
+19286 all 驚爆危機 總集篇 第一部：Boy meets girl
 15648 all 請問您今天要來點兔子嗎？ ～Dear My Sister～
 11471 all Fate/stay night [Heaven's Feel] I. 預示之花
 8788 all 3 月的獅子 第二季
