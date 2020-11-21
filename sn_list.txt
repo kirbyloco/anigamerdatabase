@@ -663,6 +663,7 @@
 7944 all NO GAME NO LIFE 遊戲人生
 2081 all 漫畫家與助手
 5510 all 金色琴弦 Blue Sky
+11177 all 魔法科高中的劣等生
 6271 all JOJO 的奇妙冒險 星塵遠征軍
 1481 all 惡魔謎題
 2178 all 平成騎士對昭和騎士 假面騎士大戰 feat. 超級戰隊
