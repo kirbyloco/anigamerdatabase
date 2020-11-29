@@ -690,6 +690,7 @@
 17096 all 闇芝居
 7956 all Fate/kaleid liner 魔法少女☆伊莉雅
 14945 all 新科學小飛俠
+7069 all 銀之匙
 7913 all BLOOD LAD 血意少年
 10349 all FREE! 男子游泳部
 16039 all 王者天下 第二季
