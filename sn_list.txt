@@ -219,6 +219,7 @@
 15655 all 灰色：幻影扳機 動畫版
 15287 all PSYCHO-PASS 心靈判官 Sinners of the System Case.3 恩仇的彼方
 15657 all 薩爾瑪的心願
+19738 all 超人力霸王 R/B 劇場版 決定了！羈絆的水晶
 16393 all 劇場版 王室教師海涅
 15172 all PSYCHO-PASS 心靈判官 Sinners of the System Case.2 First Guardian
 11795 all Fight League 交鋒聯盟
@@ -333,7 +334,10 @@
 11962 all 超人力霸王捷德 劇場版
 9638 all UQ HOLDER！悠久持有者！剎那永恆的初吻
 17516 all 文豪野犬 劇場版 DEAD APPLE
+19744 all EX-AID Trilogy Another・Ending 假面騎士 Genm VS Lazer
 15357 all 道別的早晨就用約定之花點綴吧
+19742 all EX-AID Trilogy Another・Ending 假面騎士 Para-DX with Poppy
+19740 all EX-AID Trilogy Another・Ending 假面騎士 Brave ＆ Snipe
 16727 all 衛宮家今天的餐桌風景
 19288 all 驚爆危機 總集篇 第三部：Into the blue
 16395 all 劇場版 無敵鐵金剛 ／ INFINITY
@@ -599,6 +603,7 @@
 10472 all Chaos Dragon 赤龍戰役
 10088 all 劇場版 進擊的巨人 後編 自由之翼
 15652 all 愛波的異想世界
+9327 all Love Live! 學園偶像 電影
 12616 all 你永遠是我的寶貝
 12216 all 劇場版 境界的彼方 未來篇
 11859 all 七龍珠 Z 劇場版：復活的「F」
@@ -691,6 +696,7 @@
 7956 all Fate/kaleid liner 魔法少女☆伊莉雅
 14945 all 新科學小飛俠
 7069 all 銀之匙
+19556 all 超人力霸王銀河
 7913 all BLOOD LAD 血意少年
 10349 all FREE! 男子游泳部
 16039 all 王者天下 第二季
@@ -706,6 +712,7 @@
 16771 all 寶可夢超級願望 第三季
 5682 all 花牌情緣 第二季
 54 all AMNESIA 失憶症
+2551 all Love Live! 學園偶像計畫
 10244 all 前進吧！登山少女
 12329 all 魔法少女小圓 後編 永遠的物語
 310 all Aikatsu! 偶像學園！
@@ -731,6 +738,7 @@
 5748 all 花牌情緣
 5575 all 獵人 Hunter x Hunter
 10408 all Fate/zero
+19725 all WORKING!!迷糊餐廳 第二季
 8544 all 假面騎士 FOURZE
 19023 all 蘋果核戰 XIII 劇場版～遺言～
 9816 all 超級戰隊 199 英雄大對決
@@ -752,6 +760,7 @@
 9817 all 重返再現！侍戰隊真劍者
 4360 all 古城荊棘王
 5037 all 變身公主 (2010)
+19712 all WORKING!!迷糊餐廳
 2179 all 侍戰隊 VS 炎神戰隊轟音者
 2 all 大耳查布
 16143 all 犬夜叉 完結篇
@@ -769,6 +778,7 @@
 9818 all 獸拳戰隊 香港大決戰
 18953 all BACCANO！大騷動！
 15438 all 琴之森
+19682 all 天元突破 紅蓮螺巖
 2189 all 轟轟戰隊冒險者 VS 超級戰隊
 1191 all 史上最強弟子兼一
 5205 all 家庭教師 HITMAN REBORN！
@@ -778,6 +788,7 @@
 13246 all 櫻蘭高校男公關部
 9825 all 魔法戰隊 VS 特搜戰隊
 9815 all 假面騎士 THE FIRST
+4357 all 鋼之鍊金術師 香巴拉的征服者 劇場版
 13629 all 企鵝家族 第六季
 18222 all 烘焙王
 7894 all 怪醫黑傑克
@@ -792,6 +803,7 @@
 13616 all 企鵝家族 第五季
 2185 all 忍風戰隊 vs 百獸戰隊
 16844 all 火影忍者
+19496 all 花田少年史
 11669 all 千年女優
 2180 all 忍風戰隊電影版
 11839 all 機動警察 迷你版
