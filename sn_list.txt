@@ -646,6 +646,7 @@
 10460 all TRINITY SEVEN 魔道書 7 使者
 1405 all 巴哈姆特之怒 GENESIS
 7688 all 我家浴室的二三事
+19900 all 飆速宅男 第二季
 8139 all 灰色的果實
 7900 all 魔彈之王與戰姬
 1354 all 尋找失去的未來
@@ -692,6 +693,7 @@
 8069 all 東京闇鴉
 1896 all 蒼翼默示錄 Alter Memory
 8093 all 機巧少女不會受傷
+19801 all 飆速宅男
 1051 all MAGI 魔奇少年 第二季
 2029 all Little Busters ! ～Refrain～
 196 all 來自風平浪靜的明日
