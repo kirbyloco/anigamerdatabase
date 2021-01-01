@@ -25,7 +25,11 @@ def get_anime_detail(sn: int, title: str):
     anime = requests.get(
         f'https://api.gamer.com.tw/mobile_app/anime/v1/video.php?&anime_sn={sn}').json()
     with open('sn_list.txt', 'a', encoding='UTF-8') as f:
-        f.write(f'{anime["video"]["video_sn"]} all {title}\n')
+        if 'anime' in anime:
+            f.write(f'{anime["video"]["video_sn"]} all {title}\n')
+        else:
+            return
+
     for _type in anime['anime']['volumes']:
         for _sn in anime['anime']['volumes'][_type]:
             if _type == '0':
@@ -46,6 +50,8 @@ if __name__ == "__main__":
             for _anime_sn in anime_list:
                 db[_anime_sn['title']] = {}
                 get_anime_detail(_anime_sn['anime_sn'], _anime_sn['title'])
+                if not db[_anime_sn['title']]:
+                    del db[_anime_sn['title']]
         else:
             break
     with open('anigamer.json', 'w', encoding='utf-8') as f:
