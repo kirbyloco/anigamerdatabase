@@ -1,3 +1,10 @@
+20454 all PUI PUI 天竺鼠車車
+20527 all 關於我轉生變成史萊姆這檔事 第二季
+20447 all 比方說，這是個出身魔王關附近的少年在新手村生活的故事
+20449 all 裏世界遠足
+20507 all 幼女社長
+20445 all 大人的防具店 第二季
+20342 all 花樣滑冰 Stars
 19849 all 進擊的巨人 The Final Season
 18820 all D4DJ First Mix
 18622 all 土下座跪求給看
@@ -190,6 +197,7 @@
 12642 all 彼方的阿斯特拉
 12640 all 魔術學姐
 12638 all 你遭難了嗎？
+20332 all 麵包超人劇場版 發光吧！冰淇淋王國的香草公主
 14826 all 青春豬頭少年不會夢到懷夢美少女
 14568 all 魔法少女☆伊莉雅 百變嘉年華
 14246 all 卡片戰鬥！！先導者 續高校篇
@@ -602,6 +610,7 @@
 7159 all 噬神者
 2157 all 無頭騎士異聞錄 DuRaRaRa!!×2 轉
 1263 all 夏洛特
+20348 all WORKING!!迷糊餐廳 第三季
 4939 all 潮與虎
 1148 all 黑街 GANGSTA.
 10472 all Chaos Dragon 赤龍戰役
@@ -646,6 +655,7 @@
 1405 all 巴哈姆特之怒 GENESIS
 7688 all 我家浴室的二三事
 19900 all 飆速宅男 第二季
+20363 all 假面騎士 Drive
 1354 all 尋找失去的未來
 10361 all Fate/stay night [Unlimited Blade Works]
 4506 all 天使與龍的輪舞
@@ -741,6 +751,7 @@
 10408 all Fate/zero
 19725 all WORKING!!迷糊餐廳 第二季
 8544 all 假面騎士 FOURZE
+4376 all 鋼之鍊金術師 嘆息之丘的聖星
 19023 all 蘋果核戰 XIII 劇場版～遺言～
 9816 all 超級戰隊 199 英雄大對決
 3524 all 青之驅魔師
@@ -763,6 +774,7 @@
 4360 all 古城荊棘王
 5037 all 變身公主 (2010)
 19712 all WORKING!!迷糊餐廳
+3165 all Angel Beats！
 2179 all 侍戰隊 VS 炎神戰隊轟音者
 2 all 大耳查布
 16143 all 犬夜叉 完結篇
