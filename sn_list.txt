@@ -1,3 +1,6 @@
+20600 all 轉生成蜘蛛又怎樣！
+20602 all BACK ARROW
+20604 all Praeter 之傷
 20553 all 搖滾少女!! STARS!!
 20555 all 搖曳露營△ 第二季
 20557 all 天地創造設計部
@@ -237,6 +240,7 @@
 15287 all PSYCHO-PASS 心靈判官 Sinners of the System Case.3 恩仇的彼方
 15657 all 薩爾瑪的心願
 19738 all 超人力霸王 R/B 劇場版 決定了！羈絆的水晶
+20631 all 大人的防具店 裏面
 16393 all 劇場版 王室教師海涅
 15172 all PSYCHO-PASS 心靈判官 Sinners of the System Case.2 First Guardian
 11795 all Fight League 交鋒聯盟
