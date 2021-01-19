@@ -728,6 +728,7 @@
 4655 all Aikatsu! 偶像學園！第2季
 18372 all KILL la KILL
 14827 all 單色小姐
+20748 all 劇場版 獸電戰隊強龍者 GABURINCHO OF MUSIC
 17096 all 闇芝居
 14945 all 新科學小飛俠
 7069 all 銀之匙
@@ -749,6 +750,7 @@
 54 all AMNESIA 失憶症
 2551 all Love Live! 學園偶像計畫
 10244 all 前進吧！登山少女
+20747 all 假面騎士 × 假面騎士 Wizard & Fourze MOVIE 大戰 Ultimatum
 12329 all 魔法少女小圓 後編 永遠的物語
 310 all Aikatsu! 偶像學園！
 1048 all MAGI 魔奇少年
