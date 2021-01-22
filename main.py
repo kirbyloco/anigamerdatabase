@@ -6,7 +6,8 @@ db = {}
 
 anime_url = 'https://api.gamer.com.tw/mobile_app/anime/v1/video.php?sn=16844&anime_sn=0'
 page = 1
-
+sess = requests.Session()
+sess.headers.update({'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36'})
 
 def cleansntxt():
     with open('sn_list.txt', 'w+', encoding='UTF-8') as f:
@@ -15,14 +16,14 @@ def cleansntxt():
 
 def get_anime_list():
     global page
-    anime_list = requests.get(
+    anime_list = sess.get(
         f'https://api.gamer.com.tw/mobile_app/anime/v1/list.php?page={page}').json()
     page += 1
     return anime_list
 
 
 def get_anime_detail(sn: int, title: str):
-    anime = requests.get(
+    anime = sess.get(
         f'https://api.gamer.com.tw/mobile_app/anime/v1/video.php?&anime_sn={sn}').json()
     with open('sn_list.txt', 'a', encoding='UTF-8') as f:
         if 'anime' in anime:
