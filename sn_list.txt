@@ -119,6 +119,7 @@
 15168 all 隱瞞之事
 15765 all 天地無用！魎皇鬼 第 5 期
 16885 all 世界一初戀～求婚編～
+20958 all 星光王子 舞台劇 Over the Sunshine！
 14862 all ACCA13 區監察課 Regards
 16590 all 哥布林殺手 -GOBLIN’S CROWN-
 14496 all BanG Dream！第三季
@@ -264,6 +265,7 @@
 11441 all 巴哈姆特之怒 -Manaria Friends-
 17247 all 來自深淵 劇場版總集篇 後編：流浪之黃昏
 11437 all 荒野的壽飛行隊
+20847 all 彼時彼女
 11431 all 輝夜姬想讓人告白～天才們的戀愛頭腦戰～
 11433 all ENDRO！
 11417 all 百慕達三角～多彩田園曲～
@@ -392,6 +394,7 @@
 16507 all 比宇宙更遠的地方
 9251 all IDOLiSH7 - 偶像星願 -
 20708 all 少女與戰車 最終章 第1話
+20709 all 假面騎士 平成世代 巔峰決戰 BUILD&EX-AID with 傳說騎士
 11626 all 刀劍亂舞 - 花丸 - ～幕間回憶錄～
 19286 all 驚爆危機 總集篇 第一部：Boy meets girl
 15648 all 請問您今天要來點兔子嗎？ ～Dear My Sister～
@@ -433,6 +436,7 @@
 12040 all 超人力霸王捷德
 8327 all 時間支配者
 8325 all 來自深淵
+20834 all 18if 夢境異聞錄
 8312 all 最遊記 RELOAD BLAST
 8322 all 徒然喜歡你
 8321 all 單蠢女孩
@@ -586,6 +590,7 @@
 11689 all 灰與幻想的格林姆迦爾
 12618 all 魔法護士小麥 R
 17122 all 闇芝居 第三季
+20535 all Dimension W 維度戰記
 4616 all 無頭騎士異聞錄 DuRaRaRa!!×2 結
 4612 all Luck & Logic
 8604 all 星光美男 彩虹舞台
