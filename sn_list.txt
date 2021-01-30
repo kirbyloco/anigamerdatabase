@@ -328,6 +328,7 @@
 14390 all 企鵝公路
 10928 all K Seven Stories SIDE:BLUE ～猶如天狼～
 15559 all 快盜戰隊魯邦連者 VS 警察戰隊巡邏連者 en film
+20959 all 劇場版 假面騎士 Build Be The One
 12423 all 付喪神出租中！
 10484 all 進擊的巨人 第三季
 10401 all 紅蓮之王
@@ -721,6 +722,7 @@
 5510 all 金色琴弦 Blue Sky
 11177 all 魔法科高中的劣等生
 6271 all JOJO 的奇妙冒險 星塵遠征軍
+21111 all 蟲師 續章
 1481 all 惡魔謎題
 2178 all 平成騎士對昭和騎士 假面騎士大戰 feat. 超級戰隊
 17887 all Little Busters ! EX
