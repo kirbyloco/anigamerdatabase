@@ -702,6 +702,7 @@
 6094 all TERRA FORMARS 火星任務
 2177 all 劇場版 假面騎士 鎧武 足球大決戰！黃金的果實爭奪盃！
 2190 all 烈車戰隊特急者 THE MOVIE Galaxy Line SOS
+20998 all 超人力霸王銀河 S
 16884 all K MISSING KINGS
 878 all 三坪房間的侵略者！？
 1125 all 黑執事 馬戲團篇
@@ -751,6 +752,7 @@
 7069 all 銀之匙
 19556 all 超人力霸王銀河
 7913 all BLOOD LAD 血意少年
+21030 all SERVANT × SERVICE 迷糊公務員
 10349 all FREE! 男子游泳部
 16039 all 王者天下 第二季
 10131 all 假面騎士×超級戰隊×宇宙刑事 超級英雄大戰 Z
@@ -780,6 +782,7 @@
 1883 all 聖靈家族
 16600 all 寶可夢超級願望 第二季
 15785 all 王者天下
+21108 all 血戰-C：The Last Dark
 90 all 冰菓
 10039 all 假面騎士×超級戰隊 超級英雄大戰
 10409 all Fate/zero 第二季
@@ -813,12 +816,16 @@
 9748 all 假面騎士 FOREVER W - A to Z 命運的記憶體
 9749 all 天裝戰隊護星者 epic ON THE MOVIE
 19783 all 黑執事 II
+21191 all 假面騎士×假面騎士×假面騎士 THE MOVIE 超・電王 Trilogy EPISODE YELLOW
 9817 all 重返再現！侍戰隊真劍者
+21190 all 假面騎士×假面騎士×假面騎士 THE MOVIE 超・電王 Trilogy EPISODE BLUE
+21188 all 假面騎士×假面騎士×假面騎士 THE MOVIE 超・電王 Trilogy EPISODE RED
 4360 all 古城荊棘王
 5037 all 變身公主 (2010)
 19712 all WORKING!!迷糊餐廳
 3165 all Angel Beats！
 2179 all 侍戰隊 VS 炎神戰隊轟音者
+21082 all 無頭騎士異聞錄 DuRaRaRa!!
 2 all 大耳查布
 16143 all 犬夜叉 完結篇
 4581 all 魔法禁書目錄外傳 科學超電磁砲
@@ -830,6 +837,7 @@
 20749 all 地獄少女 三鼎
 19759 all 黑執事
 16266 all 虎與龍 TIGER×DRAGON!
+21043 all 天元突破 紅蓮螺巖 紅蓮篇
 2182 all 炎神戰隊轟音者劇場版
 2170 all 假面騎士牙 魔界城之王
 2187 all 獸拳戰隊激氣連者 VS 冒險者
