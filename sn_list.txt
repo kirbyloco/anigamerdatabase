@@ -286,6 +286,7 @@
 11390 all 笑容的代價
 16536 all 來自深淵 劇場版總集篇 前編：啟程的黎明
 11388 all BanG Dream！第二季
+21109 all 假面騎士 平成世代 Forever
 11682 all K Seven Stories Circle Vision ～Nameless Song～
 14489 all 機動戰士鋼彈 NT
 18782 all 續·終物語
@@ -536,6 +537,7 @@
 10220 all 終末的伊澤塔
 11268 all ViVid Strike！
 17437 all 烏龍派出所特別篇 - The Final 兩津勘吉的最後一天
+21266 all 飆速宅男 SPARE BIKE
 14076 all 七大罪 聖戰的預兆
 20996 all 傷物語 II 熱血篇
 15658 all 起源：首爾車站
@@ -636,6 +638,7 @@
 7232 all 青年黑傑克
 8747 all Aikatsu! 偶像學園！第4季
 3039 all 魔鬼戀人 第二季
+21318 all 飆速宅男 劇場版
 8272 all 劇場版 假面騎士 Drive SURPRISE FUTURE
 11040 all 手裏劍戰隊忍忍者 THE MOVIE 恐龍殿下的驚天忍法帖！
 11812 all 超人力霸王 X
