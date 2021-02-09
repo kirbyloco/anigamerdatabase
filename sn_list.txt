@@ -28,8 +28,10 @@
 20507 all 幼女社長
 20445 all 大人的防具店 第二季
 20342 all 花樣滑冰 Stars
+21356 all 鬼滅之刃特別編集版：柱合會議蝶屋敷篇
 19849 all 進擊的巨人 The Final Season
 18820 all D4DJ First Mix
+21373 all 鬼滅之刃特別編集版：那田蜘蛛山篇
 18622 all 土下座跪求給看
 18559 all 阿松 第三季
 18612 all 光之戰記 -ZUERST-
@@ -252,6 +254,7 @@
 12077 all 戀愛幕末男友外傳-危機
 12076 all 一拳超人 (第二季)
 12086 all 鑽石王牌 act2
+21354 all 鬼滅之刃特別編集版：兄妹之絆
 15655 all 灰色：幻影扳機 動畫版
 15287 all PSYCHO-PASS 心靈判官 Sinners of the System Case.3 恩仇的彼方
 15657 all 薩爾瑪的心願
