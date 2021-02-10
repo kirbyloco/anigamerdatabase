@@ -167,6 +167,7 @@
 13854 all 美妙射擊部
 13805 all 刀劍神域 Alicization War of Underworld
 13846 all 我的英雄學院 第四季
+21265 all 星光王子 舞台劇 Rose Party
 13844 all 廚神小當家
 13842 all 食戟之靈 神之皿
 13937 all 星合之空
