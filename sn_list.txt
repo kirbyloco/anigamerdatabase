@@ -366,6 +366,7 @@
 9684 all 刀劍神域外傳 Gun Gale Online
 9744 all 藍海少女 第二季
 10991 all 劇場版 吸血鬼僕人 -Alice in the Garden-
+21138 all 棒球大聯盟 2nd
 9664 all 錢進球場
 13886 all 香蕉怪大叔 呐呐~呐
 10133 all 多田君不戀愛
