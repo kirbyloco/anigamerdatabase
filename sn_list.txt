@@ -657,6 +657,7 @@
 1302 all 學園孤島
 9908 all 空戰魔導士培訓生的教官
 9932 all 純情羅曼史 3
+21610 all 我家有個魚乾妹
 7244 all 魔物娘的同居日常
 1920 all 赤髮白雪姬
 13452 all 新科學小飛俠 insight
@@ -807,6 +808,7 @@
 4643 all 男子高校生的日常
 19027 all 假面騎士 × 假面騎士 Fourze＆OOO MOVIE 大戰 MEGA MAX
 19024 all 蘋果核戰 XIII 劇場版～預言～
+11466 all 電影 K-ON！輕音部
 9507 all Guilty Crown 罪惡王冠
 5748 all 花牌情緣
 5575 all 獵人 Hunter x Hunter
