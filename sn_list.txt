@@ -753,6 +753,7 @@
 10992 all 達洋貓
 1 all 刀劍神域 Extra Edition
 12331 all 魔法少女小圓 新編 叛逆的物語
+21720 all 寶可夢 XY
 1896 all 蒼翼默示錄 Alter Memory
 8093 all 機巧少女不會受傷
 19801 all 飆速宅男
