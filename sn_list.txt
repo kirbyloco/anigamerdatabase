@@ -377,7 +377,7 @@
 13886 all 香蕉怪大叔 呐呐~呐
 10133 all 多田君不戀愛
 14020 all Aikatsu! 偶像學園！Friends
-21796 all MEGALOBOX
+21796 all MEGALOBOX 機甲拳擊
 12004 all 東京喰種：re
 9672 all 宇宙戰艦提拉米斯
 9680 all 妖怪旅館營業中
