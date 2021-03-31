@@ -1,3 +1,5 @@
+22240 all 擾亂 THE PRINCESS OF SNOW AND BLOOD
+22251 all 東京復仇者
 22161 all 憂國的莫里亞蒂 第一季 後半
 22198 all 我的英雄學院 第五季
 21881 all 魔法水果籃 最終季
@@ -611,7 +613,6 @@
 4996 all Re：從零開始的異世界生活
 4995 all 當女孩遇到熊
 11015 all 逆轉裁判
-5000 all TERRA FORMARS 火星任務 復仇
 4994 all JOJO 的奇妙冒險 不滅鑽石
 8274 all 假面騎士 1 號
 11041 all 手裏劍戰隊忍忍者 VS 烈車戰隊特急者 THE MOVIE
@@ -725,7 +726,6 @@
 4506 all 天使與龍的輪舞
 20810 all 神偷怪盜 1412
 7418 all Aikatsu! 偶像學園！第3季
-6094 all TERRA FORMARS 火星任務
 2177 all 劇場版 假面騎士 鎧武 足球大決戰！黃金的果實爭奪盃！
 2190 all 烈車戰隊特急者 THE MOVIE Galaxy Line SOS
 20998 all 超人力霸王銀河 S
