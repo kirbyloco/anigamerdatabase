@@ -1,3 +1,4 @@
+22216 all 義呆利 World Stars
 22240 all 擾亂 THE PRINCESS OF SNOW AND BLOOD
 22251 all 東京復仇者
 22161 all 憂國的莫里亞蒂 第一季 後半
@@ -75,6 +76,7 @@
 18370 all 無能力者娜娜
 18369 all 憂國的莫里亞蒂 第一季
 18215 all 熊熊勇闖異世界
+22070 all 佐賀偶像是傳奇 舞台劇 Stage de Dooon！
 16952 all 我的英雄學院 OVA：活下來！殊死的生存訓練
 16437 all 進擊的巨人 劇場版 CHRONICLE
 16429 all GIBIATE 獵魔武士
@@ -261,6 +263,7 @@
 12080 all 滿腦都是○○的我沒辦法談戀愛
 12079 all 川柳少女
 12077 all 戀愛幕末男友外傳-危機
+22100 all Aikatsu! 偶像學園！Friends 第二季
 12076 all 一拳超人 (第二季)
 12086 all 鑽石王牌 act2
 21354 all 鬼滅之刃特別編集版：兄妹之絆
@@ -346,6 +349,7 @@
 20959 all 劇場版 假面騎士 Build Be The One
 12423 all 付喪神出租中！
 10484 all 進擊的巨人 第三季
+22154 all 炎神戰隊轟音者 10 YEARS GRANDPRIX
 10401 all 紅蓮之王
 12739 all Angolmois 元寇合戰記
 12448 all OVERLORD 第三季
@@ -364,6 +368,7 @@
 12560 all 中間管理錄利根川
 10147 all 前進吧！登山少女 第三季
 11799 all 羽球戰爭！
+22152 all 宇宙戰隊九連者 VS SPACE SQUAD
 10085 all UQ HOLDER！悠久持有者！夏凜前輩不可告人的祕密
 13293 all 卡片戰鬥！！先導者
 9752 all 驚爆危機 Invisible Victory
@@ -592,9 +597,7 @@
 16406 all 排球少年！！VS 掛科
 7020 all 蠟筆小新電影 爆睡 夢世界大作戰！
 6156 all 至高指令
-12252 all 任性 High-Spec
 5011 all 飛翔的魔女
-19265 all 三者三葉
 15709 all 境界之Rinne 第二季
 18629 all 高校艦隊
 21964 all 田中君總是如此慵懶
@@ -606,7 +609,6 @@
 8215 all 超級戀人
 4998 all 雙星之陰陽師
 4999 all 少年阿貝GO！GO！小芝麻
-18804 all JOKER GAME
 4997 all Hundred 百武裝戰記
 19296 all 爆音少女!!
 20192 all 12歲。～小小的怦然心動～
@@ -626,7 +628,6 @@
 4616 all 無頭騎士異聞錄 DuRaRaRa!!×2 結
 4612 all Luck & Logic
 8604 all 星光美男 彩虹舞台
-15660 all 神聖之門 Divine Gate
 8235 all 百無禁忌！女高中生私房話
 15777 all 魯邦三世 義大利遊戲
 19992 all 昭和元祿 落語心中
@@ -637,7 +638,6 @@
 12505 all Active Raid -機動強襲室第八組-
 15925 all 無彩限的幻影世界
 18396 all 春 & 夏推理事件簿
-15672 all 疾走王子 Alternative
 11013 all 達洋貓：不可思議劇場
 7895 all 假面騎士Ghost&Drive
 12163 all 和諧
@@ -677,6 +677,7 @@
 2157 all 無頭騎士異聞錄 DuRaRaRa!!×2 轉
 1263 all 夏洛特
 20348 all WORKING!!迷糊餐廳 第三季
+22042 all 六花的勇者
 4939 all 潮與虎
 10472 all Chaos Dragon 赤龍戰役
 10088 all 劇場版 進擊的巨人 後編 自由之翼
@@ -753,6 +754,7 @@
 1481 all 惡魔謎題
 2178 all 平成騎士對昭和騎士 假面騎士大戰 feat. 超級戰隊
 17887 all Little Busters ! EX
+22072 all 偶像大師 劇場版 前往光輝的另一端！
 2192 all 獸電戰隊強龍者 VS Go Busters 恐龍大決戰！ 再見永遠的朋友啊
 66 all WIZARD BARRISTERS～弁魔士賽希爾
 1012 all 鬼燈的冷徹
@@ -807,6 +809,7 @@
 10649 all K
 437 all 絕園的暴風雨
 21634 all 特命戰隊 Go Busters THE MOVIE 保護東京 Enetower!
+22155 all 超人力霸王傑洛 FIGHT 劇場版
 926 all 刀劍神域 Sword Art Online
 1883 all 聖靈家族
 16600 all 寶可夢超級願望 第二季
@@ -826,6 +829,7 @@
 5575 all 獵人 Hunter x Hunter
 10408 all Fate/zero
 19725 all WORKING!!迷糊餐廳 第二季
+22054 all 螢火之森
 8544 all 假面騎士 FOURZE
 21636 all 海賊戰隊豪快者 The Movie 飛天幽靈船
 3980 all 偶像大師
