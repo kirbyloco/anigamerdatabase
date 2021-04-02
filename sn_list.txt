@@ -717,6 +717,7 @@
 10087 all 劇場版 進擊的巨人 前編 紅蓮的弓矢
 13698 all 史努比 (2014)
 14757 all 白箱 SHIROBAKO
+22163 all 四月是你的謊言
 10460 all TRINITY SEVEN 魔道書 7 使者
 1405 all 巴哈姆特之怒 GENESIS
 7688 all 我家浴室的二三事
@@ -747,6 +748,7 @@
 1908 all 請問您今天要來點兔子嗎？
 7944 all NO GAME NO LIFE 遊戲人生
 2081 all 漫畫家與助手
+22080 all 一週的朋友。
 5510 all 金色琴弦 Blue Sky
 11177 all 魔法科高中的劣等生
 6271 all JOJO 的奇妙冒險 星塵遠征軍
@@ -775,6 +777,7 @@
 4172 all IS 〈Infinite Stratos〉第二季
 4655 all Aikatsu! 偶像學園！第2季
 18372 all KILL la KILL
+3308 all 境界的彼方
 14827 all 單色小姐
 20748 all 劇場版 獸電戰隊強龍者 GABURINCHO OF MUSIC
 17096 all 闇芝居
