@@ -1,5 +1,7 @@
+22226 all Vivy -Fluorite Eye's Song-
 22217 all 灼熱卡巴迪
 22218 all 真白之音
+22219 all 卡片戰鬥!! 先導者 overdress
 22333 all 壽司大相撲
 22216 all 義呆利 World Stars
 22240 all 擾亂 THE PRINCESS OF SNOW AND BLOOD
@@ -275,6 +277,7 @@
 15657 all 薩爾瑪的心願
 19738 all 超人力霸王 R/B 劇場版 決定了！羈絆的水晶
 20631 all 大人的防具店 裏面
+22254 all 鬼滅之刃 鬼滅電台
 16393 all 劇場版 王室教師海涅
 15172 all PSYCHO-PASS 心靈判官 Sinners of the System Case.2 First Guardian
 11795 all Fight League 交鋒聯盟
@@ -613,7 +616,6 @@
 4998 all 雙星之陰陽師
 4999 all 少年阿貝GO！GO！小芝麻
 4997 all Hundred 百武裝戰記
-19296 all 爆音少女!!
 20192 all 12歲。～小小的怦然心動～
 4996 all Re：從零開始的異世界生活
 4995 all 當女孩遇到熊
