@@ -1,3 +1,6 @@
+22246 all SHADOWS HOUSE-影宅-
+22245 all 86－不存在的戰區－
+22243 all 持續狩獵史萊姆三百年，不知不覺就練到 LV MAX
 22242 all 美麗新世界 The Animation
 22241 all BLUE REFLECTION : 澪
 22250 all 後空翻少年!!
@@ -22,7 +25,7 @@
 22216 all 義呆利 World Stars
 22240 all 擾亂 THE PRINCESS OF SNOW AND BLOOD
 22289 all 如果究極進化的完全沉浸 RPG 比現實還更像垃圾遊戲的話
-22251 all 東京復仇者
+22247 all 東京復仇者
 22161 all 憂國的莫里亞蒂 第一季 後半
 22198 all 我的英雄學院 第五季
 21881 all 魔法水果籃 最終季
