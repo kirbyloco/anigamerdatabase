@@ -530,6 +530,7 @@
 14882 all 慕留人 - 火影新世代 -
 7590 all 重啟咲良田
 7580 all 武裝少女 Machiavellism
+22336 all 不正經的魔術講師與禁忌教典
 7613 all 少年阿貝GO！GO！小芝麻 第二季
 7586 all 王室教師海涅
 7579 all 機甲少女 Frame Arms Girl
@@ -656,6 +657,7 @@
 8604 all 星光美男 彩虹舞台
 4612 all Luck & Logic
 4616 all 無頭騎士異聞錄 DuRaRaRa!!×2 結
+22360 all GATE 奇幻自衛隊 第二季
 20995 all 傷物語 I 鐵血篇
 19992 all 昭和元祿 落語心中
 15777 all 魯邦三世 義大利遊戲
@@ -705,6 +707,7 @@
 20348 all WORKING!!迷糊餐廳 第三季
 1263 all 夏洛特
 2157 all 無頭騎士異聞錄 DuRaRaRa!!×2 轉
+22348 all GATE 奇幻自衛隊
 4939 all 潮與虎
 10472 all Chaos Dragon 赤龍戰役
 10088 all 劇場版 進擊的巨人 後編 自由之翼
