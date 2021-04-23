@@ -447,6 +447,7 @@
 9323 all 學園奶爸
 11614 all 刀劍亂舞 - 花丸 - 續篇
 9357 all 庫洛魔法使 透明牌篇
+22513 all 慢活開始
 14080 all 七大罪 戒律的復活
 9300 all 伊藤潤二驚選集
 9693 all 皇帝聖印戰記
@@ -618,6 +619,7 @@
 19746 all New Game!
 14957 all 齊木楠雄的災難
 8040 all 香蕉喵
+22383 all DAYS
 18460 all Rewrite
 11578 all B-PROJECT～鼓動＊Ambitious～
 5793 all 小桃小栗 Love Love 物語
