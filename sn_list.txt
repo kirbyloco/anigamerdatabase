@@ -107,6 +107,7 @@
 18369 all 憂國的莫里亞蒂 第一季
 18215 all 熊熊勇闖異世界
 22070 all 佐賀偶像是傳奇 舞台劇 Stage de Dooon！
+22680 all GIVEN 被贈與的未來 劇場版
 16952 all 我的英雄學院 OVA：活下來！殊死的生存訓練
 16437 all 進擊的巨人 劇場版 CHRONICLE
 16429 all GIBIATE 獵魔武士
@@ -872,6 +873,7 @@
 9750 all 假面騎士 OOO and W Feat Skull Movie 大戰 Core
 28 all 大耳查布 電影
 21609 all 超極銀河傳說外傳 超人力霸王ZERO VS 黑暗ZERO
+22681 all 超時空甩尾
 804 all 魔法禁書目錄 Ⅱ
 113 all 我的妹妹哪有這麼可愛！
 16444 all 寶可夢超級願望
