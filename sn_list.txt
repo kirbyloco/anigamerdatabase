@@ -334,6 +334,7 @@
 11390 all 笑容的代價
 11388 all BanG Dream！第二季
 21109 all 假面騎士 平成世代 Forever
+22875 all 電影版妖怪手錶：永遠的朋友
 11682 all K Seven Stories Circle Vision ～Nameless Song～
 14489 all 機動戰士鋼彈 NT
 18782 all 續·終物語
@@ -456,6 +457,7 @@
 21671 all 搖曳露營△
 16507 all 比宇宙更遠的地方
 9251 all IDOLiSH7 - 偶像星願 -
+22877 all 電影版妖怪手錶：光影之卷鬼王的復活
 20709 all 假面騎士 平成世代 巔峰決戰 BUILD&EX-AID with 傳說騎士
 20708 all 少女與戰車 最終章 第1話
 11626 all 刀劍亂舞 - 花丸 - ～幕間回憶錄～
@@ -618,7 +620,6 @@
 8040 all 香蕉喵
 22383 all DAYS
 18460 all Rewrite
-11578 all B-PROJECT～鼓動＊Ambitious～
 5793 all 小桃小栗 Love Love 物語
 10175 all ReLIFE 重返 17 歲
 15873 all 不愉快的妖怪庵
