@@ -67,6 +67,7 @@
 20342 all 花樣滑冰 Stars
 21356 all 鬼滅之刃特別編集版：柱合會議蝶屋敷篇
 19849 all 進擊的巨人 The Final Season
+22880 all 約會大作戰 DATE A BULLET 赤黑新章：紅或白
 18820 all D4DJ First Mix
 21373 all 鬼滅之刃特別編集版：那田蜘蛛山篇
 18622 all 土下座跪求給看
@@ -109,6 +110,7 @@
 22070 all 佐賀偶像是傳奇 舞台劇 Stage de Dooon！
 22680 all GIVEN 被贈與的未來 劇場版
 16952 all 我的英雄學院 OVA：活下來！殊死的生存訓練
+22879 all 約會大作戰 DATE A BULLET 赤黑新章：虛或實
 16437 all 進擊的巨人 劇場版 CHRONICLE
 16429 all GIBIATE 獵魔武士
 16404 all 忍者收藏
@@ -620,6 +622,7 @@
 8040 all 香蕉喵
 22383 all DAYS
 18460 all Rewrite
+11578 all B-PROJECT～鼓動＊Ambitious～
 5793 all 小桃小栗 Love Love 物語
 10175 all ReLIFE 重返 17 歲
 15873 all 不愉快的妖怪庵
@@ -637,6 +640,7 @@
 14933 all 甲鐵城的卡巴內里
 4998 all 雙星之陰陽師
 8215 all 超級戀人
+6130 all 文豪野犬
 4999 all 少年阿貝GO！GO！小芝麻
 20192 all 12歲。～小小的怦然心動～
 4997 all Hundred 百武裝戰記
