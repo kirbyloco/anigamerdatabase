@@ -772,6 +772,7 @@
 20998 all 超人力霸王銀河 S
 16884 all K MISSING KINGS
 878 all 三坪房間的侵略者！？
+23088 all 女神異聞錄 4 黃金版
 1125 all 黑執事 馬戲團篇
 10259 all 前進吧！登山少女 第二季
 17109 all 闇芝居 第二季
@@ -870,6 +871,7 @@
 19027 all 假面騎士 × 假面騎士 Fourze＆OOO MOVIE 大戰 MEGA MAX
 11466 all 電影 K-ON！輕音部
 9507 all Guilty Crown 罪惡王冠
+10551 all 女神異聞錄 4
 5748 all 花牌情緣
 5575 all 獵人 Hunter x Hunter
 19725 all WORKING!!迷糊餐廳 第二季
