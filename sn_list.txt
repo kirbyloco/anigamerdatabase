@@ -416,6 +416,7 @@
 9676 all 黃金神威
 15531 all 溫泉屋小女將
 13396 all 食戟之靈 餐之皿 遠月列車篇
+23063 all DEVILSLINE 惡魔戰線
 21138 all 棒球大聯盟 2nd
 10991 all 劇場版 吸血鬼僕人 -Alice in the Garden-
 9744 all 藍海少女 第二季
@@ -626,6 +627,7 @@
 19746 all New Game!
 14957 all 齊木楠雄的災難
 8040 all 香蕉喵
+23164 all Orange 橘色奇蹟
 22383 all DAYS
 18460 all Rewrite
 11578 all B-PROJECT～鼓動＊Ambitious～
