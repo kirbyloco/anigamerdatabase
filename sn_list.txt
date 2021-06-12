@@ -68,6 +68,7 @@
 20342 all 花樣滑冰 Stars
 21356 all 鬼滅之刃特別編集版：柱合會議蝶屋敷篇
 19849 all 進擊的巨人 The Final Season
+23101 all Fate/Grand Order - 神聖圓桌領域卡美洛 - Wandering；Agateram
 22880 all 約會大作戰 DATE A BULLET 赤黑新章：紅或白
 18820 all D4DJ First Mix
 21373 all 鬼滅之刃特別編集版：那田蜘蛛山篇
@@ -276,6 +277,7 @@
 20332 all 麵包超人劇場版 發光吧！冰淇淋王國的香草公主
 23066 all 少女與戰車 最終章 第2話
 14826 all 青春豬頭少年不會夢到懷夢美少女
+23100 all 劇場版 歌之☆王子殿下♪真愛 KINGDOM
 14568 all 魔法少女☆伊莉雅 百變嘉年華
 14246 all 卡片戰鬥！！先導者 續高校篇
 22575 all 快盜戰隊魯邦連者 VS 警察戰隊巡邏連者 VS 宇宙戰隊九連者
