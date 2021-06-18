@@ -413,6 +413,7 @@
 10085 all UQ HOLDER！悠久持有者！夏凜前輩不可告人的祕密
 13293 all 卡片戰鬥！！先導者
 9752 all 驚爆危機 Invisible Victory
+23183 all 奴隸區 The Animation
 9668 all 最終休止符
 9742 all 惡魔高校 D×D HERO
 9676 all 黃金神威
@@ -724,7 +725,7 @@
 4939 all 潮與虎
 10472 all Chaos Dragon 赤龍戰役
 10088 all 劇場版 進擊的巨人 後編 自由之翼
-9327 all Love Live! 學園偶像 電影
+9327 all Love Live! 電影
 12616 all 你永遠是我的寶貝
 12216 all 劇場版 境界的彼方 未來篇
 11859 all 七龍珠 Z 劇場版：復活的「F」
@@ -847,7 +848,7 @@
 16771 all 寶可夢超級願望 第三季
 5682 all 花牌情緣 第二季
 54 all AMNESIA 失憶症
-2551 all Love Live! 學園偶像計畫
+2551 all Love Live! 第一季
 10244 all 前進吧！登山少女
 20747 all 假面騎士 × 假面騎士 Wizard & Fourze MOVIE 大戰 Ultimatum
 12329 all 魔法少女小圓 後編 永遠的物語
@@ -973,6 +974,7 @@
 11838 all 機動警察 劇場版 3
 12590 all 帕盧姆之樹
 11648 all 秀逗魔導士 PREMIUM
+6719 all 神劍闖江湖 星霜篇
 18031 all 棋靈王
 2184 all 百獸戰隊電影版
 2188 all 百獸戰隊 VS 超級戰隊
