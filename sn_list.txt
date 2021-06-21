@@ -448,6 +448,7 @@
 19740 all EX-AID Trilogy Another・Ending 假面騎士 Brave ＆ Snipe
 16727 all 衛宮家今天的餐桌風景
 19288 all 驚爆危機 總集篇 第三部：Into the blue
+23195 all DARLING in the FRANXX
 19287 all 驚爆危機 總集篇 第二部：One-night stand
 10089 all 劇場版 進擊的巨人 覺醒的咆哮
 16395 all 劇場版 無敵鐵金剛 ／ INFINITY
@@ -703,6 +704,7 @@
 7232 all 青年黑傑克
 15943 all 魯邦三世 PART4
 7172 all 槍與假面舞會
+23177 all 水星領航員 ARIA THE AVVENIRE
 3039 all 魔鬼戀人 第二季
 21318 all 飆速宅男 劇場版
 11040 all 手裏劍戰隊忍忍者 THE MOVIE 恐龍殿下的驚天忍法帖！
