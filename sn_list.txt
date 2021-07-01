@@ -635,7 +635,6 @@
 23164 all Orange 橘色奇蹟
 22383 all DAYS
 18460 all Rewrite
-11578 all B-PROJECT～鼓動＊Ambitious～
 5793 all 小桃小栗 Love Love 物語
 10175 all ReLIFE 重返 17 歲
 15873 all 不愉快的妖怪庵
@@ -754,8 +753,6 @@
 12487 all 銃皇無盡的法夫納
 8152 all 幸腹塗鴉
 11338 all 超人力霸王勝利 超級戰鬥
-11049 all 新妹魔王的契約者
-11290 all 艦隊 Collection
 1859 all 美男高校地球防衛部LOVE!
 1835 all 百合熊風暴
 11009 all 達洋貓：穿越時空的奪色冒險
@@ -974,7 +971,7 @@
 19496 all 花田少年史
 2180 all 忍風戰隊電影版
 11839 all 機動警察 迷你版
-1633 all 我們這一家
+1658 all 我們這一家
 22536 all 十二國記
 11838 all 機動警察 劇場版 3
 12590 all 帕盧姆之樹
