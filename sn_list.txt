@@ -97,6 +97,7 @@
 20507 all 幼女社長
 20342 all 花樣滑冰 Stars
 21356 all 鬼滅之刃特別編集版：柱合會議蝶屋敷篇
+24069 all 劇場版《假面騎士 ZERO-ONE REAL×TIME》＆劇場短篇 《假面騎士聖刃 不死鳥的劍士與破滅之書》
 19849 all 進擊的巨人 The Final Season
 23101 all Fate/Grand Order - 神聖圓桌領域卡美洛 - Wandering；Agateram
 22880 all 約會大作戰 DATE A BULLET 赤黑新章：紅或白
@@ -204,6 +205,7 @@
 21526 all 星光王子 舞台劇 Shiny Rose Stars
 20958 all 星光王子 舞台劇 Over the Sunshine！
 14862 all ACCA13 區監察課 Regards
+24070 all 築夢奇蹟
 16590 all 哥布林殺手 -GOBLIN’S CROWN-
 14496 all BanG Dream！第三季
 16618 all 排球少年！！陸 VS 空＆球之道
@@ -262,6 +264,7 @@
 19536 all 歌塑世界 -Songs Connection-
 13919 all 非洲的動物上班族
 13850 all 警視廳特務部特殊凶惡犯對策室第七課
+24073 all Aikatsu! 偶像學園！On Parade!
 13848 all 一弦定音！第二季
 13813 all 我們真的學不來！第二季
 13809 all 入間同學入魔了
@@ -321,6 +324,7 @@
 13492 all 香蕉怪大叔 呐呐~呐　驚奇的洞穴國度
 12682 all 請讓我撒嬌，仙狐大人！
 12122 all 強襲魔女 501 部隊出動！
+24123 all 南無阿彌陀佛！-蓮台 UTENA-
 12088 all 高中女生
 12089 all 信長老師的年幼妻子
 12087 all 超可動女孩 1/6
@@ -894,6 +898,7 @@
 2551 all Love Live! 第一季
 10244 all 前進吧！登山少女
 20747 all 假面騎士 × 假面騎士 Wizard & Fourze MOVIE 大戰 Ultimatum
+24066 all 宇宙刑事卡邦 THE MOVIE
 12329 all 魔法少女小圓 後編 永遠的物語
 310 all Aikatsu! 偶像學園！
 1048 all MAGI 魔奇少年
@@ -929,8 +934,10 @@
 10408 all Fate/zero
 22054 all 螢火之森
 8544 all 假面騎士 FOURZE
+24065 all 假面騎士 OOO WONDERFUL 將軍與 21 枚核心硬幣
 21636 all 海賊戰隊豪快者 The Movie 飛天幽靈船
 3980 all 偶像大師
+1276 all 夏目友人帳 參
 4376 all 鋼之鍊金術師 嘆息之丘的聖星
 19023 all 蘋果核戰 XIII 劇場版～遺言～
 9816 all 超級戰隊 199 英雄大對決
@@ -1014,6 +1021,7 @@
 7896 all 怪醫黑傑克特別版 4 個生命奇蹟
 11856 all 東京教父
 6654 all 鋼之鍊金術師 2003
+24064 all 第一神拳 間柴 VS 木村 死刑執行
 2183 all 爆龍戰隊電影版
 13616 all 企鵝家族 第五季
 22893 all 十二國記 第二季
@@ -1034,6 +1042,7 @@
 18031 all 棋靈王
 2184 all 百獸戰隊電影版
 2188 all 百獸戰隊 VS 超級戰隊
+23806 all 通靈王 (2001)
 23502 all 電影 哆啦A夢 大雄與翼之勇者
 9824 all 未來戰隊 VS 救急戰隊
 11668 all 幸運女神 劇場版
@@ -1059,6 +1068,7 @@
 6714 all 神劍闖江湖 維新志士的鎮魂歌
 21194 all 超魔神英雄傳
 11646 all 秀逗魔導士 GREAT
+24012 all 中華一番
 9819 all 激走戰隊 VS 超力戰隊
 11645 all 秀逗魔導士 RETURN
 12585 all 水晶國傳說 OVA
