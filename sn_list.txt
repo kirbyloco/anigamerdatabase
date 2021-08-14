@@ -947,6 +947,7 @@
 3524 all 青之驅魔師
 234 all 花開物語
 19026 all OOO・電王・All Riders Let's Go 假面騎士
+24329 all 電影 哆啦A夢 新大雄與鐵人兵團～振翅吧 天使們～
 5408 all 惡魔奶爸
 792 all 魔法少女小圓
 4096 all IS 〈Infinite Stratos〉
@@ -961,6 +962,7 @@
 8490 all 假面騎士 OOO
 9749 all 天裝戰隊護星者 epic ON THE MOVIE
 9748 all 假面騎士 FOREVER W - A to Z 命運的記憶體
+24301 all 妖怪少爺
 19783 all 黑執事 II
 21191 all 假面騎士×假面騎士×假面騎士 THE MOVIE 超・電王 Trilogy EPISODE YELLOW
 9817 all 重返再現！侍戰隊真劍者
@@ -969,6 +971,7 @@
 4360 all 古城荊棘王
 19712 all WORKING!!迷糊餐廳
 3165 all Angel Beats！
+24328 all 電影 哆啦A夢 大雄的人魚大海戰
 2179 all 侍戰隊 VS 炎神戰隊轟音者
 4359 all 劇場版 命運 / 停駐之夜 UNLIMITED BLADE WORKS
 21082 all 無頭騎士異聞錄 DuRaRaRa!!
@@ -978,6 +981,7 @@
 4581 all 魔法禁書目錄外傳 科學超電磁砲
 8418 all 假面騎士 W
 24214 all 棄寶之島：遙與魔法鏡
+24300 all 火影忍者劇場版6：疾風傳！火意志的繼承者
 2172 all 超．假面騎士電王&Decade NEO世代 鬼島戰艦
 21560 all 天元突破 紅蓮螺巖 螺巖篇
 24156 all 電影 哆啦A夢 新大雄的宇宙開拓史
@@ -993,10 +997,12 @@
 21043 all 天元突破 紅蓮螺巖 紅蓮篇
 2170 all 假面騎士牙 魔界城之王
 2182 all 炎神戰隊轟音者劇場版
+24299 all 火影忍者劇場版5：絆
 22902 all 夏目友人帳
 2187 all 獸拳戰隊激氣連者 VS 冒險者
 24155 all 電影 哆啦A夢 大雄與綠之巨人傳
 6044 all 機動戰士鋼彈 00
+24298 all 火影忍者劇場版4：鳴人將死
 9818 all 獸拳戰隊 香港大決戰
 2171 all 假面騎士電王 俺、誕生！
 18953 all BACCANO！大騷動！
@@ -1014,6 +1020,7 @@
 13246 all 櫻蘭高校男公關部
 9825 all 魔法戰隊 VS 特搜戰隊
 23651 all 電影 哆啦A夢 新大雄的恐龍
+24346 all Fate/stay night
 9815 all 假面騎士 THE FIRST
 20682 all 地獄少女
 24296 all 火影忍者劇場版2：大激突！幻之地底遺跡
