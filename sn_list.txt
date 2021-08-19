@@ -551,7 +551,6 @@
 8489 all 辣妹與我的第一次
 22501 all 帶著智慧型手機闖蕩異世界
 16667 all 咕嚕咕嚕魔法陣 第三季
-8326 all New Game! 第二季
 22186 all Princess Principal
 19299 all 半獸人的煩惱
 12040 all 超人力霸王捷德
@@ -673,7 +672,6 @@
 5860 all 男子啦啦隊！！
 9885 all 魔裝學園 H×H
 5859 all 吸血鬼僕人
-19746 all New Game!
 14957 all 齊木楠雄的災難
 8040 all 香蕉喵
 23164 all Orange 橘色奇蹟
