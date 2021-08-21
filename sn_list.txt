@@ -425,6 +425,7 @@
 21946 all DOUBLE DECKER！道格＆基里爾
 12584 all 劇場版 夏目友人帳～緣結空蟬～
 10925 all Aikatsu! 偶像學園！STARS 第2季
+24479 all 開啟吧！見習神仙精靈
 14315 all 假面騎士 ZI-O
 11150 all K Seven Stories SIDE：GREEN ～覆寫世界～
 14390 all 企鵝公路
@@ -848,6 +849,7 @@
 6271 all JOJO 的奇妙冒險 星塵遠征軍
 1481 all 惡魔謎題
 2178 all 平成騎士對昭和騎士 假面騎士大戰 feat. 超級戰隊
+24478 all 電影 哆啦A夢 新大雄的大魔境～扁扁與五人之探險隊～
 17887 all Little Busters ! EX
 22072 all 偶像大師 劇場版 前往光輝的另一端！
 2192 all 獸電戰隊強龍者 VS Go Busters 恐龍大決戰！ 再見永遠的朋友啊
@@ -892,6 +894,7 @@
 10719 all 打工吧！魔王大人
 3295 all 果然我的青春戀愛喜劇搞錯了。
 11860 all 七龍珠 Z 劇場版：神與神
+24477 all 電影 哆啦A夢 大雄的祕密道具博物館
 1075 all 魔法禁書目錄 劇場版
 2191 all 特命戰隊 Go Busters VS 海賊戰隊豪快者 THE MOVIE
 16771 all 寶可夢超級願望 第三季
@@ -912,6 +915,7 @@
 23325 all 假面騎士 FOURZE THE MOVIE 大家的宇宙來了！
 21634 all 特命戰隊 Go Busters THE MOVIE 保護東京 Enetower!
 22155 all 超人力霸王傑洛 FIGHT 劇場版
+24456 all 火影忍者劇場版9：忍者之路
 926 all 刀劍神域 Sword Art Online
 1883 all 聖靈家族
 16600 all 寶可夢超級願望 第二季
@@ -923,6 +927,7 @@
 12592 all 加速世界
 16921 all 火影忍者 SD 李洛克的青春全力忍傳
 6721 all 神劍闖江湖 新京都篇
+24453 all 電影 哆啦A夢：大雄與奇跡之島～Animal adventure
 23326 all 海賊戰隊豪快者 VS 宇宙刑事卡邦 The Movie
 4643 all 男子高校生的日常
 19024 all 蘋果核戰 XIII 劇場版～預言～
@@ -938,6 +943,7 @@
 8544 all 假面騎士 FOURZE
 24065 all 假面騎士 OOO WONDERFUL 將軍與 21 枚核心硬幣
 21636 all 海賊戰隊豪快者 The Movie 飛天幽靈船
+24455 all 火影忍者劇場版8：血獄
 3980 all 偶像大師
 1276 all 夏目友人帳 參
 4376 all 鋼之鍊金術師 嘆息之丘的聖星
@@ -961,6 +967,7 @@
 8490 all 假面騎士 OOO
 9749 all 天裝戰隊護星者 epic ON THE MOVIE
 9748 all 假面騎士 FOREVER W - A to Z 命運的記憶體
+24454 all 火影忍者劇場版7：疾風傳！失落之塔
 24301 all 妖怪少爺
 19783 all 黑執事 II
 21191 all 假面騎士×假面騎士×假面騎士 THE MOVIE 超・電王 Trilogy EPISODE YELLOW
