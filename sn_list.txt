@@ -456,7 +456,6 @@
 10147 all 前進吧！登山少女 第三季
 11799 all 羽球戰爭！
 22152 all 宇宙戰隊九連者 VS SPACE SQUAD
-10085 all UQ HOLDER！悠久持有者！夏凜前輩不可告人的祕密
 13293 all 卡片戰鬥！！先導者
 9752 all 驚爆危機 Invisible Victory
 23183 all 奴隸區 The Animation
@@ -487,7 +486,6 @@
 15365 all 魔法 X 戰士 魔力純心
 9737 all 路人超能100 REIGEN ～不為人知的奇蹟靈能力者～
 11962 all 超人力霸王捷德 劇場版
-9638 all UQ HOLDER！悠久持有者！剎那永恆的初吻
 19744 all EX-AID Trilogy Another・Ending 假面騎士 Genm VS Lazer
 17516 all 文豪野犬 劇場版 DEAD APPLE
 15357 all 道別的早晨就用約定之花點綴吧
@@ -544,7 +542,6 @@
 15464 all 黑色五葉草
 18005 all 阿松 第二季
 8777 all UQ HOLDER！悠久持有者！
-8716 all UQ HOLDER！悠久持有者！-Amor Primus ～初戀～
 13004 all 假面騎士 Build
 8729 all 夢幻慶典 第二季
 9377 all 魔法使的新娘 等待星星的人：後篇
@@ -730,7 +727,6 @@
 11013 all 達洋貓：不可思議劇場
 7895 all 假面騎士Ghost&Drive
 23465 all FREE! 男子游泳部 電影 High☆Speed! -Free! Starting Days-
-12163 all 和諧
 21882 all 寶可夢 XY＆Z
 3022 all 請問您今天要來點兔子嗎？？
 11074 all 新妹魔王的契約者 BURST
@@ -743,7 +739,6 @@
 4451 all 一拳超人
 7220 all 終物語
 9541 all 流浪神差 ARAGOTO
-11858 all 屍者的帝國
 10656 all K: Return of Kings
 3030 all 重裝武器
 23387 all 見習神仙精靈
@@ -898,7 +893,6 @@
 14126 all 約會大作戰 DATE A LIVE
 10719 all 打工吧！魔王大人
 3295 all 果然我的青春戀愛喜劇搞錯了。
-11860 all 七龍珠 Z 劇場版：神與神
 24477 all 電影 哆啦A夢 大雄的祕密道具博物館
 1075 all 魔法禁書目錄 劇場版
 2191 all 特命戰隊 Go Busters VS 海賊戰隊豪快者 THE MOVIE
