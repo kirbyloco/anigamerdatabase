@@ -592,6 +592,7 @@
 7590 all 重啟咲良田
 7580 all 武裝少女 Machiavellism
 22336 all 不正經的魔術講師與禁忌教典
+7613 all 少年阿貝GO！GO！小芝麻 第二季
 7586 all 王室教師海涅
 7579 all 機甲少女 Frame Arms Girl
 12264 all 高校星歌劇 第二季
