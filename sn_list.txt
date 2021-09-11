@@ -27,6 +27,7 @@
 23343 all 暮蟬悲鳴時 卒
 23342 all 桃子男孩渡海而來
 23272 all 緋紅結繫
+24925 all 再見了，我的克拉默 First Touch
 23615 all Fate/Grand Carnival
 22244 all 不要欺負我，長瀞同學
 22525 all 異世界魔王與召喚少女的奴隸魔術 Ω
@@ -456,6 +457,7 @@
 10147 all 前進吧！登山少女 第三季
 11799 all 羽球戰爭！
 22152 all 宇宙戰隊九連者 VS SPACE SQUAD
+10085 all UQ HOLDER！悠久持有者！夏凜前輩不可告人的祕密
 13293 all 卡片戰鬥！！先導者
 9752 all 驚爆危機 Invisible Victory
 23183 all 奴隸區 The Animation
@@ -486,6 +488,7 @@
 15365 all 魔法 X 戰士 魔力純心
 9737 all 路人超能100 REIGEN ～不為人知的奇蹟靈能力者～
 11962 all 超人力霸王捷德 劇場版
+9638 all UQ HOLDER！悠久持有者！剎那永恆的初吻
 24884 all 電影 哆啦A夢 大雄的金銀島
 19744 all EX-AID Trilogy Another・Ending 假面騎士 Genm VS Lazer
 17516 all 文豪野犬 劇場版 DEAD APPLE
@@ -543,6 +546,7 @@
 15464 all 黑色五葉草
 18005 all 阿松 第二季
 8777 all UQ HOLDER！悠久持有者！
+8716 all UQ HOLDER！悠久持有者！-Amor Primus ～初戀～
 13004 all 假面騎士 Build
 8729 all 夢幻慶典 第二季
 9377 all 魔法使的新娘 等待星星的人：後篇
@@ -932,6 +936,7 @@
 24453 all 電影 哆啦A夢：大雄與奇跡之島～Animal adventure
 23326 all 海賊戰隊豪快者 VS 宇宙刑事卡邦 The Movie
 4643 all 男子高校生的日常
+1289 all 夏目友人帳 肆
 19024 all 蘋果核戰 XIII 劇場版～預言～
 19027 all 假面騎士 × 假面騎士 Fourze＆OOO MOVIE 大戰 MEGA MAX
 11466 all 電影 K-ON！輕音部
@@ -1115,8 +1120,11 @@
 11837 all 機動警察  劇場版 2
 6358 all 新蠟筆小新 S1
 9105 all 蠟筆小新
+24928 all 電影 哆啦A夢 大雄與雲之王國
 13577 all 企鵝家族 第二季
 14460 all 城市獵人’91
+24927 all 電影 哆啦A夢 大雄的天方夜譚
+24926 all 電影 哆啦A夢 大雄與惑星之迷
 18788 all 魔神英雄傳 2
 13564 all 企鵝家族 第一季
 14225 all 城市獵人 3
