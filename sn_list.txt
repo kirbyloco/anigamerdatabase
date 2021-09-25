@@ -962,6 +962,7 @@
 4376 all 鋼之鍊金術師 嘆息之丘的聖星
 19023 all 蘋果核戰 XIII 劇場版～遺言～
 9816 all 超級戰隊 199 英雄大對決
+25086 all 假面騎士 W RETURNS Accel 篇
 3524 all 青之驅魔師
 234 all 花開物語
 19026 all OOO・電王・All Riders Let's Go 假面騎士
@@ -1094,6 +1095,7 @@
 23028 all 第一神拳
 11857 all 人狼
 11649 all 秀逗魔導士 SPECIAL
+25007 all 櫻花大戰
 13059 all 捍衛者 GATE KEEPERS
 23495 all 電影 哆啦A夢 大雄的太陽王傳說
 9823 all 救急戰隊 VS 星獸戰隊
