@@ -1,3 +1,8 @@
+25569 all 獻身給魔王伊伏洛基亞吧
+25479 all 結城友奈是勇者 大滿開之章
+25458 all 異世界食堂 2
+25557 all 燒窯的話也要馬克杯 第二季
+25490 all SELECTION PROJECT
 25163 all 星期一的豐滿 第二季
 25162 all 加油吧同期醬
 23426 all 魔法紀錄 魔法少女小圓外傳 第二季
@@ -75,6 +80,7 @@
 20931 all 奇蛋物語 Wonder Egg Priority
 20624 all 闇芝居 第八季
 20627 all 廚神小當家 第二季
+25263 all 偶像學園 Planet!
 20622 all EX-ARM
 20618 all 怪物事變
 20620 all 無職轉生，到了異世界就拿出真本事
@@ -437,6 +443,7 @@
 14315 all 假面騎士 ZI-O
 11150 all K Seven Stories SIDE：GREEN ～覆寫世界～
 14390 all 企鵝公路
+25433 all 殘念生物事典
 20959 all 劇場版 假面騎士 Build Be The One
 15559 all 快盜戰隊魯邦連者 VS 警察戰隊巡邏連者 en film
 10928 all K Seven Stories SIDE:BLUE ～猶如天狼～
@@ -920,6 +927,7 @@
 6107 all JOJO 的奇妙冒險
 437 all 絕園的暴風雨
 10649 all K
+25137 all 假面騎士 WIZARD
 23325 all 假面騎士 FOURZE THE MOVIE 大家的宇宙來了！
 21634 all 特命戰隊 Go Busters THE MOVIE 保護東京 Enetower!
 22155 all 超人力霸王傑洛 FIGHT 劇場版
@@ -960,6 +968,7 @@
 9816 all 超級戰隊 199 英雄大對決
 25086 all 假面騎士 W RETURNS Accel 篇
 3524 all 青之驅魔師
+3873 all 我們仍未知道那天所看見的花名。
 234 all 花開物語
 19026 all OOO・電王・All Riders Let's Go 假面騎士
 24329 all 電影 哆啦A夢 新大雄與鐵人兵團～振翅吧 天使們～
@@ -1093,6 +1102,7 @@
 11649 all 秀逗魔導士 SPECIAL
 25007 all 櫻花大戰
 13059 all 捍衛者 GATE KEEPERS
+25553 all 烏龍派出所特別篇：喔多洛奇摸摸洛奇島的大決戰
 23495 all 電影 哆啦A夢 大雄的太陽王傳說
 9823 all 救急戰隊 VS 星獸戰隊
 11647 all 秀逗魔導士 GORGEOUS
@@ -1111,6 +1121,7 @@
 21194 all 超魔神英雄傳
 11646 all 秀逗魔導士 GREAT
 24012 all 中華一番
+25552 all 烏龍派出所特別篇：傳說中的熱褲刑警登場！所長啊，那就是巴黎的燈喔！
 9819 all 激走戰隊 VS 超力戰隊
 11645 all 秀逗魔導士 RETURN
 12585 all 水晶國傳說 OVA
