@@ -740,6 +740,7 @@
 4997 all Hundred 百武裝戰記
 4995 all 當女孩遇到熊
 4996 all Re：從零開始的異世界生活
+25760 all 學戰都市 Asterisk 第二季
 11015 all 逆轉裁判
 4994 all JOJO 的奇妙冒險 不滅鑽石
 8274 all 假面騎士 1 號
@@ -777,6 +778,7 @@
 8203 all 彗星路西法
 8015 all Concrete‧Revolutio 超人幻想
 4451 all 一拳超人
+25748 all 學戰都市 Asterisk
 7220 all 終物語
 9541 all 流浪神差 ARAGOTO
 10656 all K: Return of Kings
@@ -874,7 +876,6 @@
 903 all 刀劍神域 Sword Art Online 第二季
 7184 all 白銀的意志
 10374 all FREE! 男子游泳部 -Eternal Summer-
-4745 all 天降之物 Final 永遠的我的鳥籠
 790 all 蠟筆小新：大對決！機器人爸爸的反擊！
 1908 all 請問您今天要來點兔子嗎？
 2564 all 銀河騎士傳
@@ -1154,7 +1155,7 @@
 12585 all 水晶國傳說 OVA
 9821 all 超力戰隊 VS 忍者戰隊
 6551 all 神劍闖江湖
-18163 all 名偵探柯南
+25312 all 名偵探柯南
 11644 all 秀逗魔導士 完全無欠版
 12588 all 水晶國傳說～初次旅行的冒險者們～
 13590 all 企鵝家族 第三季
