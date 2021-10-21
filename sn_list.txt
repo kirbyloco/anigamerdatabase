@@ -369,7 +369,7 @@
 12164 all 星光王子 KING OF PRISM -Shiny Seven Stars-
 22843 all Fairy gone
 16495 all 為什麼老師會在這裡！？ [年齡限制版]
-12313 all 秘密 X 戰士 幻影甜心
+12313 all 秘密X戰士 幻影甜心
 12085 all 為什麼老師會在這裡！？
 12112 all 八月的棒球甜心
 12114 all 一弦定音！
