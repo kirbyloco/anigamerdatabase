@@ -185,6 +185,7 @@
 22680 all GIVEN 被贈與的未來 劇場版
 16952 all 我的英雄學院 OVA：活下來！殊死的生存訓練
 22879 all 約會大作戰 DATE A BULLET 赤黑新章：虛或實
+26156 all 秘密X戰士 幻影甜心 劇場版 大家一起來看電影喔
 16437 all 進擊的巨人 劇場版 CHRONICLE
 16429 all GIBIATE 獵魔武士
 16404 all 忍者收藏
@@ -683,6 +684,7 @@
 8248 all 失憶煽動WIXOSS
 8717 all 夢幻慶典
 20164 all ALL OUT!!
+26131 all 奇異太郎少年的妖怪畫日記
 7265 all YURI!!!on ICE
 6471 all 文豪野犬 第二季
 6419 all 無畏魔女
@@ -711,6 +713,7 @@
 5867 all 藍海少女
 5872 all 發條精靈戰記 天鏡的極北之星
 5871 all 這個美術社大有問題！
+26119 all 童話黑手黨 OZMAFIA!!
 5864 all Fate/kaleid liner 魔法少女☆伊莉雅 3rei！！
 5860 all 男子啦啦隊！！
 9885 all 魔裝學園 H×H
