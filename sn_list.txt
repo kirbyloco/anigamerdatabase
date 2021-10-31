@@ -131,7 +131,7 @@
 20445 all 大人的防具店 第二季
 20507 all 幼女社長
 20342 all 花樣滑冰 Stars
-21356 all 鬼滅之刃特別編集版：柱合會議蝶屋敷篇
+21356 all 鬼滅之刃 柱合會議‧蝴蝶屋篇
 24069 all 劇場版《假面騎士 ZERO-ONE REAL×TIME》＆劇場短篇 《假面騎士聖刃 不死鳥的劍士與破滅之書》
 19849 all 進擊的巨人 The Final Season
 23101 all Fate/Grand Order - 神聖圓桌領域卡美洛 - Wandering；Agateram
@@ -139,7 +139,7 @@
 22880 all 約會大作戰 DATE A BULLET 赤黑新章：紅或白
 23739 all 怪物彈珠 THE MOVIE 路西法 絕望的黎明
 18820 all D4DJ First Mix
-21373 all 鬼滅之刃特別編集版：那田蜘蛛山篇
+21373 all 鬼滅之刃 那田蜘蛛山篇
 23505 all 鬼滅之刃劇場版 無限列車篇
 18622 all 土下座跪求給看
 18612 all 光之戰記 -ZUERST-
@@ -387,7 +387,7 @@
 22943 all 喵的咧～貓咪戲說日本史！第四季
 12086 all 鑽石王牌 act2
 12076 all 一拳超人 (第二季)
-21354 all 鬼滅之刃特別編集版：兄妹之絆
+21354 all 鬼滅之刃 兄妹之絆
 22092 all 阿松 劇場版
 19738 all 超人力霸王 R/B 劇場版 決定了！羈絆的水晶
 15287 all PSYCHO-PASS 心靈判官 Sinners of the System Case.3 恩仇的彼方
