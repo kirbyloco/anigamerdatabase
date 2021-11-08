@@ -501,6 +501,7 @@
 23183 all 奴隸區 The Animation
 9668 all 最終休止符
 9742 all 惡魔高校 D×D HERO
+26340 all 進擊的巨人：Wall Sina,Goodbye―Part Two―
 9676 all 黃金神威
 15531 all 溫泉屋小女將
 13396 all 食戟之靈 餐之皿 遠月列車篇
@@ -558,6 +559,7 @@
 22877 all 電影版妖怪手錶：光影之卷鬼王的復活
 20709 all 假面騎士 平成世代 巔峰決戰 BUILD&EX-AID with 傳說騎士
 20708 all 少女與戰車 最終章 第1話
+26339 all 進擊的巨人：Wall Sina,Goodbye―Part One―
 11626 all 刀劍亂舞 - 花丸 - ～幕間回憶錄～
 19286 all 驚爆危機 總集篇 第一部：Boy meets girl
 8788 all 3 月的獅子 第二季
