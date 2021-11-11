@@ -326,7 +326,7 @@
 14405 all 請問您今天要來點兔子嗎？～Sing For You～
 15072 all BanG Dream！FILM LIVE
 21251 all 假面騎士 ZERO-ONE
-23649 all 	為美好的世界獻上祝福！紅傳說
+23649 all 為美好的世界獻上祝福！紅傳說
 15450 all 卡片戰鬥！！先導者 新右衛門篇
 13135 all 機甲英雄 機鬥勇者
 13802 all Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -
