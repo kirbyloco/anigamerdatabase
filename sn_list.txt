@@ -984,7 +984,6 @@
 1289 all 夏目友人帳 肆
 19024 all 蘋果核戰 XIII 劇場版～預言～
 19027 all 假面騎士 × 假面騎士 Fourze＆OOO MOVIE 大戰 MEGA MAX
-11466 all 電影 K-ON！輕音部
 9507 all Guilty Crown 罪惡王冠
 10551 all 女神異聞錄 4
 5748 all 花牌情緣
