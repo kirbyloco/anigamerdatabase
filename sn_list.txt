@@ -729,6 +729,7 @@
 23164 all Orange 橘色奇蹟
 22383 all DAYS
 18460 all Rewrite
+5794 all 食戟之靈 貳之皿
 5793 all 小桃小栗 Love Love 物語
 10175 all ReLIFE 重返 17 歲
 15873 all 不愉快的妖怪庵
@@ -894,6 +895,7 @@
 2564 all 銀河騎士傳
 7944 all NO GAME NO LIFE 遊戲人生
 2081 all 漫畫家與助手
+26675 all 排球少年！！
 22080 all 一週的朋友。
 2625 all Love Live! 第二季
 11177 all 魔法科高中的劣等生
