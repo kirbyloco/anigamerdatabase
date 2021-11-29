@@ -472,6 +472,7 @@
 14315 all 假面騎士 ZI-O
 11150 all K Seven Stories SIDE：GREEN ～覆寫世界～
 14390 all 企鵝公路
+26728 all 進擊的巨人：Lost Girls Lost in the Cruel World
 25433 all 殘念生物事典
 20959 all 劇場版 假面騎士 Build Be The One
 15559 all 快盜戰隊魯邦連者 VS 警察戰隊巡邏連者 en film
@@ -831,6 +832,7 @@
 12216 all 劇場版 境界的彼方 未來篇
 11859 all 七龍珠 Z 劇場版：復活的「F」
 24142 all 銀河騎士傳 第九行星戰役
+26727 all 進擊的巨人：無悔的選擇-後篇-
 1113 all Hello！！黃金拼圖
 15685 all 境界之Rinne
 10387 all Fate/stay night [Unlimited Blade Works] 第二季
@@ -858,6 +860,7 @@
 11009 all 達洋貓：穿越時空的奪色冒險
 16557 all 名偵探柯南：江戶川柯南失蹤事件 ～史上最糟糕的兩天～
 22577 all 假面騎士×假面騎士 DRIVE & 鎧武 MOVIE 大戰 Full Throttle
+26726 all 進擊的巨人：無悔的選擇-前篇-
 24713 all 火影忍者劇場版10：最終章
 10087 all 劇場版 進擊的巨人 前編 紅蓮的弓矢
 13698 all 史努比 (2014)
