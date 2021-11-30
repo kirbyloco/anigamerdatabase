@@ -686,7 +686,6 @@
 17479 all 寶可夢 太陽＆月亮
 25223 all 星期一的豐滿
 6479 all 3 月的獅子
-9253 all ClassicaLoid
 6407 all 長騎美眉
 8248 all 失憶煽動WIXOSS
 8717 all 夢幻慶典
@@ -799,9 +798,7 @@
 3030 all 重裝武器
 23387 all 見習神仙精靈
 8747 all Aikatsu! 偶像學園！第4季
-7232 all 青年黑傑克
 15943 all 魯邦三世 PART4
-7172 all 槍與假面舞會
 23177 all 水星領航員 ARIA THE AVVENIRE
 3039 all 魔鬼戀人 第二季
 21318 all 飆速宅男 劇場版
@@ -814,7 +811,6 @@
 21610 all 我家有個魚乾妹
 9932 all 純情羅曼史 3
 9908 all 空戰魔導士培訓生的教官
-7244 all 魔物娘的同居日常
 1920 all 赤髮白雪姬
 7159 all 噬神者
 13452 all 新科學小飛俠 insight
@@ -824,7 +820,6 @@
 2157 all 無頭騎士異聞錄 DuRaRaRa!!×2 轉
 22348 all GATE 奇幻自衛隊
 4939 all 潮與虎
-10472 all Chaos Dragon 赤龍戰役
 10088 all 劇場版 進擊的巨人 後編 自由之翼
 9327 all Love Live! 電影
 23424 all 飆速宅男 Re：ROAD
