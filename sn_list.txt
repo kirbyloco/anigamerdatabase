@@ -138,6 +138,7 @@
 26454 all 突然降臨的埃及神
 19849 all 進擊的巨人 The Final Season
 23101 all Fate/Grand Order - 神聖圓桌領域卡美洛 - Wandering；Agateram
+26756 all 超人力霸王銀河大戰：巨大陰謀
 24728 all 鬼滅之奏
 22880 all 約會大作戰 DATE A BULLET 赤黑新章：紅或白
 23739 all 怪物彈珠 THE MOVIE 路西法 絕望的黎明
@@ -326,6 +327,7 @@
 13832 all 喜歡本大爺的竟然就妳一個？
 13826 all 籃球少年王
 13815 all 香蕉喵 不可思議的夥伴們
+26755 all 超人力霸王銀河大戰：新世代英雄
 14405 all 請問您今天要來點兔子嗎？～Sing For You～
 15072 all BanG Dream！FILM LIVE
 21251 all 假面騎士 ZERO-ONE
@@ -547,6 +549,7 @@
 9296 all 爆肝工程師的異世界狂想曲
 12882 all 廢柴王子
 12435 all OVERLORD 第二季
+26729 all 櫻花忍法帖
 20970 all 飆速宅男 第四季
 9285 all 龍王的工作！
 9319 all 三顆星彩色冒險
@@ -653,7 +656,6 @@
 24817 all 電影 哆啦A夢 大雄的南極冰天雪地大冒險
 9242 all 刀劍神域 劇場版 序列爭戰
 9376 all 魔法使的新娘 等待星星的人：中篇
-14492 all 虐殺器官
 7147 all BanG Dream！
 9227 all 黑執事 劇場版 豪華客船編
 17135 all 闇芝居 第四季
@@ -751,6 +753,7 @@
 25936 all 忍者亂太郎 第 24 季
 20192 all 12歲。～小小的怦然心動～
 4997 all Hundred 百武裝戰記
+26709 all 我的英雄學院
 4995 all 當女孩遇到熊
 4996 all Re：從零開始的異世界生活
 25760 all 學戰都市 Asterisk 第二季
@@ -982,6 +985,7 @@
 10409 all Fate/zero 第二季
 12592 all 加速世界
 16921 all 火影忍者 SD 李洛克的青春全力忍傳
+26754 all 超人力霸王傳奇
 6721 all 神劍闖江湖 新京都篇
 24453 all 電影 哆啦A夢：大雄與奇跡之島～Animal adventure
 23326 all 海賊戰隊豪快者 VS 宇宙刑事卡邦 The Movie
@@ -1044,6 +1048,7 @@
 2179 all 侍戰隊 VS 炎神戰隊轟音者
 4359 all 劇場版 命運 / 停駐之夜 UNLIMITED BLADE WORKS
 21082 all 無頭騎士異聞錄 DuRaRaRa!!
+26753 all 超人力霸王：怪獸大戰爭超銀河傳說
 23299 all 家庭教師 HITMAN REBORN！彭格列式戶外教學，來了！
 2 all 大耳查布
 16143 all 犬夜叉 完結篇
