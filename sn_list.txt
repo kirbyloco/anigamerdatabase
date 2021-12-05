@@ -188,7 +188,7 @@
 22070 all 佐賀偶像是傳奇 舞台劇 Stage de Dooon！
 22680 all GIVEN 被贈與的未來 劇場版
 16952 all 我的英雄學院 OVA：活下來！殊死的生存訓練
-26998 all Fate/stay night [Heaven's Feel] Ⅲ. 春櫻之歌
+26998 all Fate/stay night [Heaven's Feel] Ⅲ.春櫻之歌
 22879 all 約會大作戰 DATE A BULLET 赤黑新章：虛或實
 26156 all 秘密X戰士 幻影甜心 劇場版 大家一起來看電影喔
 16437 all 進擊的巨人 劇場版 CHRONICLE
