@@ -943,6 +943,7 @@
 4655 all Aikatsu! 偶像學園！第2季
 18372 all KILL la KILL
 3308 all 境界的彼方
+27379 all 小鳥遊六花・改 劇場版 中二病也想談戀愛！
 20748 all 劇場版 獸電戰隊強龍者 GABURINCHO OF MUSIC
 22915 all 假面騎士 Wizard In Magic Land
 17096 all 闇芝居
@@ -956,6 +957,7 @@
 16039 all 王者天下 第二季
 10131 all 假面騎士×超級戰隊×宇宙刑事 超級英雄大戰 Z
 261 all 魔法禁書目錄外傳 科學超電磁砲 第二季
+27348 all 襲來！美少女邪神 W
 129 all 我的妹妹哪有這麼可愛！第二季
 3499 all 進擊的巨人
 14126 all 約會大作戰 DATE A LIVE
@@ -1003,6 +1005,7 @@
 23326 all 海賊戰隊豪快者 VS 宇宙刑事卡邦 The Movie
 4643 all 男子高校生的日常
 1289 all 夏目友人帳 肆
+27386 all 機動戰士鋼彈 SEED HD 重製版
 19027 all 假面騎士 × 假面騎士 Fourze＆OOO MOVIE 大戰 MEGA MAX
 19024 all 蘋果核戰 XIII 劇場版～預言～
 9507 all Guilty Crown 罪惡王冠
