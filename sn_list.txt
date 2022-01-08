@@ -1,3 +1,7 @@
+27363 all 終末的後宮
+27364 all 終末的後宮 [年齡限制版]
+27362 all 擅長捉弄人的高木同學 第三季
+27361 all 少女前線
 27360 all 最遊記 RELOAD -ZEROIN-
 27358 all 東京 24 區
 27446 all 東方少年
@@ -39,6 +43,7 @@
 25163 all 星期一的豐滿 第二季
 23426 all 魔法紀錄 魔法少女小圓外傳 第二季
 23661 all 平穩世代的韋駄天們
+27495 all 假面騎士聖刃 + 機界戰隊全界者 超級英雄戰記
 23355 all 超人力霸王特利卡：NEW GENERATION TIGA
 23345 all 漂流少年
 23340 all 女神宿舍的管理員。 [年齡限制版]
@@ -68,6 +73,7 @@
 23272 all 緋紅結繫
 27270 all BanG Dream！Episode of Roselia II：Song I am.
 24925 all 再見了，我的克拉默 First Touch
+27497 all 銀河騎士傳 織愛之星
 23615 all Fate/Grand Carnival
 22244 all 不要欺負我，長瀞同學
 22525 all 異世界魔王與召喚少女的奴隸魔術 Ω
@@ -776,7 +782,6 @@
 4616 all 無頭騎士異聞錄 DuRaRaRa!!×2 結
 4612 all Luck & Logic
 8604 all 星光美男 彩虹舞台
-8235 all 百無禁忌！女高中生私房話
 15777 all 魯邦三世 義大利遊戲
 19992 all 昭和元祿 落語心中
 20995 all 傷物語 I 鐵血篇
@@ -895,6 +900,7 @@
 1908 all 請問您今天要來點兔子嗎？
 7944 all NO GAME NO LIFE 遊戲人生
 27317 all 進擊的巨人：突然的來訪者
+1135 all 黑色子彈
 2081 all 漫畫家與助手
 2625 all Love Live! 第二季
 22080 all 一週的朋友。
@@ -1007,6 +1013,7 @@
 24065 all 假面騎士 OOO WONDERFUL 將軍與 21 枚核心硬幣
 24455 all 火影忍者劇場版8：血獄
 25691 all 假面騎士 W RETURNS Eternal 篇
+4278 all 笨蛋，測驗，召喚獸 第二季
 3980 all 偶像大師
 1276 all 夏目友人帳 參
 25678 all 妖怪少爺 千年魔京
@@ -1019,6 +1026,7 @@
 3873 all 我們仍未知道那天所看見的花名。
 234 all 花開物語
 19026 all OOO・電王・All Riders Let's Go 假面騎士
+27410 all 笨蛋，測驗，召喚獸～祭典～
 5408 all 惡魔奶爸
 4096 all IS 〈Infinite Stratos〉
 792 all 魔法少女小圓
