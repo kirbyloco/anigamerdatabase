@@ -734,6 +734,7 @@
 16298 all 假面騎士 EX-AID
 10220 all 終末的伊澤塔
 11268 all ViVid Strike！
+6850 all 喵阿楞！
 17437 all 烏龍派出所特別篇 - The Final 兩津勘吉的最後一天
 21266 all 飆速宅男 SPARE BIKE
 14076 all 七大罪 聖戰的預兆
@@ -1048,6 +1049,7 @@
 234 all 花開物語
 19026 all OOO・電王・All Riders Let's Go 假面騎士
 27410 all 笨蛋，測驗，召喚獸～祭典～
+28149 all 天裝戰隊護星者 VS 真劍者 Epic on 銀幕
 5408 all 惡魔奶爸
 4096 all IS 〈Infinite Stratos〉
 792 all 魔法少女小圓
@@ -1203,6 +1205,7 @@
 11652 all 秀逗魔導士 EXCELLENT
 25887 all 烏龍派出所特別篇：終極警探！史上最差勁的決戰！
 21534 all 男女蹺蹺板
+28117 all 抓狂一族
 27714 all 烏龍派出所特別篇：終極烏龍警探 兩津勘吉二度逃離鬼門關
 27713 all 烏龍派出所特別篇：最危險的生存遊戲
 9820 all 電磁戰隊 VS 激走戰隊
