@@ -462,7 +462,6 @@
 11390 all 笑容的代價
 16536 all 來自深淵 劇場版總集篇 前編：啟程的黎明
 11388 all BanG Dream！第二季
-21109 all 假面騎士 平成世代 Forever
 22875 all 電影版妖怪手錶：永遠的朋友
 11682 all K Seven Stories Circle Vision ～Nameless Song～
 14489 all 機動戰士鋼彈 NT
@@ -511,7 +510,6 @@
 25433 all 殘念生物事典
 10928 all K Seven Stories SIDE:BLUE ～猶如天狼～
 15559 all 快盜戰隊魯邦連者 VS 警察戰隊巡邏連者 en film
-20959 all 劇場版 假面騎士 Build Be The One
 12423 all 付喪神出租中！
 10484 all 進擊的巨人 第三季
 22154 all 炎神戰隊轟音者 10 YEARS GRANDPRIX
