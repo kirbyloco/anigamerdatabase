@@ -95,6 +95,7 @@
 23615 all Fate/Grand Carnival
 28355 all Fate/Grand Order - 神聖圓桌領域卡美洛 - Paladin; Agateram
 22244 all 不要欺負我，長瀞同學
+28446 all 我的泰山爸爸
 22525 all 異世界魔王與召喚少女的奴隸魔術 Ω
 27269 all BanG Dream！Episode of Roselia I：約定
 22248 all 入間同學入魔了 第二季
@@ -135,6 +136,7 @@
 25612 all 水星領航員 ARIA The CREPUSCOLO
 21479 all 舞伎家的料理人
 26540 all 新網球王子 冰帝 vs 立海 Game of Future
+28469 all 名偵探柯南：緋色的不在場證明
 20859 all 魔術士歐菲 流浪之旅 基姆拉克篇
 22899 all 夏目友人帳特別上映版：喚石與可疑訪客
 21132 all Dr.STONE 新石紀 第二季
@@ -1029,6 +1031,7 @@
 27386 all 機動戰士鋼彈 SEED HD 重製版
 19027 all 假面騎士 × 假面騎士 Fourze＆OOO MOVIE 大戰 MEGA MAX
 19024 all 蘋果核戰 XIII 劇場版～預言～
+11466 all 電影 K-ON！輕音部
 9507 all Guilty Crown 罪惡王冠
 10551 all 女神異聞錄 4
 5748 all 花牌情緣
@@ -1127,10 +1130,12 @@
 24298 all 火影忍者劇場版4：鳴人將死
 18953 all BACCANO！大騷動！
 15438 all 琴之森
+28452 all 零之使魔 雙月的騎士
 27783 all DARKER THAN BLACK -黑之契約者-
 19682 all 天元突破 紅蓮螺巖
 24154 all 電影 哆啦A夢 大雄的新魔界大冒險～7人魔法使～
 2189 all 轟轟戰隊冒險者 VS 超級戰隊
+28470 all 棒球大聯盟 第三季
 1191 all 史上最強弟子兼一
 5205 all 家庭教師 HITMAN REBORN！
 20710 all 地獄少女 二籠
@@ -1160,6 +1165,7 @@
 7894 all 怪醫黑傑克
 27000 all 烏龍派出所特別篇：兩津家三代 一探神秘黃金鄉
 24295 all 火影忍者劇場版1：大活劇！雪姬忍法帖 ！！
+12330 all 蒸汽男孩
 18822 all KERORO 軍曹
 26999 all 烏龍派出所特別篇：特殊刑警全倒 檸檬與神秘竊盜集團
 2186 all 爆龍戰隊 VS 忍風戰隊
