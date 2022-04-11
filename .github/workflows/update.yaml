@@ -1,8 +1,6 @@
 name: update json data
 
 on:
-  watch:
-    types: started
   schedule:
   - cron: 0 0 * * *
 
@@ -12,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event.repository.owner.id == github.event.sender.id
     steps:
-    - uses: actions/checkout@v1
-    - name: Set up Python 3.7
-      uses: actions/setup-python@v1
+    - uses: actions/checkout@master
+    - name: Set up Python 3.8
+      uses: actions/setup-python@master
       with:
-        python-version: '3.7'
+        python-version: '3.8'
     - name: Install dependencies
       run:
         pip3 install -r requirements.txt
@@ -27,7 +25,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "日常更新" -a
+        git commit -am "日常更新：`date +'%Y-%m-%d'`"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
