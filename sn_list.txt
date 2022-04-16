@@ -250,6 +250,7 @@
 16952 all 我的英雄學院 OVA：活下來！殊死的生存訓練
 26998 all Fate/stay night [Heaven's Feel] Ⅲ.春櫻之歌
 22879 all 約會大作戰 DATE A BULLET 赤黑新章：虛或實
+28933 all 劇場版 超人力霸王大河 新世代終結黑暗
 26156 all 秘密X戰士 幻影甜心 劇場版 大家一起來看電影喔
 16437 all 進擊的巨人 劇場版 CHRONICLE
 16429 all GIBIATE 獵魔武士
@@ -273,7 +274,6 @@
 16176 all DECA - DENCE
 16031 all 卡片戰鬥!! 先導者 外傳 -if-
 15351 all 別冊奧林匹克之環
-15347 all 香蕉怪大叔 呐呐~呐　北海妖怪追追追！
 16134 all 啄木鳥偵探社
 15298 all 輝夜姬想讓人告白～天才們的戀愛頭腦戰～ 第二季
 15296 all 噴嚏大魔王 2020
@@ -489,6 +489,7 @@
 11682 all K Seven Stories Circle Vision ～Nameless Song～
 14489 all 機動戰士鋼彈 NT
 18782 all 續·終物語
+29003 all ANEMONE／交響詩篇艾蕾卡 7：HI - EVOLUTION
 11445 all K Seven Stories 紅之記憶 ～BURN～
 11893 all 梅露可物語
 12016 all 東京喰種：re 第二季
@@ -642,6 +643,7 @@
 13318 all 食戟之靈 餐之皿
 8777 all UQ HOLDER！悠久持有者！
 18005 all 阿松 第二季
+29002 all 交響詩篇艾蕾卡 7：HI - EVOLUTION
 8716 all UQ HOLDER！悠久持有者！-Amor Primus ～初戀～
 13004 all 假面騎士 Build
 8729 all 夢幻慶典 第二季
@@ -681,6 +683,7 @@
 7606 all 末日時在做什麼？有沒有空？可以來拯救嗎？
 7612 all 夏目友人帳 陸
 15887 all 境界之Rinne 第三季
+28990 all Re:CREATORS
 7593 all 雛子的筆記
 9954 all 快盜天使 Twin Angels BREAK
 14744 all 春宵苦短，少女前進吧！
@@ -1153,6 +1156,7 @@
 25835 all 棒球大聯盟 第二季
 9815 all 假面騎士 THE FIRST
 27254 all 烏龍派出所特別篇：阿兩與忠犬幸運 〜躲過龜有大封鎖線！！〜
+28928 all 水星領航員
 20682 all 地獄少女
 24296 all 火影忍者劇場版2：大激突！幻之地底遺跡
 4357 all 鋼之鍊金術師 香巴拉的征服者 劇場版
@@ -1193,6 +1197,7 @@
 1694 all 我們這一家
 22536 all 十二國記
 26268 all 烏龍派出所特別篇：LET’S GO 長崎 愛上卡車大姊
+28950 all 魔法咪路咪路
 11838 all 機動警察 劇場版 3
 12590 all 帕盧姆之樹
 23503 all 電影 哆啦A夢 大雄與機器人王國
