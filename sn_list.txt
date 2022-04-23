@@ -565,6 +565,7 @@
 26340 all 進擊的巨人：Wall Sina,Goodbye―Part Two―
 13396 all 食戟之靈 餐之皿 遠月列車篇
 15531 all 溫泉屋小女將
+29018 all 雷頓不可思議偵探社：卡特莉的解謎事件簿
 13465 all 我的英雄學院 第三季
 9684 all 刀劍神域外傳 Gun Gale Online
 9744 all 藍海少女 第二季
