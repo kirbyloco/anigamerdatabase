@@ -65,6 +65,7 @@
 25491 all VISUAL PRISON 視覺監獄
 25494 all 大正處女御伽話
 25559 all 世界盡頭的聖騎士
+29076 all 我讓最想被擁抱的男人給威脅了 劇場版～西班牙篇～
 25483 all MUV-LUV ALTERNATIVE
 25430 all 橘色榮耀！
 25486 all 世界頂尖的暗殺者轉生為異世界貴族
