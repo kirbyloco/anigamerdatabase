@@ -827,7 +827,6 @@
 4877 all 只有我不存在的城市
 4479 all 夢幻之星 Online 2
 15925 all 無彩限的幻影世界
-11013 all 達洋貓：不可思議劇場
 7895 all 假面騎士Ghost&Drive
 23465 all FREE! 男子游泳部 電影 High☆Speed! -Free! Starting Days-
 21882 all 寶可夢 XY＆Z
@@ -894,7 +893,6 @@
 12487 all 銃皇無盡的法夫納
 1835 all 百合熊風暴
 28105 all 元氣少女緣結神 第二季
-11009 all 達洋貓：穿越時空的奪色冒險
 16557 all 名偵探柯南：江戶川柯南失蹤事件 ～史上最糟糕的兩天～
 22577 all 假面騎士×假面騎士 DRIVE & 鎧武 MOVIE 大戰 Full Throttle
 26726 all 進擊的巨人：無悔的選擇-前篇-
@@ -957,7 +955,6 @@
 7080 all 銀之匙 第二季
 23566 all 未確認進行式
 9529 all 流浪神差
-10992 all 達洋貓
 1 all 刀劍神域 Extra Edition
 22900 all 假面騎士×假面騎士 鎧武 & Wizard 天下決勝之戰國 MOVIE 大合戰
 27316 all 進擊的巨人：伊爾澤的筆記
