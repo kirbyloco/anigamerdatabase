@@ -789,6 +789,7 @@
 10175 all ReLIFE 重返 17 歲
 5793 all 小桃小栗 Love Love 物語
 15873 all 不愉快的妖怪庵
+5795 all Love Live! Sunshine!!
 16406 all 排球少年！！VS 掛科
 29569 all 從好久以前就喜歡你
 7020 all 蠟筆小新電影 爆睡 夢世界大作戰！
@@ -882,6 +883,7 @@
 1113 all Hello！！黃金拼圖
 10387 all Fate/stay night [Unlimited Blade Works] 第二季
 15685 all 境界之Rinne
+29646 all 女神異聞錄 3 劇場版 第三章 Falling Down
 7624 all 在地下城尋求邂逅是否搞錯了什麼
 5125 all 果然我的青春戀愛喜劇搞錯了。續
 8273 all 超級英雄大戰 GP 假面騎士 3 號
@@ -1299,5 +1301,6 @@
 13020 all 城市獵人 2
 24352 all 妙手小廚師
 19648 all 迷宮物語
+29762 all 妖獸都市 1987 劇場版
 12795 all 城市獵人
 19289 all 卡姆依之劍
