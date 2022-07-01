@@ -554,7 +554,6 @@
 12739 all Angolmois 元寇合戰記
 12448 all OVERLORD 第三季
 10283 all 京都寺町三條商店街的福爾摩斯
-10216 all 暮光幻影
 10258 all 遊戲 3 人娘
 10210 all 工作細胞
 10758 all K Seven Stories R:B ～BLAZE～
@@ -671,10 +670,7 @@
 16667 all 咕嚕咕嚕魔法陣 第三季
 22501 all 帶著智慧型手機闖蕩異世界
 19299 all 半獸人的煩惱
-22186 all Princess Principal
 12548 all 獨佔我的英雄
-8327 all 時間支配者
-8325 all 來自深淵
 20834 all 18if 夢境異聞錄
 21659 all 梵諦岡奇蹟調查官
 8312 all 最遊記 RELOAD BLAST
@@ -682,13 +678,10 @@
 8322 all 徒然喜歡你
 8321 all 單蠢女孩
 8320 all 異世界食堂
-8316 all 戀愛與謊言
 17148 all 闇芝居 第五季
 22881 all 潔癖男子！青山君
-11655 all 活擊 刀劍亂舞
 8308 all Hina Logic
 15116 all 魔法科高中的劣等生 呼喚繁星的少女
-11083 all 星光美男 榮耀之爭
 15364 all 宣告黎明的露之歌
 9655 all FAIRY TAIL 魔導少年 劇場版 龍之淚
 7610 all 劍姬神聖譚
@@ -831,7 +824,6 @@
 20535 all Dimension W 維度戰記
 4616 all 無頭騎士異聞錄 DuRaRaRa!!×2 結
 4612 all Luck & Logic
-8604 all 星光美男 彩虹舞台
 15777 all 魯邦三世 義大利遊戲
 19992 all 昭和元祿 落語心中
 20995 all 傷物語 I 鐵血篇
@@ -948,7 +940,6 @@
 7944 all NO GAME NO LIFE 遊戲人生
 27317 all 進擊的巨人：突然的來訪者
 1135 all 黑色子彈
-2081 all 漫畫家與助手
 2625 all Love Live! 第二季
 22080 all 一週的朋友。
 26675 all 排球少年！！
@@ -1219,7 +1210,6 @@
 11669 all 千年女優
 2180 all 忍風戰隊電影版
 11839 all 機動警察 迷你版
-1694 all 我們這一家
 22536 all 十二國記
 26268 all 烏龍派出所特別篇：LET’S GO 長崎 愛上卡車大姊
 28950 all 魔法咪路咪路
