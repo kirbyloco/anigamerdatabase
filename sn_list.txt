@@ -161,6 +161,7 @@
 23343 all 暮蟬悲鳴時 卒
 23272 all 緋紅結繫
 27270 all BanG Dream！Episode of Roselia II：Song I am.
+30717 all 麵包超人電影版：軟綿綿與雲之國
 24925 all 再見了，我的克拉默 First Touch
 27497 all 銀河騎士傳 織愛之星
 23615 all Fate/Grand Carnival
@@ -321,6 +322,7 @@
 16237 all 魔物娘的醫生
 16231 all Lapis Re：LiGHTs
 16229 all 弩級戰隊 HXEROS
+30785 all 炎炎消防隊 貳之章
 16195 all 小妖怪
 16176 all DECA - DENCE
 16031 all 卡片戰鬥!! 先導者 外傳 -if-
@@ -1188,6 +1190,7 @@
 30360 all 電腦線圈
 27783 all DARKER THAN BLACK -黑之契約者-
 19682 all 天元突破 紅蓮螺巖
+30725 all 旋風管家！
 24154 all 電影 哆啦A夢 大雄的新魔界大冒險～7人魔法使～
 2189 all 轟轟戰隊冒險者 VS 超級戰隊
 28470 all 棒球大聯盟 第三季
@@ -1239,6 +1242,7 @@
 22893 all 十二國記 第二季
 29098 all 茄子 劇場版1 安達魯西亞之夏
 2432 all 第一神拳 冠軍之路
+30809 all 偵探學園 Q
 26538 all 烏龍派出所特別篇：世界第一最強警察爭奪戰
 2185 all 忍風戰隊 vs 百獸戰隊
 23504 all 電影 哆啦A夢 大雄與風之使者
