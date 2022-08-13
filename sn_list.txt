@@ -1093,6 +1093,7 @@
 8544 all 假面騎士 FOURZE
 21636 all 海賊戰隊豪快者 The Movie 飛天幽靈船
 24065 all 假面騎士 OOO WONDERFUL 將軍與 21 枚核心硬幣
+30719 all 薄櫻鬼 雪華錄
 24455 all 火影忍者劇場版8：血獄
 25691 all 假面騎士 W RETURNS Eternal 篇
 4278 all 笨蛋，測驗，召喚獸 第二季
