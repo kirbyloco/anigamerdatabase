@@ -98,6 +98,7 @@
 30469 all 水星領航員 ARIA The BENEDIZIONE
 29888 all GIVEN 被贈與的未來 劇場版：反面的存在
 26482 all 薄櫻鬼 新OVA
+30988 all 刀劍神域劇場版－Progressive－無星夜的詠嘆調
 25489 all 國王排名
 28869 all 讓我聽見愛的歌聲
 25488 all 魯邦三世 PART6
@@ -133,6 +134,7 @@
 25163 all 星期一的豐滿 第二季
 30444 all BanG Dream！FILM LIVE 2nd Stage
 23426 all 魔法紀錄 魔法少女小圓外傳 第二季
+31045 all Fate/Grand Order - 終局特異點 冠位時間神殿所羅門 -
 23661 all 平穩世代的韋駄天們
 27495 all 假面騎士聖刃 + 機界戰隊全界者 超級英雄戰記
 23355 all 超人力霸王特利卡
