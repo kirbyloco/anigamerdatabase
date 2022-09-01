@@ -616,7 +616,6 @@
 10147 all 前進吧！登山少女 第三季
 11799 all 羽球戰爭！
 22152 all 宇宙戰隊九連者 VS SPACE SQUAD
-10085 all UQ HOLDER！悠久持有者！夏凜前輩不可告人的祕密
 13293 all 卡片戰鬥！！先導者
 9752 all 驚爆危機 Invisible Victory
 23183 all 奴隸區 The Animation
@@ -647,7 +646,6 @@
 21646 all 賽馬娘
 22058 all 冷然之天秤
 9737 all 路人超能100 REIGEN ～不為人知的奇蹟靈能力者～
-9638 all UQ HOLDER！悠久持有者！剎那永恆的初吻
 17516 all 文豪野犬 劇場版 DEAD APPLE
 19744 all EX-AID Trilogy Another・Ending 假面騎士 Genm VS Lazer
 24884 all 電影 哆啦A夢 大雄的金銀島
@@ -705,7 +703,6 @@
 8777 all UQ HOLDER！悠久持有者！
 18005 all 阿松 第二季
 29002 all 交響詩篇艾蕾卡 7：HI - EVOLUTION
-8716 all UQ HOLDER！悠久持有者！-Amor Primus ～初戀～
 13004 all 假面騎士 Build
 8729 all 夢幻慶典 第二季
 9377 all 魔法使的新娘 等待星星的人：後篇
@@ -730,7 +727,6 @@
 22881 all 潔癖男子！青山君
 8308 all Hina Logic
 15116 all 魔法科高中的劣等生 呼喚繁星的少女
-15364 all 宣告黎明的露之歌
 7610 all 劍姬神聖譚
 9436 all 蠟筆小新電影 宇宙人 Pi 力來襲！！
 26294 all 不起眼女主角培育法 第二季
@@ -740,7 +736,6 @@
 28990 all Re:CREATORS
 7593 all 雛子的筆記
 9954 all 快盜天使 Twin Angels BREAK
-14744 all 春宵苦短，少女前進吧！
 7589 all 戀愛暴君
 7580 all 武裝少女 Machiavellism
 7590 all 重啟咲良田
