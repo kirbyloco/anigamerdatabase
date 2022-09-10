@@ -575,7 +575,6 @@
 10906 all 火之丸相撲
 11376 all 我讓最想被擁抱的男人給威脅了
 11564 all 我家的女僕有夠煩！
-10918 all 錢進球場 第二季
 17286 all 歡迎光臨，千歲醬
 10910 all 戀愛幕末男友外傳
 10956 all 學園 BASARA
@@ -633,7 +632,6 @@
 10991 all 劇場版 吸血鬼僕人 -Alice in the Garden-
 21138 all 棒球大聯盟 2nd
 23063 all DEVILSLINE 惡魔戰線
-9664 all 錢進球場
 24651 all 失憶融合WIXOSS
 10133 all 多田君不戀愛
 14020 all Aikatsu! 偶像學園！Friends
