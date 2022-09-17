@@ -511,6 +511,8 @@
 22943 all 喵的咧～貓咪戲說日本史！第四季
 12076 all 一拳超人 (第二季)
 12086 all 鑽石王牌 act2
+31240 all 假面騎士 ZI-O 外傳：RIDER TIME 假面騎士 SHINOBI
+31246 all 假面騎士 ZI-O 外傳：RIDER TIME 假面騎士龍騎
 21354 all 鬼滅之刃 兄妹之絆
 22092 all 阿松 劇場版
 15287 all PSYCHO-PASS 心靈判官 Sinners of the System Case.3 恩仇的彼方
@@ -1150,7 +1152,9 @@
 24300 all 火影忍者劇場版6：疾風傳！火意志的繼承者
 2172 all 超．假面騎士電王&Decade NEO世代 鬼島戰艦
 21560 all 天元突破 紅蓮螺巖 螺巖篇
+31292 all 旋風管家！ 第二季
 24156 all 電影 哆啦A夢 新大雄的宇宙開拓史
+31317 all 旋風管家！ OVA
 2181 all 炎神戰隊 VS 獸拳戰隊
 24663 all 棒球大聯盟 第五季
 2836 all 第一神拳 New Challenger
