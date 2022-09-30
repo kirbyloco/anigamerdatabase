@@ -2,13 +2,12 @@ name: update json data
 
 on:
   schedule:
-  - cron: 0 0 * * *
+  - cron: "0 0 * * *"
 
 jobs:
   build:
-    name: Set up environment
+    name: Update DB
     runs-on: ubuntu-latest
-    if: github.event.repository.owner.id == github.event.sender.id
     steps:
     - uses: actions/checkout@master
     - name: Set up Python 3.8
