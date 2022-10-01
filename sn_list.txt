@@ -1,3 +1,5 @@
+31492 all 我家師傅沒有尾巴
+31489 all 轉生就是劍
 31406 all 機動戰士鋼彈 水星的魔女
 31403 all 因為是反派大小姐所以養了魔王
 30691 all 風都偵探
@@ -68,6 +70,7 @@
 29790 all 新 忍者哈特利 第六季
 29629 all 魔法水果籃 -前奏曲-
 28325 all 川尻小玉的懶散生活
+31341 all 鹿王
 29326 all 新 忍者哈特利 第五季
 27582 all 白領羽球部
 27372 all 平凡職業造就世界最強 第二季
@@ -257,6 +260,7 @@
 26454 all 突然降臨的埃及神
 19849 all 進擊的巨人 The Final Season
 23101 all Fate/Grand Order - 神聖圓桌領域卡美洛 - Wandering；Agateram
+26756 all 超人力霸王銀河大戰 - 巨大陰謀
 24728 all 鬼滅之奏
 22880 all 約會大作戰 DATE A BULLET 赤黑新章：紅或白
 23739 all 怪物彈珠 THE MOVIE 路西法 絕望的黎明
@@ -513,7 +517,6 @@
 22100 all Aikatsu! 偶像學園！Friends 第二季
 22943 all 喵的咧～貓咪戲說日本史！第四季
 12076 all 一拳超人 (第二季)
-12086 all 鑽石王牌 act2
 31240 all 假面騎士 ZI-O 外傳：RIDER TIME 假面騎士 SHINOBI
 31246 all 假面騎士 ZI-O 外傳：RIDER TIME 假面騎士龍騎
 21354 all 鬼滅之刃 兄妹之絆
@@ -693,17 +696,12 @@
 8790 all 魔法使的新娘
 8789 all 鬼燈的冷徹 第二季
 8796 all ClassicaLoid 第二季
-8786 all 寶石之國
 13642 all 新企鵝家族 第一季
 8785 all 奇諾之旅 the Beautiful World
 8834 all 少女終末旅行
 8782 all Just Because！
-8783 all 國王遊戲 The Animation
 15464 all 黑色五葉草
-8797 all 品酒要在成為夫妻後
-10096 all 戰刻夜想曲
 13318 all 食戟之靈 餐之皿
-8777 all UQ HOLDER！悠久持有者！
 18005 all 阿松 第二季
 29002 all 交響詩篇艾蕾卡 7：HI - EVOLUTION
 13004 all 假面騎士 Build
@@ -844,7 +842,6 @@
 14933 all 甲鐵城的卡巴內里
 5010 all Anne-Happy
 5012 all 線上遊戲的老婆不可能是女生？
-8987 all Aikatsu! 偶像學園！STARS
 8215 all 超級戀人
 4998 all 雙星之陰陽師
 4999 all 少年阿貝GO！GO！小芝麻
@@ -1092,7 +1089,6 @@
 19725 all WORKING!!迷糊餐廳 第二季
 29881 all 對某飛行員的追憶
 22054 all 螢火之森
-8544 all 假面騎士 FOURZE
 21636 all 海賊戰隊豪快者 The Movie 飛天幽靈船
 24065 all 假面騎士 OOO WONDERFUL 將軍與 21 枚核心硬幣
 30719 all 薄櫻鬼 雪華錄
