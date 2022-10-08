@@ -1,3 +1,5 @@
+31596 all PUI PUI 天竺鼠車車 駕訓班篇
+31593 all 聖劍傳說 Legend of Mana - The Teardrop Crystal -
 31590 all MUV-LUV ALTERNATIVE 第二季
 31587 all 路人超能 100 第三季
 31584 all 菜鳥鍊金術師開店營業中
@@ -793,7 +795,6 @@
 25223 all 星期一的豐滿
 6407 all 長騎美眉
 6479 all 3 月的獅子
-8248 all 失憶煽動WIXOSS
 27257 all 排球少年！！第三季
 20164 all ALL OUT!!
 6419 all 無畏魔女
@@ -831,6 +832,7 @@
 5860 all 男子啦啦隊！！
 8040 all 香蕉喵
 14957 all 齊木楠雄的災難
+19746 all New Game!
 23164 all Orange 橘色奇蹟
 5794 all 食戟之靈 貳之皿
 18460 all Rewrite
@@ -1097,6 +1099,7 @@
 19725 all WORKING!!迷糊餐廳 第二季
 29881 all 對某飛行員的追憶
 22054 all 螢火之森
+31534 all 假面騎士 FOURZE
 21636 all 海賊戰隊豪快者 The Movie 飛天幽靈船
 24065 all 假面騎士 OOO WONDERFUL 將軍與 21 枚核心硬幣
 30719 all 薄櫻鬼 雪華錄
@@ -1205,6 +1208,7 @@
 24154 all 電影 哆啦A夢 大雄的新魔界大冒險～7人魔法使～
 2189 all 轟轟戰隊冒險者 VS 超級戰隊
 28470 all 棒球大聯盟 第三季
+31469 all 結界師
 1191 all 史上最強弟子兼一
 5205 all 家庭教師 HITMAN REBORN！
 20710 all 地獄少女 二籠
