@@ -10,6 +10,7 @@
 31593 all 聖劍傳說 Legend of Mana - The Teardrop Crystal -
 31590 all MUV-LUV ALTERNATIVE 第二季
 31625 all 不道德公會
+31628 all 書蟲公主
 31587 all 路人超能 100 第三季
 31622 all 我想成為影之強者！
 31584 all 菜鳥鍊金術師開店營業中
