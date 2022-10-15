@@ -242,6 +242,8 @@
 21479 all 舞伎家的料理人
 26540 all 新網球王子 冰帝 vs 立海 Game of Future
 28469 all 名偵探柯南：緋色的不在場證明
+31646 all RIDER TIME 假面騎士 ZI-O VS DECADE / 7人的ZI-O！
+31652 all RIDER TIME 假面騎士 Decade VS ZI-O Decade 館的死亡遊戲
 20859 all 魔術士歐菲 流浪之旅 基姆拉克篇
 22899 all 夏目友人帳特別上映版：喚石與可疑訪客
 21132 all Dr.STONE 新石紀 第二季
