@@ -286,7 +286,7 @@
 26454 all 突然降臨的埃及神
 19849 all 進擊的巨人 The Final Season
 23101 all Fate/Grand Order - 神聖圓桌領域卡美洛 - Wandering；Agateram
-26756 all 超人力霸王銀河大戰 - 巨大陰謀
+26756 all 超人力霸王銀河大戰：巨大陰謀
 24728 all 鬼滅之奏
 22880 all 約會大作戰 DATE A BULLET 赤黑新章：紅或白
 23739 all 怪物彈珠 THE MOVIE 路西法 絕望的黎明
