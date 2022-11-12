@@ -27,6 +27,7 @@
 31407 all 機動戰士鋼彈 水星的魔女
 31403 all 因為是反派大小姐所以養了魔王
 30691 all 風都偵探
+32007 all 歌之☆王子殿下♪ 真愛 ST☆RISH TOURS～旅程的起點～
 30510 all 新來的女傭有點怪
 30417 all Love Live! SuperStar!! 第二季
 30441 all 打工吧，魔王大人！第二季
@@ -119,6 +120,7 @@
 27365 all 失格紋的最強賢者
 27362 all 擅長捉弄人的高木同學 第三季
 27361 all 少女前線
+31999 all 文豪 Stray Dogs 劇場版 BEAST
 27360 all 最遊記 RELOAD -ZEROIN-
 27358 all 東京 24 區
 27446 all 東方少年
