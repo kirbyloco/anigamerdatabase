@@ -91,6 +91,7 @@
 28895 all BUILD-DIVIDE -#FFFFFF- CODE WHITE
 28875 all 處刑少女的生存之道
 28921 all 輝夜姬想讓人告白？～天才們的戀愛頭腦戰～ 第二季  OVA
+32213 all 電影版 奇巧計程車：撲朔謎林
 30695 all 派對咖孔明
 28805 all 小書痴的下剋上：為了成為圖書管理員不擇手段！第三季
 31895 all 名偵探柯南 警察學校篇 Wild Police Story CASE.伊達航
@@ -737,6 +738,7 @@
 13642 all 新企鵝家族 第一季
 8785 all 奇諾之旅 the Beautiful World
 8834 all 少女終末旅行
+11241 all 超人力霸王傑洛：英雄傳
 8782 all Just Because！
 15464 all 黑色五葉草
 13318 all 食戟之靈 餐之皿
@@ -771,6 +773,7 @@
 26294 all 不起眼女主角培育法 第二季
 7606 all 末日時在做什麼？有沒有空？可以來拯救嗎？
 7612 all 夏目友人帳 陸
+32214 all 有頂天家族 2
 15887 all 境界之Rinne 第三季
 28990 all Re:CREATORS
 7593 all 雛子的筆記
