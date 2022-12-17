@@ -468,6 +468,7 @@
 13824 all 七大罪 眾神的逆鱗
 13807 all Z/X Code reunion
 13822 all 神田川 JET GIRLS
+13818 all 募戀英雄 PIECE OF TRUTH
 13816 all 夢幻之星 Online 2 Episode Oracle
 13850 all 警視廳特務部特殊凶惡犯對策室第七課
 13919 all 非洲的動物上班族
@@ -492,6 +493,8 @@
 13914 all Radiant 虛空魔境 第二季
 13815 all 香蕉喵 不可思議的夥伴們
 26755 all 超人力霸王銀河大戰：新世代英雄
+32240 all 銀河英雄傳說 Die Neue These 星亂
+32252 all 海盜船長與魔法鑽石
 14405 all 請問您今天要來點兔子嗎？～Sing For You～
 15072 all BanG Dream！FILM LIVE
 21251 all 假面騎士 ZERO-ONE
@@ -1103,6 +1106,7 @@
 25137 all 假面騎士 WIZARD
 21634 all 特命戰隊 Go Busters THE MOVIE 保護東京 Enetower!
 23325 all 假面騎士 FOURZE THE MOVIE 大家的宇宙來了！
+22155 all 超人力霸王傑洛 FIGHT
 24456 all 火影忍者劇場版9：忍者之路
 926 all 刀劍神域 Sword Art Online
 1883 all 聖靈家族
@@ -1157,6 +1161,7 @@
 5408 all 惡魔奶爸
 4096 all IS 〈Infinite Stratos〉
 792 all 魔法少女小圓
+21644 all 超人力霸王傑洛 THE MOVIE 超決戰！貝利亞銀河帝國
 9750 all 假面騎士 OOO and W Feat Skull Movie 大戰 Core
 26143 all 襲來！美少女邪神
 22681 all 超時空甩尾
