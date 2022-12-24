@@ -53,7 +53,7 @@
 30018 all 轉生賢者的異世界生活～取得第二職業，成為世界最強～
 30021 all 歡迎來到實力至上主義的教室 第二季
 30016 all 森林裡的熊先生，冬眠中。
-30169 all 卡片戰鬥!! 先導者 overdress 第三季
+30169 all 卡片戰鬥!! 先導者 will+Dress
 30049 all 幽零幻鏡
 30008 all Lycoris Recoil 莉可麗絲
 30010 all 足球風雲！Goal to the Future
@@ -62,6 +62,7 @@
 30002 all 出租女友 第二季
 30004 all 神渣☆偶像
 30006 all 冰冰冰 冰淇淋君 第二季
+32294 all 衝鋒戰士：翁法洛斯島的秘密
 30783 all 我的英雄學院 HLB 英雄棒球聯盟
 30784 all 我的英雄學院 像在地獄一樣笑吧！
 30781 all 憂國的莫里亞蒂 OVA
@@ -171,6 +172,7 @@
 25490 all SELECTION PROJECT
 25162 all 加油吧同期醬
 25163 all 星期一的豐滿 第二季
+32291 all 海岬的迷途之家
 30444 all BanG Dream！FILM LIVE 2nd Stage
 23426 all 魔法紀錄 魔法少女小圓外傳 第二季
 31045 all Fate/Grand Order - 終局特異點 冠位時間神殿所羅門 -
@@ -242,12 +244,14 @@
 22219 all 卡片戰鬥!! 先導者 overdress
 22333 all 壽司大相撲
 22216 all 義呆利 World Stars
+32292 all 衝鋒戰士：恐龍世代
 22289 all 如果究極進化的完全沉浸 RPG 比現實還更像垃圾遊戲的話
 22240 all 擾亂 THE PRINCESS OF SNOW AND BLOOD
 22247 all 東京復仇者
 22161 all 憂國的莫里亞蒂 第一季 後半
 22198 all 我的英雄學院 第五季
 32166 all 假面騎士 ZERO-ONE 外傳：假面騎士滅亡迅雷
+32290 all 少女與戰車 最終章 第3話
 31110 all 超人力霸王特利卡：特別篇Z
 24998 all 國中高一貫!! 鬼滅學園物語
 21881 all 魔法水果籃 最終季
@@ -303,6 +307,7 @@
 18820 all D4DJ First Mix
 21373 all 鬼滅之刃 那田蜘蛛山篇
 23505 all 鬼滅之刃劇場版 無限列車篇
+32288 all 垃圾總動員
 18559 all 阿松 第三季
 18612 all 光之戰記 -ZUERST-
 18550 all 成神之日
@@ -695,6 +700,7 @@
 21646 all 賽馬娘
 22058 all 冷然之天秤
 9737 all 路人超能100 REIGEN ～不為人知的奇蹟靈能力者～
+11962 all 超人力霸王捷德劇場版 連結吧！心願！！
 17516 all 文豪野犬 劇場版 DEAD APPLE
 19744 all EX-AID Trilogy Another・Ending 假面騎士 Genm VS Lazer
 24884 all 電影 哆啦A夢 大雄的金銀島
