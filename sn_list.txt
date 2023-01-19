@@ -1,3 +1,4 @@
+32407 all 魔術士歐菲 流浪之旅 阿邦拉馬篇
 32388 all 真・進化果實～不知不覺踏上勝利的人生～
 32389 all 狩火之王
 32469 all 卡片戰鬥!! 先導者 will+Dress 第二季
@@ -1100,6 +1101,7 @@
 19801 all 飆速宅男
 1051 all MAGI 魔奇少年 第二季
 21562 all 假面騎士 鎧武
+5928 all 影子籃球員 第二季
 2029 all Little Busters ! ～Refrain～
 196 all 來自風平浪靜的明日
 4172 all IS 〈Infinite Stratos〉第二季
@@ -1159,6 +1161,7 @@
 21108 all 血戰-C：The Last Dark
 90 all 冰菓
 10039 all 假面騎士×超級戰隊 超級英雄大戰
+3896 all 影子籃球員
 10409 all Fate/zero 第二季
 12592 all 加速世界
 16921 all 火影忍者 SD 李洛克的青春全力忍傳
