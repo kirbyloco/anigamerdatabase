@@ -1021,6 +1021,7 @@
 11039 all 烈車戰隊特急者 VS 強龍者 THE MOVIE
 10448 all 純潔的瑪利亞
 2145 all 無頭騎士異聞錄 DuRaRaRa!!×2 承
+5936 all 影子籃球員 第三季
 1392 all 少年好萊塢 第二季
 3441 all 暗殺教室
 6923 all JOJO 的奇妙冒險 星塵遠征軍 埃及篇
@@ -1100,6 +1101,7 @@
 28872 all 女神異聞錄 3 劇場版 第一章 Spring of Birth
 12331 all 魔法少女小圓 新編 叛逆的物語
 21720 all 寶可夢 XY
+8069 all 東京闇鴉
 1896 all 蒼翼默示錄 Alter Memory
 19801 all 飆速宅男
 1051 all MAGI 魔奇少年 第二季
@@ -1168,6 +1170,7 @@
 10409 all Fate/zero 第二季
 12592 all 加速世界
 16921 all 火影忍者 SD 李洛克的青春全力忍傳
+26754 all 超人力霸王傳奇
 6721 all 神劍闖江湖 新京都篇
 24453 all 電影 哆啦A夢：大雄與奇跡之島～Animal adventure
 23326 all 海賊戰隊豪快者 VS 宇宙刑事卡邦 The Movie
