@@ -959,6 +959,7 @@
 20535 all Dimension W 維度戰記
 4616 all 無頭騎士異聞錄 DuRaRaRa!!×2 結
 4612 all Luck & Logic
+8164 all 石膏BOYS
 15777 all 魯邦三世 義大利遊戲
 19992 all 昭和元祿 落語心中
 20995 all 傷物語 I 鐵血篇
@@ -989,6 +990,7 @@
 8272 all 劇場版 假面騎士 Drive SURPRISE FUTURE
 11040 all 手裏劍戰隊忍忍者 THE MOVIE 恐龍殿下的驚天忍法帖！
 24714 all 火影忍者劇場版11：慕留人
+11812 all 超人力霸王 X
 7208 all 監獄學園
 1302 all 學園孤島
 21610 all 我家有個魚乾妹
