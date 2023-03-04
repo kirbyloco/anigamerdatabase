@@ -1,3 +1,4 @@
+33047 all 進擊的巨人 The Final Season 完結篇
 32407 all 魔術士歐菲 流浪之旅 阿邦拉馬篇
 32388 all 真・進化果實～不知不覺踏上勝利的人生～
 32389 all 狩火之王
@@ -216,6 +217,7 @@
 25490 all SELECTION PROJECT
 25162 all 加油吧同期醬
 25163 all 星期一的豐滿 第二季
+32901 all 假面騎士 Revice
 32291 all 海岬的迷途之家
 30444 all BanG Dream！FILM LIVE 2nd Stage
 23426 all 魔法紀錄 魔法少女小圓外傳 第二季
