@@ -1108,6 +1108,7 @@
 21562 all 假面騎士 鎧武
 5928 all 影子籃球員 第二季
 2029 all Little Busters ! ～Refrain～
+2811 all 第一神拳 Rising
 196 all 來自風平浪靜的明日
 4172 all IS 〈Infinite Stratos〉第二季
 4655 all Aikatsu! 偶像學園！第2季
@@ -1214,6 +1215,7 @@
 21644 all 超人力霸王傑洛 THE MOVIE 超決戰！貝利亞銀河帝國
 9750 all 假面騎士 OOO and W Feat Skull Movie 大戰 Core
 26143 all 襲來！美少女邪神
+21609 all 超銀河傳說外傳 超人力霸王傑洛 VS 黑暗獨眼傑洛
 22681 all 超時空甩尾
 804 all 魔法禁書目錄 Ⅱ
 113 all 我的妹妹哪有這麼可愛！
