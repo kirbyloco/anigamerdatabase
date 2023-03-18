@@ -747,7 +747,6 @@
 15365 all 魔法X戰士美少女
 21646 all 賽馬娘
 22058 all 冷然之天秤
-9737 all 路人超能100 REIGEN ～不為人知的奇蹟靈能力者～
 11962 all 超人力霸王捷德劇場版 連結吧！心願！！
 17516 all 文豪野犬 劇場版 DEAD APPLE
 19744 all EX-AID Trilogy Another・Ending 假面騎士 Genm VS Lazer
@@ -893,6 +892,7 @@
 16298 all 假面騎士 EX-AID
 10220 all 終末的伊澤塔
 11268 all ViVid Strike！
+33101 all WWW.WORKING!! 迷糊餐廳
 6850 all 喵阿楞！
 17437 all 烏龍派出所特別篇 - The Final 兩津勘吉的最後一天
 21266 all 飆速宅男 SPARE BIKE
@@ -925,6 +925,7 @@
 5793 all 小桃小栗 Love Love 物語
 15873 all 不愉快的妖怪庵
 5795 all Love Live! Sunshine!!
+11467 all 超人力霸王 X 劇場版 來了！我們的超人力霸王
 16406 all 排球少年！！VS 掛科
 29569 all 從好久以前就喜歡你
 7020 all 蠟筆小新電影 爆睡 夢世界大作戰！
