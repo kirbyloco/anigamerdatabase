@@ -1,3 +1,5 @@
+33250 all 我內心的糟糕念頭
+33277 all 輝夜姬想讓人告白－永不結束的初吻－
 33047 all 進擊的巨人 The Final Season 完結篇
 32407 all 魔術士歐菲 流浪之旅 阿邦拉馬篇
 32388 all 真・進化果實～不知不覺踏上勝利的人生～
@@ -278,7 +280,6 @@
 22228 all 轉生史萊姆日記 關於我轉生變成史萊姆這檔事
 22238 all 奇巧計程車
 22239 all 冰冰冰 冰淇淋君
-22222 all 再見了，我的克拉默
 22223 all 變身成黑辣妹之後就和死黨上床了
 22224 all 七騎士：革命 -英雄的繼承者-
 22225 all 燒窯的話也要馬克杯
@@ -292,7 +293,6 @@
 22333 all 壽司大相撲
 22216 all 義呆利 World Stars
 32292 all 衝鋒戰士：恐龍世代
-22289 all 如果究極進化的完全沉浸 RPG 比現實還更像垃圾遊戲的話
 22240 all 擾亂 THE PRINCESS OF SNOW AND BLOOD
 22247 all 東京復仇者
 22161 all 憂國的莫里亞蒂 第一季 後半
@@ -618,6 +618,7 @@
 21354 all 鬼滅之刃 兄妹之絆
 22092 all 阿松 劇場版
 15287 all PSYCHO-PASS 心靈判官 Sinners of the System Case.3 恩仇的彼方
+19738 all 超人力霸王 R/B 劇場版 決定了！羈絆的水晶
 20631 all 大人的防具店 裏面
 22254 all 鬼滅之刃 鬼滅電台
 16393 all 劇場版 王室教師海涅
@@ -741,10 +742,8 @@
 14020 all Aikatsu! 偶像學園！Friends
 21796 all MEGALOBOX 機甲拳擊
 10745 all 銀河英雄傳說 Die Neue These 邂逅
-12004 all 東京喰種：re
 9672 all 宇宙戰艦提拉米斯
 9680 all 妖怪旅館營業中
-9660 all 隊長小翼
 22643 all 你還是不懂群馬
 15365 all 魔法X戰士美少女
 21646 all 賽馬娘
@@ -837,7 +836,6 @@
 7590 all 重啟咲良田
 14882 all 慕留人 - 火影新世代 -
 23506 all 櫻花任務
-7579 all 機甲少女 Frame Arms Girl
 7586 all 王室教師海涅
 7613 all 少年阿貝GO！GO！小芝麻 第二季
 22336 all 不正經的魔術講師與禁忌教典
@@ -882,7 +880,6 @@
 6479 all 3 月的獅子
 27257 all 排球少年！！第三季
 20164 all ALL OUT!!
-6419 all 無畏魔女
 6471 all 文豪野犬 第二季
 7265 all YURI!!!on ICE
 26131 all 奇異太郎少年的妖怪畫日記
@@ -993,6 +990,7 @@
 8272 all 劇場版 假面騎士 Drive SURPRISE FUTURE
 11040 all 手裏劍戰隊忍忍者 THE MOVIE 恐龍殿下的驚天忍法帖！
 24714 all 火影忍者劇場版11：慕留人
+33188 all Fate/kaleid liner 魔法少女☆伊莉雅 2wei Herz！
 11812 all 超人力霸王 X
 7208 all 監獄學園
 1302 all 學園孤島
@@ -1064,6 +1062,7 @@
 1125 all 黑執事 馬戲團篇
 23088 all 女神異聞錄 4 黃金版
 10259 all 前進吧！登山少女 第二季
+33178 all Fate/kaleid liner 魔法少女☆伊莉雅 2wei！
 7870 all 斬！赤紅之瞳
 9437 all 月刊少女野崎同學
 9554 all 戲劇性謀殺
@@ -1123,6 +1122,7 @@
 20748 all 劇場版 獸電戰隊強龍者 GABURINCHO OF MUSIC
 22915 all 假面騎士 Wizard In Magic Land
 17096 all 闇芝居
+7956 all Fate/kaleid liner 魔法少女☆伊莉雅
 14945 all 新科學小飛俠
 7069 all 銀之匙
 19556 all 超人力霸王銀河
