@@ -1,4 +1,9 @@
+33259 all 勇者死了！
+33284 all Opus.COLORs 色彩高校星
 33253 all 為美好的世界獻上爆焰！
+33254 all 百合是我的工作！
+33256 all Dr. STONE 新石紀 第三季
+33281 all 魔法使的新娘 第二季
 33258 all 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～
 33252 all 熊熊勇闖異世界 PUNCH！
 33255 all 帶著智慧型手機闖蕩異世界。2
@@ -798,7 +803,6 @@
 8789 all 鬼燈的冷徹 第二季
 8796 all ClassicaLoid 第二季
 13642 all 新企鵝家族 第一季
-8785 all 奇諾之旅 the Beautiful World
 8834 all 少女終末旅行
 11241 all 超人力霸王傑洛：英雄傳
 8782 all Just Because！
@@ -839,7 +843,6 @@
 32214 all 有頂天家族 2
 15887 all 境界之Rinne 第三季
 28990 all Re:CREATORS
-7593 all 雛子的筆記
 9954 all 快盜天使 Twin Angels BREAK
 7589 all 戀愛暴君
 7580 all 武裝少女 Machiavellism
