@@ -1,3 +1,4 @@
+33291 all 鄰人似銀河
 33286 all 小鳥之翼 第二季
 33285 all 肌肉魔法使-MASHLE-
 33288 all 江戶前精靈
@@ -767,7 +768,7 @@
 21646 all 賽馬娘
 22058 all 冷然之天秤
 11962 all 超人力霸王捷德劇場版 連結吧！心願！！
-17516 all 文豪野犬 劇場版 DEAD APPLE
+17516 all 文豪 Stray Dogs 劇場版 DEAD APPLE
 19744 all EX-AID Trilogy Another・Ending 假面騎士 Genm VS Lazer
 15357 all 道別的早晨就用約定之花點綴吧
 19742 all EX-AID Trilogy Another・Ending 假面騎士 Para-DX with Poppy
@@ -895,7 +896,7 @@
 6479 all 3 月的獅子
 27257 all 排球少年！！第三季
 20164 all ALL OUT!!
-6471 all 文豪野犬 第二季
+6471 all 文豪 Stray Dogs 第二季
 7265 all YURI!!!on ICE
 26131 all 奇異太郎少年的妖怪畫日記
 6473 all 黑白來看守所
