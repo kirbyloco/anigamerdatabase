@@ -960,6 +960,7 @@
 14933 all 甲鐵城的卡巴內里
 5010 all Anne-Happy
 5012 all 線上遊戲的老婆不可能是女生？
+6130 all 文豪 Stray Dogs
 4998 all 雙星之陰陽師
 4999 all 少年阿貝GO！GO！小芝麻
 4997 all Hundred 百武裝戰記
