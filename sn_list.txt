@@ -12,6 +12,7 @@
 33355 all 第二次被異世界召喚
 33259 all 勇者死了！
 33284 all Opus.COLORs 色彩高校星
+33544 all 六道的惡女們
 33253 all 為美好的世界獻上爆焰！
 33254 all 百合是我的工作！
 33256 all Dr. STONE 新石紀 第三季
@@ -101,6 +102,7 @@
 31489 all 轉生就是劍
 31407 all 機動戰士鋼彈 水星的魔女
 31403 all 因為是反派大小姐所以養了魔王
+33393 all 劇場版 歌之☆王子殿下♪ 真愛 ST☆RISH TOURS
 30691 all 風都偵探
 32007 all 歌之☆王子殿下♪ 真愛 ST☆RISH TOURS～旅程的起點～
 30510 all 新來的女傭有點怪
@@ -576,6 +578,7 @@
 26755 all 超人力霸王銀河大戰：新世代英雄
 32240 all 銀河英雄傳說 Die Neue These 星亂
 32252 all 海盜船長與魔法鑽石
+33394 all 小怪獸成長日記
 14405 all 請問您今天要來點兔子嗎？～Sing For You～
 15072 all BanG Dream！FILM LIVE
 21251 all 假面騎士 ZERO-ONE
