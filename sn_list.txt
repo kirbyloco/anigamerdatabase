@@ -818,6 +818,7 @@
 8789 all 鬼燈的冷徹 第二季
 8796 all ClassicaLoid 第二季
 13642 all 新企鵝家族 第一季
+8785 all 奇諾之旅 the Beautiful World
 8834 all 少女終末旅行
 11241 all 超人力霸王傑洛：英雄傳
 8782 all Just Because！
@@ -907,6 +908,7 @@
 6479 all 3 月的獅子
 27257 all 排球少年！！第三季
 20164 all ALL OUT!!
+6419 all 無畏魔女
 6471 all 文豪 Stray Dogs 第二季
 7265 all YURI!!!on ICE
 26131 all 奇異太郎少年的妖怪畫日記
