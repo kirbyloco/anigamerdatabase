@@ -77,6 +77,7 @@
 33122 all 關於我轉生變成史萊姆這檔事劇場版 紅蓮之絆篇
 32322 all 名偵探柯南 警察學校篇 Wild Police Story CASE.諸伏景光
 31754 all 給不滅的你 第二季
+33944 all 刀劍神域劇場版－Progressive－陰沉薄暮的詼諧曲
 31751 all 她來自煩星
 31670 all 鏈鋸人
 31637 all 呆萌酷男孩
@@ -254,6 +255,7 @@
 25490 all SELECTION PROJECT
 25162 all 加油吧同期醬
 25163 all 星期一的豐滿 第二季
+33993 all 機戰少女 Alice OVA
 32901 all 假面騎士 Revice
 32291 all 海岬的迷途之家
 33942 all ZERO-ONE Others 假面騎士巴爾幹＆瓦爾基麗
