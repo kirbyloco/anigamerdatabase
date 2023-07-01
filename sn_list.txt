@@ -744,18 +744,13 @@
 12423 all 付喪神出租中！
 10484 all 進擊的巨人 第三季
 22154 all 炎神戰隊轟音者 10 YEARS GRANDPRIX
-10401 all 紅蓮之王
 12739 all Angolmois 元寇合戰記
 12448 all OVERLORD 第三季
-10283 all 京都寺町三條商店街的福爾摩斯
-10258 all 遊戲 3 人娘
 10210 all 工作細胞
 15591 all 超人力霸王 R/B
 10758 all K Seven Stories R:B ～BLAZE～
 11684 all K Seven Stories The・偶像 K
 17252 all 闇芝居 第六季
-10208 all 遙的接球
-10212 all 音樂少女
 11977 all 異世界魔王與召喚少女的奴隸魔術
 21622 all 夢王國與沉睡中的 100 位王子殿下
 12560 all 中間管理錄利根川
@@ -896,7 +891,6 @@
 18473 all Rewrite 第二季
 7157 all 為美好的世界獻上祝福！ 第二季
 8231 all 超級戀人 第二季
-7156 all 混沌之子
 7155 all Hand Shakers
 7154 all ACCA13 區監察課
 7747 all 動物朋友
@@ -968,7 +962,6 @@
 11467 all 超人力霸王 X 劇場版 來了！我們的超人力霸王
 16406 all 排球少年！！VS 掛科
 29569 all 從好久以前就喜歡你
-7020 all 蠟筆小新電影 爆睡 夢世界大作戰！
 27803 all 新 忍者哈特利 第三季
 12252 all 任性學園 HIGH SPEC
 5011 all 飛翔的魔女
@@ -1101,7 +1094,6 @@
 16884 all K MISSING KINGS
 878 all 三坪房間的侵略者！？
 1125 all 黑執事 馬戲團篇
-23088 all 女神異聞錄 4 黃金版
 10259 all 前進吧！登山少女 第二季
 33178 all Fate/kaleid liner 魔法少女☆伊莉雅 2wei！
 7870 all 斬！赤紅之瞳
@@ -1155,7 +1147,6 @@
 2029 all Little Busters ! ～Refrain～
 2811 all 第一神拳 Rising
 196 all 來自風平浪靜的明日
-4172 all IS 〈Infinite Stratos〉第二季
 4655 all Aikatsu! 偶像學園！第2季
 18372 all KILL la KILL
 3308 all 境界的彼方
@@ -1229,7 +1220,6 @@
 19024 all 蘋果核戰 XIII 劇場版～預言～
 11466 all 電影 K-ON！輕音部
 9507 all Guilty Crown 罪惡王冠
-10551 all 女神異聞錄 4
 5748 all 花牌情緣
 5575 all 獵人 Hunter x Hunter
 10408 all Fate/zero
@@ -1313,7 +1303,6 @@
 6069 all 機動戰士鋼彈 00 第二季
 4557 all 魔法禁書目錄
 2169 all 再會了假面騎士電王 最後的倒數計時
-20749 all 地獄少女 三鼎
 26305 all 神薙
 19759 all 黑執事
 21043 all 天元突破 紅蓮螺巖 紅蓮篇
@@ -1347,7 +1336,6 @@
 31469 all 結界師
 1191 all 史上最強弟子兼一
 5205 all 家庭教師 HITMAN REBORN！
-20710 all 地獄少女 二籠
 23616 all Code Geass 反叛的魯路修
 10579 all 死亡筆記本
 27287 all 烏龍派出所特別篇：兩津的淺草翻新大作戰！！ ～啊！充滿回憶的花屋敷～
@@ -1365,7 +1353,6 @@
 9815 all 假面騎士 THE FIRST
 27254 all 烏龍派出所特別篇：阿兩與忠犬幸運 〜躲過龜有大封鎖線！！〜
 28928 all 水星領航員
-20682 all 地獄少女
 24296 all 火影忍者劇場版2：大激突！幻之地底遺跡
 4357 all 鋼之鍊金術師 香巴拉的征服者 劇場版
 24157 all MAR 魔兵傳奇
