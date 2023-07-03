@@ -1,3 +1,5 @@
+34047 all 無職轉生～到了異世界就拿出真本事 第二季
+34048 all Fate/strange Fake -Whispers of Dawn-
 34050 all AYAKA  -綾島奇譚-
 34049 all 	萊莎的鍊金工房 ～常闇女王與秘密藏身處～
 34056 all 堀與宮村 -piece-
@@ -757,7 +759,6 @@
 11977 all 異世界魔王與召喚少女的奴隸魔術
 21622 all 夢王國與沉睡中的 100 位王子殿下
 12560 all 中間管理錄利根川
-10147 all 前進吧！登山少女 第三季
 11799 all 羽球戰爭！
 22152 all 宇宙戰隊九連者 VS SPACE SQUAD
 13293 all 卡片戰鬥！！先導者
@@ -1097,7 +1098,6 @@
 16884 all K MISSING KINGS
 878 all 三坪房間的侵略者！？
 1125 all 黑執事 馬戲團篇
-10259 all 前進吧！登山少女 第二季
 33178 all Fate/kaleid liner 魔法少女☆伊莉雅 2wei！
 7870 all 斬！赤紅之瞳
 9437 all 月刊少女野崎同學
@@ -1181,7 +1181,6 @@
 5682 all 花牌情緣 第二季
 54 all AMNESIA 失憶症
 2551 all Love Live! 第一季
-10244 all 前進吧！登山少女
 20747 all 假面騎士 × 假面騎士 Wizard & Fourze MOVIE 大戰 Ultimatum
 24066 all 宇宙刑事卡邦 THE MOVIE
 12329 all 魔法少女小圓 後編 永遠的物語
