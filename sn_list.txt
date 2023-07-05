@@ -1,5 +1,6 @@
 34053 all 甜點轉生
 34055 all 滿懷美夢的少年是現實主義者
+34071 all 我喜歡的女孩忘記戴眼鏡
 34051 all LV1 魔王與獨居廢勇者
 34057 all 政宗君的復仇 R
 34047 all 無職轉生～到了異世界就拿出真本事 第二季
@@ -470,7 +471,6 @@
 16251 all 高校之神
 16233 all 魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～
 16243 all 刀劍神域 Alicization War of Underworld -THE LAST SEASON-
-16240 all 巨人族的新娘
 16237 all 魔物娘的醫生
 16231 all Lapis Re：LiGHTs
 16229 all 弩級戰隊 HXEROS
@@ -854,7 +854,6 @@
 12040 all 超人力霸王捷德
 8325 all 來自深淵
 20834 all 18if 夢境異聞錄
-21659 all 梵諦岡奇蹟調查官
 8312 all 最遊記 RELOAD BLAST
 10733 all 捏造陷阱 -NTR- [年齡限制版]
 8322 all 徒然喜歡你
