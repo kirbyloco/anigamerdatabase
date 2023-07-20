@@ -10,6 +10,7 @@
 34080 all 超人力霸王布雷薩
 34095 all 卡片戰鬥!! 先導者 will+Dress 第三季
 34083 all BLEACH 死神 千年血戰篇-訣別譚-
+34247 all 七魔劍支配天下
 34075 all 神劍闖江湖 ―明治劍客浪漫譚―
 34076 all 聖者無雙～上班族的異世界生存之道～
 34074 all 咒術迴戰 第二季
@@ -23,7 +24,7 @@
 34092 all 無職轉生～到了異世界就拿出真本事 第二季
 34048 all Fate/strange Fake -Whispers of Dawn-
 34050 all AYAKA  -綾島奇譚-
-34049 all 萊莎的鍊金工房 ～常闇女王與秘密藏身處～
+34049 all 萊莎的鍊金工房 ～常闇女王與秘密藏身處～ The Animation
 34056 all 堀與宮村 -piece-
 34241 all 其實，我是最強的？
 34030 all BanG Dream! It's MyGO!!!!!
