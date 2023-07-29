@@ -181,6 +181,7 @@
 32324 all 劇場版 擅長捉弄人的高木同學
 32563 all 劇場版 異世界四重奏 ～Another World～
 32304 all 名偵探柯南 警察學校篇 Wild Police Story CASE.萩原研二
+34239 all 機界戰隊全開者 VS 煌輝者 VS 前輩者
 30781 all 憂國的莫里亞蒂 OVA
 31823 all 超人力霸王銀河大戰：命運的衝突
 29074 all 杜鵑婚約
@@ -1159,6 +1160,7 @@
 461 all 超級索尼子
 9529 all 流浪神差
 1 all 刀劍神域 Extra Edition
+5746 all 獵人劇場版 - 最終任務
 22900 all 假面騎士×假面騎士 鎧武 & Wizard 天下決勝之戰國 MOVIE 大合戰
 27316 all 進擊的巨人：伊爾澤的筆記
 26537 all 魔兵驚天錄 噬血宿命
@@ -1202,6 +1204,7 @@
 1075 all 魔法禁書目錄 劇場版
 2191 all 特命戰隊 Go Busters VS 海賊戰隊豪快者 THE MOVIE
 16771 all 寶可夢超級願望 第三季
+5747 all 獵人劇場版 - 緋色幻影
 5682 all 花牌情緣 第二季
 54 all AMNESIA 失憶症
 2551 all Love Live! 第一季
