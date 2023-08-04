@@ -255,6 +255,7 @@
 26850 all 鬼滅之刃 遊郭篇
 31863 all 名偵探柯南 警察學校篇 Wild Police Story CASE.松田陣平
 30469 all 水星領航員 ARIA The BENEDIZIONE
+34423 all 扶桑花女孩之舞
 29888 all GIVEN 被贈與的未來 劇場版：反面的存在
 26482 all 薄櫻鬼 新OVA
 30988 all 刀劍神域劇場版－Progressive－無星夜的詠嘆調
