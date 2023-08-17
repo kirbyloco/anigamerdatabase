@@ -33,6 +33,7 @@
 33959 all 幻日夜羽 -鏡中暉光-
 34268 all 劇場版 Collar×Malice -deep cover- 後篇
 34267 all 劇場版 Collar×Malice -deep cover- 前篇
+34660 all 獻祭公主與獸王
 33317 all 國王排名 勇氣的寶箱
 33312 all 【我推的孩子】
 33353 all 魔術士歐菲 流浪之旅 聖域篇
@@ -773,7 +774,6 @@
 24479 all 開啟吧！見習神仙精靈
 14315 all 假面騎士 ZI-O
 11150 all K Seven Stories SIDE：GREEN ～覆寫世界～
-14390 all 企鵝公路
 26728 all 進擊的巨人：Lost Girls Lost in the Cruel World
 25433 all 殘念生物事典
 10928 all K Seven Stories SIDE:BLUE ～猶如天狼～
