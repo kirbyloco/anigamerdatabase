@@ -146,6 +146,8 @@
 30691 all 風都偵探
 32007 all 歌之☆王子殿下♪ 真愛 ST☆RISH TOURS～旅程的起點～
 30510 all 新來的女傭有點怪
+34631 all 劇場版 假面騎士 REVICE Battle Familia
+34640 all 暴太郎戰隊 Don Brothers THE MOVIE 新．初戀英雄
 30417 all Love Live! SuperStar!! 第二季
 30441 all 打工吧，魔王大人！第二季
 30298 all 東方少年 第二季
@@ -298,6 +300,7 @@
 25163 all 星期一的豐滿 第二季
 33993 all 機戰少女 Alice OVA
 32901 all 假面騎士 Revice
+34642 all 鬼滅之奏（無限列車篇）
 32291 all 海岬的迷途之家
 33942 all ZERO-ONE Others 假面騎士巴爾幹＆瓦爾基麗
 30444 all BanG Dream！FILM LIVE 2nd Stage
