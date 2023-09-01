@@ -614,7 +614,6 @@
 13816 all 夢幻之星 Online 2 Episode Oracle
 13850 all 警視廳特務部特殊凶惡犯對策室第七課
 13919 all 非洲的動物上班族
-19536 all 歌塑世界 -Songs Connection-
 22855 all Fairy gone 第二季
 13809 all 入間同學入魔了！
 13813 all 我們真的學不來！第二季
@@ -722,7 +721,6 @@
 11441 all 馬納歷亞的親愛摯友
 17247 all 來自深淵 劇場版總集篇 後編：流浪之黃昏
 11437 all 荒野的壽飛行隊
-20847 all 彼時彼女
 11431 all 輝夜姬想讓人告白～天才們的戀愛頭腦戰～
 11433 all ENDRO！
 11417 all 百慕達三角～多彩田園曲～
@@ -755,7 +753,6 @@
 20581 all 大人的防具店
 10861 all 書店裡的骷髏店員本田
 11844 all Anima Yell!
-19240 all 尤利西斯 貞德與鍊金騎士
 10855 all SSSS.GRIDMAN
 10849 all 刀劍神域 Alicization
 10907 all Radiant 虛空魔境
@@ -777,9 +774,7 @@
 23563 all RErideD - 穿越時空的德理達 -
 11446 all 強風吹拂
 10828 all 關於我轉生變成史萊姆這檔事
-10829 all 宇宙戰艦提拉米斯 Ⅱ
 21946 all DOUBLE DECKER！道格＆基里爾
-10925 all Aikatsu! 偶像學園！STARS 第2季
 24479 all 開啟吧！見習神仙精靈
 14315 all 假面騎士 ZI-O
 11150 all K Seven Stories SIDE：GREEN ～覆寫世界～
@@ -802,7 +797,6 @@
 11799 all 羽球戰爭！
 22152 all 宇宙戰隊九連者 VS SPACE SQUAD
 13293 all 卡片戰鬥！！先導者
-9752 all 驚爆危機 Invisible Victory
 23183 all 奴隸區 The Animation
 9668 all 最終休止符
 9742 all 惡魔高校 D×D HERO
@@ -821,12 +815,10 @@
 14020 all Aikatsu! 偶像學園！Friends
 21796 all MEGALOBOX 機甲拳擊
 10745 all 銀河英雄傳說 Die Neue These 邂逅
-9672 all 宇宙戰艦提拉米斯
 9680 all 妖怪旅館營業中
 22643 all 你還是不懂群馬
 15365 all 魔法X戰士美少女
 21646 all 賽馬娘
-22058 all 冷然之天秤
 11962 all 超人力霸王捷德劇場版 連結吧！心願！！
 17516 all 文豪 Stray Dogs 劇場版 DEAD APPLE
 19744 all EX-AID Trilogy Another・Ending 假面騎士 Genm VS Lazer
@@ -834,10 +826,8 @@
 19742 all EX-AID Trilogy Another・Ending 假面騎士 Para-DX with Poppy
 19740 all EX-AID Trilogy Another・Ending 假面騎士 Brave ＆ Snipe
 16727 all 衛宮家今天的餐桌風景
-19288 all 驚爆危機 總集篇 第三部：Into the blue
 16395 all 劇場版 無敵鐵金剛 ／ INFINITY
 10089 all 劇場版 進擊的巨人 覺醒的咆哮
-19287 all 驚爆危機 總集篇 第二部：One-night stand
 9304 all 博多豚骨拉麵團
 9296 all 爆肝工程師的異世界狂想曲
 12882 all 廢柴王子
@@ -855,13 +845,11 @@
 9251 all IDOLiSH7 - 偶像星願 -
 22877 all 電影版妖怪手錶：光影之卷鬼王的復活
 26339 all 進擊的巨人：Wall Sina,Goodbye―Part One―
-19286 all 驚爆危機 總集篇 第一部：Boy meets girl
 32612 all 無論何時我們的戀情都是10厘米。
 11471 all Fate/stay night [Heaven's Feel] I. 預示之花
 8788 all 3 月的獅子 第二季
 8835 all 我的女友是個過度認真的處女 Bitch
 22579 all 網路勝利組
-8794 all 動畫同好會
 8795 all 如果有妹妹就好了。
 21907 all 我家有個魚乾妹 R
 8790 all 魔法使的新娘
@@ -959,7 +947,6 @@
 6419 all 無畏魔女
 6471 all 文豪 Stray Dogs 第二季
 7265 all YURI!!!on ICE
-26131 all 奇異太郎少年的妖怪畫日記
 6473 all 黑白來看守所
 6425 all 夏目友人帳 伍
 6406 all 神裝少女小纏
@@ -987,7 +974,6 @@
 11964 all 91 Days
 5871 all 這個美術社大有問題！
 5864 all Fate/kaleid liner 魔法少女☆伊莉雅 3rei！！
-26119 all 童話黑手黨 OZMAFIA!!
 5859 all 吸血鬼僕人
 5860 all 男子啦啦隊！！
 8040 all 香蕉喵
@@ -1005,7 +991,6 @@
 16406 all 排球少年！！VS 掛科
 29569 all 從好久以前就喜歡你
 27803 all 新 忍者哈特利 第三季
-12252 all 任性學園 HIGH SPEC
 5011 all 飛翔的魔女
 15709 all 境界之Rinne 第二季
 18629 all 高校艦隊
@@ -1511,13 +1496,10 @@
 15355 all 真 魔神英雄傳 魔神山篇
 11833 all 機動警察 劇場版 1
 28150 all 魔動王
-4358 all 五星物語 劇場版
 24216 all 麵包超人
 16746 all 魔神英雄傳
 13020 all 城市獵人 2
 24352 all 妙手小廚師
-19648 all 迷宮物語
 29762 all 妖獸都市 1987 劇場版
 12795 all 城市獵人
-19289 all 卡姆依之劍
 30023 all 原子小金剛
