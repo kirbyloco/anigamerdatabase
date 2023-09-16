@@ -670,6 +670,7 @@
 12653 all Dr.STONE 新石紀
 12649 all 騷亂時節的少女們。
 29922 all 炎炎消防隊
+34988 all 劇場版 FREE! 男子游泳部 -Road to the World-夢
 12647 all 為了女兒，我說不定連魔王都能幹掉。
 12644 all 流汗吧！健身少女
 12642 all 彼方的阿斯特拉
@@ -854,6 +855,7 @@
 22877 all 電影版妖怪手錶：光影之卷鬼王的復活
 26339 all 進擊的巨人：Wall Sina,Goodbye―Part One―
 32612 all 無論何時我們的戀情都是10厘米。
+34987 all 特別版 FREE! 男子游泳部 -Take Your Marks-
 11471 all Fate/stay night [Heaven's Feel] I. 預示之花
 8788 all 3 月的獅子 第二季
 8835 all 我的女友是個過度認真的處女 Bitch
@@ -893,8 +895,10 @@
 8321 all 單蠢女孩
 8320 all 異世界食堂
 17148 all 闇芝居 第五季
+34986 all 劇場版 FREE! 男子游泳部 Timeless Medley- 約束
 8308 all Hina Logic
 15116 all 魔法科高中的劣等生 呼喚繁星的少女
+34985 all 劇場版 FREE! 男子游泳部 Timeless Medley- 絆
 7610 all 劍姬神聖譚
 9436 all 蠟筆小新電影 宇宙人 Pi 力來襲！！
 11470 all 超人力霸王格鬥歐布 請賜與我親子的力量！
@@ -1220,7 +1224,6 @@
 310 all Aikatsu! 偶像學園！
 1048 all MAGI 魔奇少年
 12328 all 魔法少女小圓 前編 起始的物語
-13109 all Little Busters !
 6107 all JOJO 的奇妙冒險
 10649 all K
 437 all 絕園的暴風雨
