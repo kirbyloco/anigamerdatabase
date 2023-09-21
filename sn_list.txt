@@ -313,6 +313,7 @@
 32291 all 海岬的迷途之家
 33942 all ZERO-ONE Others 假面騎士巴爾幹＆瓦爾基麗
 30444 all BanG Dream！FILM LIVE 2nd Stage
+34994 all 屁屁偵探：舒芙蕾島的秘密
 23426 all 魔法紀錄 魔法少女小圓外傳 第二季
 31045 all Fate/Grand Order - 終局特異點 冠位時間神殿所羅門 -
 23661 all 平穩世代的韋駄天們
@@ -498,6 +499,7 @@
 16952 all 我的英雄學院 OVA：活下來！殊死的生存訓練
 26998 all Fate/stay night [Heaven's Feel] Ⅲ.春櫻之歌
 22879 all 約會大作戰 DATE A BULLET 赤黑新章：虛或實
+34992 all 屁屁偵探：咖哩香料事件＋瓢蟲遺蹟之謎
 28933 all 劇場版 超人力霸王大河 新世代終結黑暗
 31761 all 刑警X戰士美少女
 26156 all 秘密X戰士美少女  劇場版 大家一起來看電影喔
@@ -709,7 +711,7 @@
 12077 all 戀愛幕末男友外傳-危機
 22100 all Aikatsu! 偶像學園！Friends 第二季
 22943 all 喵的咧～貓咪戲說日本史！第四季
-12076 all 一拳超人 (第二季)
+12076 all 一拳超人 第二季
 31240 all 假面騎士 ZI-O 外傳：RIDER TIME 假面騎士 SHINOBI
 31246 all 假面騎士 ZI-O 外傳：RIDER TIME 假面騎士龍騎
 21354 all 鬼滅之刃 兄妹之絆
@@ -1039,6 +1041,7 @@
 4877 all 只有我不存在的城市
 4479 all 夢幻之星 Online 2
 15925 all 無彩限的幻影世界
+34990 all 電影版櫻桃小丸子：來自義大利的少年
 7895 all 假面騎士Ghost&Drive
 23465 all FREE! 男子游泳部 電影 High☆Speed! -Free! Starting Days-
 21882 all 寶可夢 XY＆Z
