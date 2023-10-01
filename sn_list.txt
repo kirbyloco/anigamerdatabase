@@ -1,3 +1,6 @@
+35246 all 狩龍人拉格納
+35245 all 烈焰先鋒 救國的橘衣消防員
+35250 all 燃油車鬥魂
 35241 all 葬送的芙莉蓮
 35240 all 大小姐和看門犬
 35239 all 想當冒險者前往都市的女兒成為 S 級
@@ -717,7 +720,6 @@
 12078 all 魔法水果籃
 12080 all 滿腦都是○○的我沒辦法談戀愛
 12079 all 川柳少女
-12077 all 戀愛幕末男友外傳-危機
 22100 all Aikatsu! 偶像學園！Friends 第二季
 22943 all 喵的咧～貓咪戲說日本史！第四季
 12076 all 一拳超人 第二季
@@ -768,12 +770,10 @@
 29003 all ANEMONE／交響詩篇艾蕾卡 7：HI - EVOLUTION
 11445 all K Seven Stories 紅之記憶 ～BURN～
 11893 all 梅露可物語
-12016 all 東京喰種：re 第二季
 10915 all 黃金神威 第二季
 20581 all 大人的防具店
 10861 all 書店裡的骷髏店員本田
 11844 all Anima Yell!
-10855 all SSSS.GRIDMAN
 10849 all 刀劍神域 Alicization
 10907 all Radiant 虛空魔境
 10852 all 哥布林殺手
@@ -782,14 +782,10 @@
 17334 all Re：從零開始的異世界生活 Memory Snow
 10840 all 魔法禁書目錄 Ⅲ
 10922 all JOJO 的奇妙冒險 黃金之風
-10906 all 火之丸相撲
-11376 all 我讓最想被擁抱的男人給威脅了
-11564 all 我家的女僕有夠煩！
 17286 all 歡迎光臨，千歲醬
 10910 all 戀愛幕末男友外傳
 10956 all 學園 BASARA
 11419 all 佐賀偶像是傳奇
-10837 all 青春豬頭少年不會夢到兔女郎學姊
 12028 all 天空與海洋之間
 23563 all RErideD - 穿越時空的德理達 -
 11446 all 強風吹拂
@@ -920,7 +916,6 @@
 11590 all 情色漫畫老師
 15887 all 境界之Rinne 第三季
 28990 all Re:CREATORS
-9954 all 快盜天使 Twin Angels BREAK
 7589 all 戀愛暴君
 7580 all 武裝少女 Machiavellism
 7590 all 重啟咲良田
@@ -1054,7 +1049,6 @@
 7895 all 假面騎士Ghost&Drive
 23465 all FREE! 男子游泳部 電影 High☆Speed! -Free! Starting Days-
 21882 all 寶可夢 XY＆Z
-3022 all 請問您今天要來點兔子嗎？？
 17981 all 阿松
 4451 all 一拳超人
 8203 all 彗星路西法
@@ -1129,7 +1123,6 @@
 19900 all 飆速宅男 第二季
 20363 all 假面騎士 Drive
 32306 all 狼少女和黑王子
-1354 all 尋找失去的未來
 10361 all Fate/stay night [Unlimited Blade Works]
 4506 all 天使與龍的輪舞
 20810 all 神偷怪盜 1412
@@ -1155,7 +1148,6 @@
 29093 all 女神異聞錄 3 劇場版 第二章 Midsummer Knight's Dream
 790 all 蠟筆小新：大對決！機器人爸爸的反擊！
 2564 all 銀河騎士傳
-1908 all 請問您今天要來點兔子嗎？
 7944 all NO GAME NO LIFE 遊戲人生
 27317 all 進擊的巨人：突然的來訪者
 1135 all 黑色子彈
