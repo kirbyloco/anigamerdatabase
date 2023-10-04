@@ -1,6 +1,10 @@
 35361 all 我的推是壞人大小姐。
 35362 all SHY 靦腆英雄
 35363 all 某大叔的 VRMMO 活動記
+35392 all 聖女魔力無所不能 第二季
+35370 all 聖劍學院的魔劍使
+35371 all B-PROJECT 〜熱烈＊Love Call〜
+35395 all Paradox Live THE ANIMATION
 35359 all 米奇與達利
 35360 all 鴨乃橋論的禁忌推理
 35246 all 狩龍人拉格納
@@ -235,7 +239,7 @@
 28897 all 魔法使黎明期
 28793 all 史上最強大魔王轉生為村民 A
 28794 all 相合之物
-28873 all 盾之勇者成名錄 第二季
+28873 all 盾之勇者成名錄 Season 2
 28792 all 勇者、辭職不幹了
 28870 all 小鳥之翼
 28800 all 群青的開幕曲
