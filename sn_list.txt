@@ -1,5 +1,8 @@
+35429 all 柚木家的四兄弟
+35436 all 地下忍者
 35411 all 絆之 Allele 第二季
 35414 all 16bit 的感動 ANOTHER LAYER
+35425 all 聖魔大戰 BIKKURI-MEN
 35402 all 撿走被人悔婚的千金，教會她壞壞的幸福生活
 35399 all BULLBUSTER
 35405 all 我想成為影之強者！第二季
@@ -797,7 +800,6 @@
 10861 all 書店裡的骷髏店員本田
 11844 all Anima Yell!
 10849 all 刀劍神域 Alicization
-10907 all Radiant 虛空魔境
 10852 all 哥布林殺手
 10933 all 逆轉裁判 第二季
 11302 all K Seven Stories Based on Lost Small World ～牢籠的彼端～
@@ -889,7 +891,6 @@
 11471 all Fate/stay night [Heaven's Feel] I. 預示之花
 8788 all 3 月的獅子 第二季
 8835 all 我的女友是個過度認真的處女 Bitch
-22579 all 網路勝利組
 8795 all 如果有妹妹就好了。
 21907 all 我家有個魚乾妹 R
 8790 all 魔法使的新娘
