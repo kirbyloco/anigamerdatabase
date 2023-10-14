@@ -26,6 +26,7 @@
 35399 all 巨獸防衛企業 BULLBUSTER
 35405 all 我想成為影之強者！第二季
 35408 all 賽馬娘 Pretty Derby 第三季
+35699 all 戽斗星球
 35361 all 我的推是壞人大小姐。
 35362 all SHY 靦腆英雄
 35363 all 某大叔的 VRMMO 活動記
