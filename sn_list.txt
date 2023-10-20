@@ -848,6 +848,7 @@
 12423 all 付喪神出租中！
 10484 all 進擊的巨人 第三季
 22154 all 炎神戰隊轟音者 10 YEARS GRANDPRIX
+10401 all 紅蓮之王
 12739 all Angolmois 元寇合戰記
 12448 all OVERLORD 第三季
 10210 all 工作細胞
@@ -986,6 +987,7 @@
 18473 all Rewrite 第二季
 7157 all 為美好的世界獻上祝福！ 第二季
 8231 all 超級戀人 第二季
+7156 all 混沌之子
 7155 all Hand Shakers
 7154 all ACCA13 區監察課
 7747 all 動物朋友
