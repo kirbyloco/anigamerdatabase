@@ -451,6 +451,7 @@
 24998 all 國高中一貫！！鬼滅學園物語
 21881 all 魔法水果籃 最終季
 25612 all 水星領航員 ARIA The CREPUSCOLO
+35804 all 鳴鳥不飛：Don’t stay gold
 21479 all 舞伎家的料理人
 26540 all 新網球王子 冰帝 vs 立海 Game of Future
 28469 all 名偵探柯南：緋色的不在場證明
@@ -489,6 +490,7 @@
 20445 all 大人的防具店 第二季
 20342 all 花樣滑冰 Stars
 29975 all 寶可夢：皮卡丘與可可的冒險
+35802 all 喬瑟與虎與魚群 動畫版
 28789 all 有貓注意！
 21356 all 鬼滅之刃 柱合會議‧蝴蝶屋篇
 24069 all 劇場版《假面騎士 ZERO-ONE REAL×TIME》＆劇場短篇 《假面騎士聖刃 不死鳥的劍士與破滅之書》
@@ -617,6 +619,7 @@
 16885 all 世界一初戀～求婚編～
 20958 all 星光王子 舞台劇 Over the Sunshine！
 21526 all 星光王子 舞台劇 Shiny Rose Stars
+35803 all 鳴鳥不飛：烏雲密布
 14862 all ACCA13 區監察課 Regards
 24070 all 築夢奇蹟
 16590 all 哥布林殺手 -GOBLIN’S CROWN-
