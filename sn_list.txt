@@ -1,3 +1,4 @@
+35861 all 關於我轉生變成史萊姆這檔事 柯里烏斯之夢
 35788 all 愛犬訊號
 35386 all 川越男子歌唱團
 35372 all 星靈感應
@@ -868,7 +869,6 @@
 22152 all 宇宙戰隊九連者 VS SPACE SQUAD
 35205 all 麵包超人電影版：閃耀吧！庫倫與生命之星
 13293 all 卡片戰鬥！！先導者
-23183 all 奴隸區 The Animation
 9668 all 最終休止符
 9742 all 惡魔高校 D×D HERO
 9676 all 黃金神威
@@ -923,6 +923,7 @@
 8788 all 3 月的獅子 第二季
 8835 all 我的女友是個過度認真的處女 Bitch
 8795 all 如果有妹妹就好了。
+8787 all Love Live! Sunshine!! 第二季
 8790 all 魔法使的新娘
 8789 all 鬼燈的冷徹 第二季
 8796 all ClassicaLoid 第二季
