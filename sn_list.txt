@@ -879,6 +879,7 @@
 22152 all 宇宙戰隊九連者 VS SPACE SQUAD
 35205 all 麵包超人電影版：閃耀吧！庫倫與生命之星
 13293 all 卡片戰鬥！！先導者
+23183 all 奴隸區 The Animation
 9668 all 最終休止符
 9742 all 惡魔高校 D×D HERO
 9676 all 黃金神威
