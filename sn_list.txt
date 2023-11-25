@@ -196,6 +196,8 @@
 31596 all PUI PUI 天竺鼠車車 駕訓班篇
 31658 all 入間同學入魔了！第三季
 31593 all 聖劍傳說 Legend of Mana - The Teardrop Crystal -
+36234 all 僕愛君愛：致我深愛的每個妳
+36235 all 僕愛君愛：致深愛妳的那個我
 31590 all MUV-LUV ALTERNATIVE 第二季
 31625 all 不道德公會
 31628 all 書蟲公主
@@ -229,6 +231,7 @@
 30284 all 幕末替身傳說
 30288 all 天籟人偶
 31266 all 阿松～希皮波族與閃耀果實～
+36266 all 電影版殘念生物事典
 30207 all 組長女兒與保姆
 30282 all 奇米萌 CHIMIMO
 30171 all 來自深淵 烈日的黃金鄉
