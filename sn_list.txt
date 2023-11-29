@@ -950,7 +950,6 @@
 18005 all 阿松 第二季
 29002 all 交響詩篇艾蕾卡 7：HI - EVOLUTION
 13004 all 假面騎士 Build
-9377 all 魔法使的新娘 等待星星的人：後篇
 8633 all 終物語 第二季
 34539 all 海豹小白
 11042 all 宇宙戰隊九連者 THE MOVIE Goes Indaver 的逆襲
@@ -1000,7 +999,6 @@
 11339 all 超人力霸王歐布劇場版 請賜予我羈絆的力量！
 7583 all 進擊的巨人 第二季
 9242 all 刀劍神域 劇場版 序列爭戰
-9376 all 魔法使的新娘 等待星星的人：中篇
 28368 all 新 忍者哈特利 第四季
 7147 all BanG Dream！
 17135 all 闇芝居 第四季
@@ -1041,7 +1039,6 @@
 20190 all 12歲。～小小的怦然心動～ 第二季
 6436 all 歌之王子殿下 真愛 LEGEND STAR
 16298 all 假面騎士 EX-AID
-10220 all 終末的伊澤塔
 11268 all ViVid Strike！
 33101 all WWW.WORKING!! 迷糊餐廳
 6850 all 喵阿楞！
@@ -1050,7 +1047,6 @@
 21266 all 飆速宅男 SPARE BIKE
 14076 all 七大罪 聖戰的預兆
 20996 all 傷物語 II 熱血篇
-9374 all 魔法使的新娘 等待星星的人：前篇
 10072 all 劇場版 假面騎士 Ghost 100個眼魂與Ghost命運的瞬間
 11043 all 劇場版 動物戰隊獸王者 心跳不已馬戲團恐慌！
 6126 all 加速世界 INFINITE BURST
@@ -1072,7 +1068,6 @@
 5794 all 食戟之靈 貳之皿
 18460 all Rewrite
 22383 all DAYS
-10175 all ReLIFE 重返 17 歲
 5793 all 小桃小栗 Love Love 物語
 15873 all 不愉快的妖怪庵
 5795 all Love Live! Sunshine!!
@@ -1115,7 +1110,6 @@
 4480 all 暗殺教室 第二季
 4877 all 只有我不存在的城市
 4479 all 夢幻之星 Online 2
-15925 all 無彩限的幻影世界
 34990 all 電影版櫻桃小丸子：來自義大利的少年
 7895 all 假面騎士Ghost&Drive
 23465 all FREE! 男子游泳部 電影 High☆Speed! -Free! Starting Days-
@@ -1196,7 +1190,6 @@
 32306 all 狼少女和黑王子
 10361 all Fate/stay night [Unlimited Blade Works]
 4506 all 天使與龍的輪舞
-20810 all 神偷怪盜 1412
 7418 all Aikatsu! 偶像學園！第3季
 23377 all 飆速宅男 Re: RIDE
 33208 all 宇宙兄弟 #0
