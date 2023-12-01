@@ -2,6 +2,7 @@
 35985 all 進擊的巨人 The Final Season 完結篇 後篇
 35861 all 關於我轉生變成史萊姆這檔事 柯里烏斯之夢
 35788 all 愛犬訊號
+36336 all 我的英雄學院 雄英 HEROES BATTLE
 35386 all 川越男子歌唱團
 35372 all 星靈感應
 35472 all 我的新上司是天然呆
@@ -928,7 +929,6 @@
 21671 all 搖曳露營△
 16507 all 比宇宙更遠的地方
 9251 all IDOLiSH7 - 偶像星願 -
-22877 all 電影版妖怪手錶：光影之卷鬼王的復活
 26339 all 進擊的巨人：Wall Sina,Goodbye―Part One―
 32612 all 無論何時我們的戀情都是10厘米。
 34987 all 特別版 FREE! 男子游泳部 -Take Your Marks-
@@ -1439,7 +1439,6 @@
 31469 all 結界師
 1191 all 史上最強弟子兼一
 5205 all 家庭教師 HITMAN REBORN！
-23616 all Code Geass 反叛的魯路修
 10579 all 死亡筆記本
 34096 all 寶可夢 鑽石與珍珠
 27287 all 烏龍派出所特別篇：兩津的淺草翻新大作戰！！ ～啊！充滿回憶的花屋敷～
