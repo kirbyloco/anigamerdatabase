@@ -396,7 +396,6 @@
 23340 all 女神宿舍的管理員。 [年齡限制版]
 23341 all 女神宿舍的管理員。
 34898 all 暗夜第六感 2041
-23337 all 急戰 5 秒殊死鬥
 23333 all Love Live! Superstar!!
 23370 all 闇芝居 第九季
 34282 all 友情X戰士美少女
@@ -558,7 +557,6 @@
 18440 all BEM 妖怪人類貝姆劇場版～BECOME HUMAN～
 18484 all 鐵路浪漫譚
 20629 all WAVE!! ~來衝浪吧!!~
-29892 all 汪汪與喵喵
 18421 all 暮蟬悲鳴時 業
 25005 all 銀龍出任務
 18537 all 大貴族
@@ -588,7 +586,6 @@
 16402 all 出租女友
 16407 all GET UP！GET LIVE！＃GERA GERA
 16400 all 彼得・格里爾的賢者時間 [年齡限制版]
-16396 all 果然我的青春戀愛喜劇搞錯了。完
 16391 all 非槍人生 NO GUNS LIFE 第二季
 16344 all Re：從零開始的異世界生活 第二季
 16295 all 魔法律事務所 第二季
@@ -640,7 +637,6 @@
 20958 all 星光王子 舞台劇 Over the Sunshine！
 21526 all 星光王子 舞台劇 Shiny Rose Stars
 35803 all 鳴鳥不飛：烏雲密布
-14862 all ACCA13 區監察課 Regards
 24070 all 築夢奇蹟
 16590 all 哥布林殺手 -GOBLIN’S CROWN-
 32175 all 烘焙小精靈
@@ -661,7 +657,6 @@
 15173 all 地縛少年花子君
 14487 all 索瑪麗與森林之神
 14534 all 淘氣貓 2020：家有圓圓？！我家的圓圓你知道嗎～
-14503 all 貓娘樂園
 14528 all 神推偶像登上武道館我就死而無憾
 14526 all 寶石商人理察的謎鑑定
 14530 all 搖滾少女!! 活力棉花糖!!
@@ -729,7 +724,6 @@
 15072 all BanG Dream！FILM LIVE
 21251 all 假面騎士 ZERO-ONE
 23649 all 為美好的世界獻上祝福！紅傳說
-15450 all 卡片戰鬥！！先導者 新右衛門篇
 13135 all 機甲英雄 機鬥勇者
 13802 all Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -
 12672 all TRY KNIGHTS
@@ -766,7 +760,6 @@
 14568 all 魔法少女☆伊莉雅 百變嘉年華
 23100 all 劇場版 歌之☆王子殿下♪真愛 KINGDOM
 34860 all 汪星人的奇幻漂流
-14246 all 卡片戰鬥！！先導者 續高校篇
 22575 all 快盜戰隊魯邦連者 VS 警察戰隊巡邏連者 VS 宇宙戰隊九連者
 14815 all 生日幻境
 29515 all 凸槌大歷險
@@ -804,7 +797,6 @@
 16393 all 劇場版 王室教師海涅
 15172 all PSYCHO-PASS 心靈判官 Sinners of the System Case.2 First Guardian
 34831 all 劇場版 在地下城尋求邂逅是否搞錯了什麼 ─ 獵戶座之箭 ─
-11795 all Fight League 交鋒聯盟
 15942 all 幼女戰記 劇場版
 14391 all 城市獵人劇場版 新宿 PRIVATE EYES
 15133 all PSYCHO-PASS 心靈判官 Sinners of the System Case.1 罪與罰
@@ -812,15 +804,11 @@
 16205 all 魯邦三世 再見了伙伴
 11441 all 馬納歷亞的親愛摯友
 17247 all 來自深淵 劇場版總集篇 後編：流浪之黃昏
-11437 all 荒野的壽飛行隊
 11431 all 輝夜姬想讓人告白～天才們的戀愛頭腦戰～
 11433 all ENDRO！
 11417 all 百慕達三角～多彩田園曲～
 23324 all Fate/stay night [Heaven's Feel] II.迷途之蝶
 11465 all 約會大作戰 DATE A LIVE 第三季
-11412 all 家有女友
-11410 all B-PROJECT～絕頂＊Emotion～
-11415 all 魔法少女特殊戰明日香
 12952 all 約定的夢幻島
 11401 all 同居人是貓
 11396 all 路人超能 100 第二季
@@ -831,7 +819,6 @@
 24268 all 名偵探柯南：紅之校外旅行 鮮紅篇和戀紅篇
 11390 all 笑容的代價
 16536 all 來自深淵 劇場版總集篇 前編：啟程的黎明
-11388 all BanG Dream！第二季
 29213 all 盾之勇者成名錄
 22875 all 電影版妖怪手錶：永遠的朋友
 35207 all 七龍珠超：布羅利
@@ -884,7 +871,6 @@
 11799 all 羽球戰爭！
 22152 all 宇宙戰隊九連者 VS SPACE SQUAD
 35205 all 麵包超人電影版：閃耀吧！庫倫與生命之星
-13293 all 卡片戰鬥！！先導者
 23183 all 奴隸區 The Animation
 9668 all 最終休止符
 9742 all 惡魔高校 D×D HERO
@@ -897,7 +883,6 @@
 9744 all 藍海少女 第二季
 10991 all 劇場版 吸血鬼僕人 -Alice in the Garden-
 21138 all 棒球大聯盟 2nd
-23063 all DEVILSLINE 惡魔戰線
 24651 all 失憶融合WIXOSS
 10133 all 多田君不戀愛
 14020 all Aikatsu! 偶像學園！Friends
@@ -919,7 +904,6 @@
 10089 all 劇場版 進擊的巨人 覺醒的咆哮
 9304 all 博多豚骨拉麵團
 9296 all 爆肝工程師的異世界狂想曲
-12882 all 廢柴王子
 12435 all OVERLORD 第二季
 9285 all 龍王的工作！
 20970 all 飆速宅男 第四季
@@ -929,7 +913,6 @@
 14080 all 七大罪 戒律的復活
 22513 all 慢活開始
 9300 all 伊藤潤二驚選集
-21671 all 搖曳露營△
 16507 all 比宇宙更遠的地方
 9251 all IDOLiSH7 - 偶像星願 -
 26339 all 進擊的巨人：Wall Sina,Goodbye―Part One―
@@ -1116,7 +1099,6 @@
 34990 all 電影版櫻桃小丸子：來自義大利的少年
 7895 all 假面騎士Ghost&Drive
 23465 all FREE! 男子游泳部 電影 High☆Speed! -Free! Starting Days-
-21882 all 寶可夢 XY＆Z
 17981 all 阿松
 4451 all 一拳超人
 8203 all 彗星路西法
@@ -1128,7 +1110,6 @@
 9541 all 流浪神差 ARAGOTO
 15943 all 魯邦三世 PART4
 8747 all Aikatsu! 偶像學園！第4季
-23387 all 見習神仙精靈
 23177 all 水星領航員 ARIA THE AVVENIRE
 3039 all 魔鬼戀人 第二季
 21318 all 飆速宅男 劇場版
@@ -1234,7 +1215,6 @@
 2192 all 獸電戰隊強龍者 VS Go Busters 恐龍大決戰！ 再見永遠的朋友啊
 66 all WIZARD BARRISTERS～弁魔士賽希爾
 1012 all 鬼燈的冷徹
-828 all 魔法戰爭
 7080 all 銀之匙 第二季
 23566 all 未確認進行式
 461 all 超級索尼子
@@ -1246,7 +1226,6 @@
 26537 all 魔兵驚天錄 噬血宿命
 28872 all 女神異聞錄 3 劇場版 第一章 Spring of Birth
 12331 all 魔法少女小圓 新編 叛逆的物語
-21720 all 寶可夢 XY
 8069 all 東京闇鴉
 1896 all 蒼翼默示錄 Alter Memory
 19801 all 飆速宅男
@@ -1392,7 +1371,6 @@
 26753 all 怪獸大戰爭超銀河傳說 The Movie
 23299 all 家庭教師 HITMAN REBORN！彭格列式戶外教學，來了！
 28767 all DARKER THAN BLACK 黑之契約者 -流星的雙子-
-16143 all 犬夜叉 完結篇
 4581 all 魔法禁書目錄外傳 科學超電磁砲
 8418 all 假面騎士 W
 24214 all 棄寶之島：遙與魔法鏡
@@ -1418,7 +1396,6 @@
 24299 all 火影忍者劇場版5：絆
 22902 all 夏目友人帳
 28687 all 零之使魔 三美姬的輪舞
-24779 all Code Geass 反叛的魯路修 R2
 27883 all 烏龍派出所特別篇：我和我自己！？～淺草少年偵探團！～
 2187 all 獸拳戰隊激氣連者 VS 冒險者
 24155 all 電影 哆啦A夢 大雄與綠之巨人傳
@@ -1489,7 +1466,6 @@
 29098 all 茄子 劇場版1 安達魯西亞之夏
 779 all 蠟筆小新：風起雲湧！光榮燒肉之路
 2432 all 第一神拳 冠軍之路
-30809 all 偵探學園 Q
 26538 all 烏龍派出所特別篇：世界第一最強警察爭奪戰
 2185 all 忍風戰隊 vs 百獸戰隊
 23504 all 電影 哆啦A夢 大雄與風之使者
@@ -1519,10 +1495,8 @@
 23502 all 電影 哆啦A夢 大雄與翼之勇者
 9824 all 未來戰隊 VS 救急戰隊
 27872 all 烏龍派出所特別篇：阿兩最大的危機！對手是純正的江戶姑娘
-16983 all 犬夜叉
 23028 all 第一神拳
 11649 all 秀逗魔導士 SPECIAL
-25007 all 櫻花大戰
 13059 all 捍衛者 GATE KEEPERS
 25553 all 烏龍派出所特別篇：喔多洛奇摸摸洛奇島的大決戰
 23495 all 電影 哆啦A夢 大雄的太陽王傳說
@@ -1578,7 +1552,6 @@
 14225 all 城市獵人 3
 15355 all 真 魔神英雄傳 魔神山篇
 11833 all 機動警察 劇場版 1
-28150 all 魔動王
 35025 all 麵包超人
 16746 all 魔神英雄傳
 13020 all 城市獵人 2
