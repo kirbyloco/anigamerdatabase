@@ -1,3 +1,7 @@
+36933 all 如果 30 歲還是處男，似乎就能成為魔法師
+36936 all 金屬口紅
+36927 all 戰國妖狐
+36930 all 外科醫生愛麗絲
 36921 all 公主殿下，「拷問」的時間到了
 36918 all 愚蠢天使與惡魔共舞
 36924 all 反派千金等級 99～我是隱藏頭目但不是魔王～
@@ -939,7 +943,6 @@
 9251 all IDOLiSH7 - 偶像星願 -
 26339 all 進擊的巨人：Wall Sina,Goodbye―Part One―
 32612 all 無論何時我們的戀情都是10厘米。
-34987 all 特別版 FREE! 男子游泳部 -Take Your Marks-
 11471 all Fate/stay night [Heaven's Feel] I. 預示之花
 8788 all 3 月的獅子 第二季
 8835 all 我的女友是個過度認真的處女 Bitch
@@ -977,10 +980,8 @@
 8321 all 單蠢女孩
 8320 all 異世界食堂
 17148 all 闇芝居 第五季
-34986 all 劇場版 FREE! 男子游泳部 Timeless Medley- 約束
 8308 all Hina Logic
 15116 all 魔法科高中的劣等生 呼喚繁星的少女
-34985 all 劇場版 FREE! 男子游泳部 Timeless Medley- 絆
 7610 all 劍姬神聖譚
 9436 all 蠟筆小新電影 宇宙人 Pi 力來襲！！
 11470 all 超人力霸王格鬥歐布 請賜與我親子的力量！
