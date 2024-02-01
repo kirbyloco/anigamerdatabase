@@ -550,7 +550,6 @@
 28789 all 有貓注意！
 21356 all 鬼滅之刃 柱合會議‧蝴蝶屋篇
 24069 all 劇場版《假面騎士 ZERO-ONE REAL×TIME》＆劇場短篇 《假面騎士聖刃 不死鳥的劍士與破滅之書》
-26454 all 突然降臨的埃及神
 19849 all 進擊的巨人 The Final Season
 23101 all Fate/Grand Order - 神聖圓桌領域卡美洛 - Wandering；Agateram
 26756 all 超人力霸王銀河大戰：巨大陰謀
@@ -836,7 +835,6 @@
 15172 all PSYCHO-PASS 心靈判官 Sinners of the System Case.2 First Guardian
 34831 all 劇場版 在地下城尋求邂逅是否搞錯了什麼 ─ 獵戶座之箭 ─
 15942 all 幼女戰記 劇場版
-14391 all 城市獵人劇場版 新宿 PRIVATE EYES
 15133 all PSYCHO-PASS 心靈判官 Sinners of the System Case.1 罪與罰
 12974 all 相對世界。明日終結？
 16205 all 魯邦三世 再見了伙伴
