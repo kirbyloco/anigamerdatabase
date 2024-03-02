@@ -230,6 +230,7 @@
 31640 all 彼得・格里爾的賢者時間 Super Extra
 31634 all BLEACH 死神 千年血戰篇
 31643 all 彼得・格里爾的賢者時間 Super Extra [年齡限制版]
+37373 all 永久少年 Eternal Boys
 31631 all 藍色監獄
 31599 all 孤獨搖滾！
 31605 all 夫婦以上，戀人未滿
@@ -1109,6 +1110,7 @@
 4995 all 當女孩遇到熊
 26709 all 我的英雄學院
 11015 all 逆轉裁判
+37480 all 海獺波樂
 4994 all JOJO 的奇妙冒險 不滅鑽石
 8274 all 假面騎士 1 號
 28699 all 同級生 劇場版
@@ -1211,6 +1213,7 @@
 32306 all 狼少女和黑王子
 10361 all Fate/stay night [Unlimited Blade Works]
 4506 all 天使與龍的輪舞
+20810 all 神偷怪盜 1412
 7418 all Aikatsu! 偶像學園！第3季
 23377 all 飆速宅男 Re: RIDE
 33208 all 宇宙兄弟 #0
@@ -1407,6 +1410,7 @@
 21082 all 無頭騎士異聞錄 DuRaRaRa!!
 26761 all 笨蛋，測驗，召喚獸
 26753 all 怪獸大戰爭超銀河傳說 The Movie
+3601 all FAIRY TAIL 魔導少年
 23299 all 家庭教師 HITMAN REBORN！彭格列式戶外教學，來了！
 28767 all DARKER THAN BLACK 黑之契約者 -流星的雙子-
 4581 all 魔法禁書目錄外傳 科學超電磁砲
