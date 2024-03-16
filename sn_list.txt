@@ -537,6 +537,7 @@
 20600 all 轉生成蜘蛛又怎樣！
 20602 all BACK ARROW
 20604 all Praeter 之傷
+37723 all 銀魂 THE FINAL
 20553 all 搖滾少女!! STARS!!
 20555 all 搖曳露營△ 第二季
 20557 all 天地創造設計部
@@ -866,6 +867,7 @@
 11445 all K Seven Stories 紅之記憶 ～BURN～
 10915 all 黃金神威 第二季
 20581 all 大人的防具店
+10923 all FAIRY TAIL 魔導少年 最終章
 10861 all 書店裡的骷髏店員本田
 11844 all Anima Yell!
 10849 all 刀劍神域 Alicization
@@ -1288,6 +1290,7 @@
 7069 all 銀之匙
 19556 all 超人力霸王銀河
 7913 all BLOOD LAD 血意少年
+37722 all 銀魂劇場版 完結篇：永遠的萬事屋
 474 all 槍彈辯駁 希望學園與絕望高中生
 21030 all SERVANT × SERVICE 迷糊公務員
 10349 all FREE! 男子游泳部
