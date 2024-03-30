@@ -132,6 +132,8 @@
 34267 all 劇場版 Collar×Malice -deep cover- 前篇
 35364 all 天地無用！GXP 樂園始動編
 34823 all 募戀英雄 WARMTH OF MEMORIES
+37771 all 劇場版 IDOLiSH7 - 偶像星願 - LIVE 4bit BEYOND THE PERiOD DAY1
+37772 all 劇場版 IDOLiSH7 - 偶像星願 - LIVE 4bit BEYOND THE PERiOD DAY2
 34660 all 獻祭公主與獸王
 33317 all 國王排名 勇氣的寶箱
 33312 all 【我推的孩子】
@@ -1546,6 +1548,7 @@
 27872 all 烏龍派出所特別篇：阿兩最大的危機！對手是純正的江戶姑娘
 23028 all 第一神拳
 11649 all 秀逗魔導士 SPECIAL
+37786 all 遊戲王 怪獸之決鬥
 13059 all 捍衛者 GATE KEEPERS
 25553 all 烏龍派出所特別篇：喔多洛奇摸摸洛奇島的大決戰
 23495 all 電影 哆啦A夢 大雄的太陽王傳說
