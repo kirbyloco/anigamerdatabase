@@ -1,6 +1,11 @@
+37863 all 魔法科高中的劣等生 第三季
+37868 all 極速星舞
+37935 all 偶像大師 閃耀色彩
 37837 all WIND BREAKER—防風少年—
 37845 all 身為魔王的我娶了奴隸精靈為妻，該如何表白我的愛？
 37848 all 怪人的沙拉碗
+37857 all Love Live！虹咲學園 學園偶像同好會 短篇動畫 第二季
+37929 all 星際莊的戀愛日記
 37854 all 關於我們把節目全部丟給聲優那件事
 37826 all 王牌酒保 Glass of God
 37842 all 搖曳露營△ 第三季
@@ -937,7 +942,6 @@
 24651 all 失憶融合WIXOSS
 10133 all 多田君不戀愛
 14020 all Aikatsu! 偶像學園！Friends
-21796 all MEGALOBOX 機甲拳擊
 10745 all 銀河英雄傳說 Die Neue These 邂逅
 9680 all 妖怪旅館營業中
 9660 all 隊長小翼
