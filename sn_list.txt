@@ -1,3 +1,4 @@
+37775 all 從 Lv2 開始開外掛的前勇者候補過著悠哉異世界生活
 37887 all 夜晚的水母不會游泳
 37898 all 夜櫻家大作戰
 37917 all 蔚藍檔案 The Animation
@@ -890,7 +891,6 @@
 18782 all 續·終物語
 29003 all ANEMONE／交響詩篇艾蕾卡 7：HI - EVOLUTION
 11445 all K Seven Stories 紅之記憶 ～BURN～
-10915 all 黃金神威 第二季
 20581 all 大人的防具店
 10923 all FAIRY TAIL 魔導少年 最終章
 10861 all 書店裡的骷髏店員本田
@@ -940,7 +940,6 @@
 23183 all 奴隸區 The Animation
 9668 all 最終休止符
 9742 all 惡魔高校 D×D HERO
-9676 all 黃金神威
 26340 all 進擊的巨人：Wall Sina,Goodbye―Part Two―
 13396 all 食戟之靈 餐之皿 遠月列車篇
 29018 all 雷頓不可思議偵探社：卡特莉的解謎事件簿
