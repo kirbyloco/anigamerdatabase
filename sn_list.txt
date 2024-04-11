@@ -1,3 +1,7 @@
+37840 all 格鬥實況
+37830 all 聲優廣播的幕前幕後
+37834 all 約會大作戰 DATE A LIVE V
+37832 all 為美好的世界獻上祝福！3
 37828 all 花野井同學與戀愛病
 37925 all RINKAI！女子競輪
 37927 all 失憶投捕
@@ -878,7 +882,7 @@
 11433 all ENDRO！
 11417 all 百慕達三角～多彩田園曲～
 23324 all Fate/stay night [Heaven's Feel] II.迷途之蝶
-11465 all 約會大作戰 DATE A LIVE 第三季
+11465 all 約會大作戰 DATE A LIVE III
 12952 all 約定的夢幻島
 11396 all 路人超能 100 第二季
 11398 all 粉彩回憶
