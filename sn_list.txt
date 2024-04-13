@@ -1361,6 +1361,7 @@
 21108 all 血戰-C：The Last Dark
 90 all 冰菓
 10039 all 假面騎士×超級戰隊 超級英雄大戰
+9497 all 新網球王子 OVA
 3896 all 影子籃球員
 10409 all Fate/zero 第二季
 12592 all 加速世界
