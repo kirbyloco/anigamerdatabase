@@ -298,6 +298,7 @@
 31489 all 轉生就是劍
 31407 all 機動戰士鋼彈 水星的魔女
 31403 all 因為是反派大小姐所以養了魔王
+37950 all 假面騎士 GEATS
 33393 all 劇場版 歌之☆王子殿下♪ 真愛 ST☆RISH TOURS
 37334 all 特『刀劍亂舞-花丸-』～華之卷～
 30691 all 風都偵探
@@ -474,6 +475,7 @@
 33942 all ZERO-ONE Others 假面騎士巴爾幹＆瓦爾基麗
 30444 all BanG Dream！FILM LIVE 2nd Stage
 34994 all 屁屁偵探：舒芙蕾島的秘密
+38149 all 我的英雄學院：世界英雄任務
 23426 all 魔法紀錄 魔法少女小圓外傳 第二季
 31045 all Fate/Grand Order - 終局特異點 冠位時間神殿所羅門 -
 23661 all 平穩世代的韋駄天們
@@ -758,6 +760,7 @@
 14440 all Re：從零開始的異世界生活 新編集版
 14419 all 少女前線 人形小劇場 - 狂亂篇
 17343 all 假面騎士 令和時代的開端
+38148 all 我的英雄學院：英雄新世紀
 23667 all 魯邦三世 THE FIRST
 16910 all 魯邦三世 過去的監獄
 34829 all HUMAN LOST 人間失格
@@ -934,6 +937,7 @@
 25433 all 殘念生物事典
 10928 all K Seven Stories SIDE:BLUE ～猶如天狼～
 15559 all 快盜戰隊魯邦連者 VS 警察戰隊巡邏連者 en film
+38147 all 我的英雄學院：兩個人的英雄
 12423 all 付喪神出租中！
 10484 all 進擊的巨人 第三季
 22154 all 炎神戰隊轟音者 10 YEARS GRANDPRIX
