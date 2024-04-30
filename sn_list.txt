@@ -546,7 +546,6 @@
 22219 all 卡片戰鬥!! 先導者 overdress
 22333 all 壽司大相撲
 22216 all 義呆利 World Stars
-32292 all 衝鋒戰士：恐龍世代
 22240 all 擾亂 THE PRINCESS OF SNOW AND BLOOD
 22247 all 東京復仇者
 22161 all 憂國的莫里亞蒂 第一季 後半
