@@ -474,6 +474,7 @@
 34642 all 鬼滅之奏（無限列車篇）
 32291 all 海岬的迷途之家
 33942 all ZERO-ONE Others 假面騎士巴爾幹＆瓦爾基麗
+38383 all Fate/kaleid liner 魔法少女☆伊莉雅 Licht 無名的少女
 30444 all BanG Dream！FILM LIVE 2nd Stage
 34994 all 屁屁偵探：舒芙蕾島的秘密
 38149 all 我的英雄學院：世界英雄任務
@@ -1013,6 +1014,7 @@
 29002 all 交響詩篇艾蕾卡 7：HI - EVOLUTION
 37606 all 排球少年！！劇場版：才能與感覺
 13004 all 假面騎士 Build
+38382 all Fate/kaleid liner 魔法少女☆伊莉雅 雪下的誓言
 8633 all 終物語 第二季
 34539 all 海豹小白
 11042 all 宇宙戰隊九連者 THE MOVIE Goes Indaver 的逆襲
