@@ -1,7 +1,7 @@
 38015 all 我回來了、歡迎回家
 37884 all 黑執事 寄宿學校篇
 37893 all 恰如細語般的戀歌
-37895 all The New Gate
+37895 all THE NEW GATE
 37877 all 怪獸 8 號
 37840 all 格鬥實況
 37830 all 聲優廣播的幕前幕後
@@ -14,14 +14,14 @@
 37887 all 夜晚的水母不會游泳
 37898 all 夜櫻家大作戰
 37917 all 蔚藍檔案 The Animation
-37914 all 轉生貴族憑鑑定技能扭轉人生～繼承弱小領土後，招募優秀人才打造最強領土
+37914 all 轉生貴族憑鑑定技能扭轉人生
 37905 all 老夫老妻重返青春
 37908 all 死神少爺與黑女僕 第三季
 37863 all 魔法科高中的劣等生 第三季
-37868 all HIGHSPEED Etoile
+37868 all 極速星舞
 37871 all 蜻蛉高球
 37874 all 單人房、日照一般、附天使。
-37880 all 龍族 -The Blazing Dawn-
+37880 all 龍族
 37935 all 偶像大師 閃耀色彩
 38112 all 我的英雄學院 第七季
 37837 all WIND BREAKER—防風少年—
@@ -891,7 +891,7 @@
 11433 all ENDRO！
 11417 all 百慕達三角～多彩田園曲～
 23324 all Fate/stay night [Heaven's Feel] II.迷途之蝶
-11465 all 約會大作戰 DATE A LIVE 第三季
+11465 all 約會大作戰 DATE A LIVE III
 12952 all 約定的夢幻島
 11396 all 路人超能 100 第二季
 11398 all 粉彩回憶
