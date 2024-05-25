@@ -956,6 +956,7 @@
 11977 all 異世界魔王與召喚少女的奴隸魔術
 21622 all 夢王國與沉睡中的 100 位王子殿下
 11799 all 羽球戰爭！
+38512 all ISLAND
 22152 all 宇宙戰隊九連者 VS SPACE SQUAD
 35205 all 麵包超人電影版：閃耀吧！庫倫與生命之星
 23183 all 奴隸區 The Animation
@@ -993,8 +994,10 @@
 9323 all 學園奶爸
 9319 all 三顆星彩色冒險
 14080 all 七大罪 戒律的復活
+9309 all citrus～柑橘味香氣～
 22513 all 慢活開始
 9300 all 伊藤潤二驚選集
+9292 all 愛吃拉麵的小泉同學
 16507 all 比宇宙更遠的地方
 9251 all IDOLiSH7 - 偶像星願 -
 26339 all 進擊的巨人：Wall Sina,Goodbye―Part One―
