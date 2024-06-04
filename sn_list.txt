@@ -912,6 +912,7 @@
 18782 all 續·終物語
 29003 all ANEMONE／交響詩篇艾蕾卡 7：HI - EVOLUTION
 11445 all K Seven Stories 紅之記憶 ～BURN～
+12016 all 東京喰種：re 第二季
 20581 all 大人的防具店
 10923 all FAIRY TAIL 魔導少年 最終章
 10861 all 書店裡的骷髏店員本田
@@ -971,9 +972,11 @@
 9744 all 藍海少女 第二季
 10991 all 劇場版 吸血鬼僕人 -Alice in the Garden-
 21138 all 棒球大聯盟 2nd
+23063 all DEVILSLINE 惡魔戰線
 10133 all 多田君不戀愛
 14020 all Aikatsu! 偶像學園！Friends
 10745 all 銀河英雄傳說 Die Neue These 邂逅
+12004 all 東京喰種：re
 9680 all 妖怪旅館營業中
 9660 all 隊長小翼
 15365 all 魔法X戰士美少女
@@ -999,6 +1002,7 @@
 22513 all 慢活開始
 9300 all 伊藤潤二驚選集
 9292 all 愛吃拉麵的小泉同學
+21671 all 搖曳露營△
 16507 all 比宇宙更遠的地方
 9251 all IDOLiSH7 - 偶像星願 -
 26339 all 進擊的巨人：Wall Sina,Goodbye―Part One―
@@ -1007,6 +1011,7 @@
 8788 all 3 月的獅子 第二季
 8835 all 我的女友是個過度認真的處女 Bitch
 8795 all 如果有妹妹就好了。
+21907 all 我家有個魚乾妹 R
 8787 all Love Live! Sunshine!! 第二季
 8790 all 魔法使的新娘
 8789 all 鬼燈的冷徹 第二季
@@ -1063,6 +1068,7 @@
 23506 all 櫻花任務
 7586 all 王室教師海涅
 7613 all 少年阿貝GO！GO！小芝麻 第二季
+22336 all 不正經的魔術講師與禁忌教典
 27034 all 忍者亂太郎 第 25 季
 7581 all 愛麗絲與藏六
 7584 all 碧藍幻想
@@ -1072,6 +1078,7 @@
 7583 all 進擊的巨人 第二季
 9242 all 刀劍神域 劇場版 序列爭戰
 28368 all 新 忍者哈特利 第四季
+9227 all 黑執事 劇場版 豪華客船編
 7147 all BanG Dream！
 17135 all 闇芝居 第四季
 9751 all 動物戰隊獸王者 VS 忍忍者 來自未來的訊息 from 超級戰隊
@@ -1222,6 +1229,7 @@
 9327 all Love Live! 電影
 23424 all 飆速宅男 Re：ROAD
 12616 all 你永遠是我的寶貝
+8120 all 山田君與 7 位魔女
 24142 all 銀河騎士傳 第九行星戰役
 26727 all 進擊的巨人：無悔的選擇-後篇-
 1113 all Hello！！黃金拼圖
@@ -1260,6 +1268,7 @@
 19900 all 飆速宅男 第二季
 20363 all 假面騎士 Drive
 32306 all 狼少女和黑王子
+7900 all 魔彈之王與戰姬
 10361 all Fate/stay night [Unlimited Blade Works]
 4506 all 天使與龍的輪舞
 20810 all 神偷怪盜 1412
@@ -1490,6 +1499,7 @@
 24299 all 火影忍者劇場版5：絆
 22902 all 夏目友人帳
 28687 all 零之使魔 三美姬的輪舞
+24779 all Code Geass 反叛的魯路修 R2
 27883 all 烏龍派出所特別篇：我和我自己！？～淺草少年偵探團！～
 2187 all 獸拳戰隊激氣連者 VS 冒險者
 24155 all 電影 哆啦A夢 大雄與綠之巨人傳
@@ -1514,6 +1524,7 @@
 31469 all 結界師
 1191 all 史上最強弟子兼一
 5205 all 家庭教師 HITMAN REBORN！
+23616 all Code Geass 反叛的魯路修
 10579 all 死亡筆記本
 34096 all 寶可夢 鑽石與珍珠
 27287 all 烏龍派出所特別篇：兩津的淺草翻新大作戰！！ ～啊！充滿回憶的花屋敷～
