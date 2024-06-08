@@ -753,6 +753,7 @@
 14528 all 神推偶像登上武道館我就死而無憾
 14526 all 寶石商人理察的謎鑑定
 14530 all 搖滾少女!! 活力棉花糖!!
+38722 all 奇幻怪盜 Hatena☆Illusion
 14499 all 怕痛的我，把防禦力點滿就對了
 14501 all number24
 14494 all 魔術士歐菲 流浪之旅
@@ -898,6 +899,7 @@
 23324 all Fate/stay night [Heaven's Feel] II.迷途之蝶
 11465 all 約會大作戰 DATE A LIVE III
 12952 all 約定的夢幻島
+38734 all 環戰公主 CIRCLET PRINCESS
 11396 all 路人超能 100 第二季
 11398 all 粉彩回憶
 11468 all 動物朋友 2
@@ -950,6 +952,7 @@
 10401 all 紅蓮之王
 12739 all Angolmois 元寇合戰記
 12448 all OVERLORD 第三季
+10258 all 遊戲 3 人娘
 10210 all 工作細胞
 15591 all 超人力霸王 R/B
 10758 all K Seven Stories R:B ～BLAZE～
@@ -1215,6 +1218,7 @@
 7208 all 監獄學園
 1302 all 學園孤島
 21610 all 我家有個魚乾妹
+38709 all OVERLORD
 1920 all 赤髮白雪姬
 13452 all 新科學小飛俠 insight
 7159 all 噬神者
