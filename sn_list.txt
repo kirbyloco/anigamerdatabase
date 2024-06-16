@@ -973,7 +973,6 @@
 13465 all 我的英雄學院 第三季
 9684 all 刀劍神域外傳 Gun Gale Online
 9744 all 藍海少女 第二季
-10991 all 劇場版 吸血鬼僕人 -Alice in the Garden-
 21138 all 棒球大聯盟 2nd
 23063 all DEVILSLINE 惡魔戰線
 10133 all 多田君不戀愛
@@ -1327,7 +1326,6 @@
 27316 all 進擊的巨人：伊爾澤的筆記
 26537 all 魔兵驚天錄 噬血宿命
 28872 all 女神異聞錄 3 劇場版 第一章 Spring of Birth
-12331 all 魔法少女小圓 新編 叛逆的物語
 8069 all 東京闇鴉
 1896 all 蒼翼默示錄 Alter Memory
 19801 all 飆速宅男
@@ -1372,11 +1370,9 @@
 2551 all Love Live! 第一季
 20747 all 假面騎士 × 假面騎士 Wizard & Fourze MOVIE 大戰 Ultimatum
 24066 all 宇宙刑事卡邦 THE MOVIE
-12329 all 魔法少女小圓 後編 永遠的物語
 4414 all 櫻花莊的寵物女孩
 310 all Aikatsu! 偶像學園！
 1048 all MAGI 魔奇少年
-12328 all 魔法少女小圓 前編 起始的物語
 6107 all JOJO 的奇妙冒險
 10649 all K
 437 all 絕園的暴風雨
@@ -1442,7 +1438,6 @@
 28149 all 天裝戰隊護星者 VS 真劍者 Epic on 銀幕
 5408 all 惡魔奶爸
 4096 all IS 〈Infinite Stratos〉
-792 all 魔法少女小圓
 21644 all 超人力霸王傑洛 THE MOVIE 超決戰！貝利亞銀河帝國
 9750 all 假面騎士 OOO and W Feat Skull Movie 大戰 Core
 26143 all 襲來！美少女邪神
