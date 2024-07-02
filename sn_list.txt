@@ -1,7 +1,9 @@
+38832 all SHY 靦腆英雄 第二季
+38834 all 新人大叔冒險者，被最強隊伍操到死成無敵
 38876 all 我的妻子不具感情
 38827 all 異世界自殺突擊隊
 38824 all 魔王軍最強的魔術師是人類
-38796 all DDDD 惡魔的破壞
+38795 all DDDD 惡魔的破壞
 38250 all 鬼滅之刃 柱訓練篇
 38015 all 我回來了、歡迎回家
 37884 all 黑執事 寄宿學校篇
@@ -26,7 +28,7 @@
 37868 all 極速星舞
 37871 all 蜻蛉高球
 37874 all 單人房、日照一般、附天使。
-37880 all 龍族
+37879 all 龍族
 37935 all 偶像大師 閃耀色彩
 38112 all 我的英雄學院 第七季
 37837 all WIND BREAKER—防風少年—
@@ -177,6 +179,7 @@
 34267 all 劇場版 Collar×Malice -deep cover- 前篇
 35364 all 天地無用！GXP 樂園始動編
 34823 all 募戀英雄 WARMTH OF MEMORIES
+38821 all 超人力霸王雷古洛思
 37771 all 劇場版 IDOLiSH7 - 偶像星願 - LIVE 4bit BEYOND THE PERiOD DAY1
 37772 all 劇場版 IDOLiSH7 - 偶像星願 - LIVE 4bit BEYOND THE PERiOD DAY2
 34660 all 獻祭公主與獸王
@@ -304,7 +307,7 @@
 31504 all 後宮之烏
 31492 all 我家師傅沒有尾巴
 31489 all 轉生就是劍
-31407 all 機動戰士鋼彈 水星的魔女
+31406 all 機動戰士鋼彈 水星的魔女
 31403 all 因為是反派大小姐所以養了魔王
 37950 all 假面騎士 GEATS
 33393 all 劇場版 歌之☆王子殿下♪ 真愛 ST☆RISH TOURS
@@ -821,7 +824,7 @@
 15072 all BanG Dream！FILM LIVE
 23649 all 為美好的世界獻上祝福！紅傳說
 13135 all 機甲英雄 機鬥勇者
-13802 all Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -
+12981 all Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -
 12672 all TRY KNIGHTS
 15557 all 假面騎士 劇場版 ZI-O Over Quartzer
 12678 all 在地下城尋求邂逅是否搞錯了什麼 第二季
