@@ -856,7 +856,6 @@
 15557 all 假面騎士 劇場版 ZI-O Over Quartzer
 12678 all 在地下城尋求邂逅是否搞錯了什麼 第二季
 12688 all 科學一方通行
-12674 all GIVEN 被贈與的未來
 12669 all COP CRAFT
 12690 all 偶像夢幻祭
 12663 all 實況主的逃脫遊戲【直播中】
