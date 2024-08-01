@@ -882,7 +882,6 @@
 35208 all 乘浪之約
 14826 all 青春豬頭少年不會夢到懷夢美少女
 23066 all 少女與戰車 最終章 第2話
-14568 all 魔法少女☆伊莉雅 百變嘉年華
 23100 all 劇場版 歌之☆王子殿下♪真愛 KINGDOM
 34860 all 汪星人的奇幻漂流
 22575 all 快盜戰隊魯邦連者 VS 警察戰隊巡邏連者 VS 宇宙戰隊九連者
@@ -959,7 +958,6 @@
 10828 all 關於我轉生變成史萊姆這檔事
 21946 all DOUBLE DECKER！道格＆基里爾
 12584 all 劇場版 夏目友人帳～緣結空蟬～
-24479 all 開啟吧！見習神仙精靈
 14315 all 假面騎士 ZI-O
 26728 all 進擊的巨人：Lost Girls Lost in the Cruel World
 25433 all 殘念生物事典
@@ -1030,7 +1028,6 @@
 8787 all Love Live! Sunshine!! 第二季
 8790 all 魔法使的新娘
 8789 all 鬼燈的冷徹 第二季
-8796 all ClassicaLoid 第二季
 8785 all 奇諾之旅 the Beautiful World
 8834 all 少女終末旅行
 11241 all 超人力霸王傑洛：英雄傳
@@ -1209,7 +1206,6 @@
 7220 all 終物語
 27009 all 排球少年！！第二季
 3030 all 重裝武器
-10656 all K: Return of Kings
 9541 all 流浪神差 ARAGOTO
 15943 all 魯邦三世 PART4
 8747 all Aikatsu! 偶像學園！第4季
@@ -1254,7 +1250,6 @@
 16201 all 排球少年！！列夫前來拜見！
 4718 all 黑執事 幽鬼城殺人事件篇
 11039 all 烈車戰隊特急者 VS 強龍者 THE MOVIE
-10448 all 純潔的瑪利亞
 2145 all 無頭騎士異聞錄 DuRaRaRa!!×2 承
 5936 all 影子籃球員 第三季
 1392 all 少年好萊塢 第二季
@@ -1265,7 +1260,6 @@
 11338 all 超人力霸王勝利：超級戰鬥
 1835 all 百合熊風暴
 28105 all 元氣少女緣結神 第二季
-16557 all 名偵探柯南：江戶川柯南失蹤事件 ～史上最糟糕的兩天～
 22577 all 假面騎士×假面騎士 DRIVE & 鎧武 MOVIE 大戰 Full Throttle
 26726 all 進擊的巨人：無悔的選擇-前篇-
 24713 all 火影忍者劇場版10：最終章
@@ -1288,7 +1282,6 @@
 2190 all 烈車戰隊特急者 THE MOVIE Galaxy Line SOS
 20998 all 超人力霸王銀河 S
 1847 all 精靈使的劍舞
-16884 all K MISSING KINGS
 878 all 三坪房間的侵略者！？
 1125 all 黑執事 馬戲團篇
 33178 all Fate/kaleid liner 魔法少女☆伊莉雅 2wei！
@@ -1373,7 +1366,6 @@
 24066 all 宇宙刑事卡邦 THE MOVIE
 4414 all 櫻花莊的寵物女孩
 6107 all JOJO 的奇妙冒險
-10649 all K
 437 all 絕園的暴風雨
 25599 all 鄰座的怪同學
 27273 all 元氣少女緣結神
