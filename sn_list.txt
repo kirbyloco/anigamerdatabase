@@ -589,6 +589,7 @@
 22218 all 真白之音
 22219 all 卡片戰鬥!! 先導者 overdress
 22333 all 壽司大相撲
+39193 all Thunderbolt Fantasy 東離劍遊紀 3
 22216 all 義呆利 World Stars
 22240 all 擾亂 THE PRINCESS OF SNOW AND BLOOD
 22247 all 東京復仇者
@@ -813,6 +814,7 @@
 20219 all 寶可夢旅途
 17335 all Re：從零開始的異世界生活 冰結之絆
 34830 all 只想受到你的歡迎
+39207 all Thunderbolt Fantasy 西幽玹歌
 13811 all 花牌情緣 第三季
 17225 all 鬼滅之宴
 13854 all 美妙射擊部
@@ -956,6 +958,7 @@
 23563 all RErideD - 穿越時空的德理達 -
 11446 all 強風吹拂
 10828 all 關於我轉生變成史萊姆這檔事
+39180 all Thunderbolt Fantasy 東離劍遊紀 2
 21946 all DOUBLE DECKER！道格＆基里爾
 12584 all 劇場版 夏目友人帳～緣結空蟬～
 14315 all 假面騎士 ZI-O
@@ -1019,6 +1022,7 @@
 16507 all 比宇宙更遠的地方
 9251 all IDOLiSH7 - 偶像星願 -
 26339 all 進擊的巨人：Wall Sina,Goodbye―Part One―
+39206 all Thunderbolt Fantasy 生死一劍
 32612 all 無論何時我們的戀情都是10厘米。
 11471 all Fate/stay night [Heaven's Feel] I. 預示之花
 8788 all 3 月的獅子 第二季
@@ -1135,6 +1139,7 @@
 10072 all 劇場版 假面騎士 Ghost 100個眼魂與Ghost命運的瞬間
 11043 all 劇場版 動物戰隊獸王者 心跳不已馬戲團恐慌！
 6126 all 加速世界 INFINITE BURST
+5884 all Thunderbolt Fantasy 東離劍遊紀
 5880 all 槍彈辯駁 3 絕望編
 5863 all 路人超能 100
 5879 all 槍彈辯駁 3 未來編
