@@ -1,4 +1,4 @@
-39151 all TRUMP 系列 Delicoʼs Nursery
+39151 all TRUMP 系列 Delico’s Nursery
 38881 all 敗北女角太多了！
 38872 all 為何我的世界被遺忘了？
 38917 all 現代誤譯
@@ -861,7 +861,6 @@
 23649 all 為美好的世界獻上祝福！紅傳說
 13135 all 機甲英雄 機鬥勇者
 12981 all Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -
-12672 all TRY KNIGHTS
 15557 all 假面騎士 劇場版 ZI-O Over Quartzer
 12678 all 在地下城尋求邂逅是否搞錯了什麼 第二季
 12688 all 科學一方通行
