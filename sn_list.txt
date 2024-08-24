@@ -307,7 +307,6 @@
 33122 all 關於我轉生變成史萊姆這檔事劇場版 紅蓮之絆篇
 35184 all 艦隊 Collection 總有一天，在那片海
 32322 all 名偵探柯南 警察學校篇 Wild Police Story CASE.諸伏景光
-31754 all 給不滅的你 第二季
 33944 all 刀劍神域劇場版－Progressive－陰沉薄暮的詼諧曲
 36158 all 我們的黎明
 36103 all 天使降臨到我身邊！珍貴的朋友
@@ -567,7 +566,6 @@
 27269 all BanG Dream！Episode of Roselia I：約定
 22248 all 入間同學入魔了！第二季
 22249 all 青梅竹馬絕對不會輸的戀愛喜劇
-22300 all 給不滅的你
 22245 all 86－不存在的戰區－
 22246 all SHADOWS HOUSE-影宅-
 22241 all BLUE REFLECTION : 澪
