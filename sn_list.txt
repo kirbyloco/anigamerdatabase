@@ -855,7 +855,6 @@
 32252 all 海盜船長與魔法鑽石
 33394 all 小怪獸成長日記
 14405 all 請問您今天要來點兔子嗎？～Sing For You～
-15072 all BanG Dream！FILM LIVE
 23649 all 為美好的世界獻上祝福！紅傳說
 13135 all 機甲英雄 機鬥勇者
 12981 all Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -
@@ -947,7 +946,6 @@
 10840 all 魔法禁書目錄 Ⅲ
 10922 all JOJO 的奇妙冒險 黃金之風
 11376 all 我讓最想被擁抱的男人給威脅了
-17286 all 歡迎光臨，千歲醬
 36612 all 來自繽紛世界的明日
 10956 all 學園 BASARA
 11419 all 佐賀偶像是傳奇
@@ -957,7 +955,6 @@
 11446 all 強風吹拂
 10828 all 關於我轉生變成史萊姆這檔事
 39180 all Thunderbolt Fantasy 東離劍遊紀 2
-21946 all DOUBLE DECKER！道格＆基里爾
 12584 all 劇場版 夏目友人帳～緣結空蟬～
 14315 all 假面騎士 ZI-O
 26728 all 進擊的巨人：Lost Girls Lost in the Cruel World
