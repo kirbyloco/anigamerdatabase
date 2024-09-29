@@ -1,4 +1,12 @@
-39236 all 新哆啦A夢
+38662 all 寶可夢地平線：系列
+38881 all 敗北女角太多了！
+38879 all 擅長逃跑的殿下
+38918 all 天穗之咲稻姬
+40164 all 魔王陛下，RETRY！R
+38872 all 為何我的世界被遺忘了？
+38972 all 卡片戰鬥!! 先導者 Divinez 第二季
+38112 all 我的英雄學院 第七季
+38863 all 超人力霸王雅克
 38861 all 這個世界漏洞百出
 38859 all 地下城中的人
 32343 all 尼爾：自動人形 Ver1.1a
@@ -23,13 +31,7 @@
 38888 all FAIRY TAIL 魔導少年 百年任務
 37898 all 夜櫻家大作戰
 38886 all 杖與劍的魔劍譚
-38881 all 敗北女角太多了！
-38879 all 擅長逃跑的殿下
 38874 all 精靈小姐瘦不了
-38918 all 天穗之咲稻姬
-38872 all 為何我的世界被遺忘了？
-38112 all 我的英雄學院 第七季
-38863 all 超人力霸王雅克
 38956 all 拉麵赤貓
 38846 all 模擬後宮體驗
 38844 all 黃昏光影
@@ -40,10 +42,9 @@
 38882 all 小市民系列
 38876 all 我的妻子不具感情
 38869 all 從路人角色開始的探索英雄譚
-38972 all 卡片戰鬥!! 先導者 Divinez 第二季
 39151 all TRUMP 系列 Delico’s Nursery
 39596 all SPY×FAMILY 間諜家家酒 CODE: White
-38662 all 寶可夢地平線：系列
+39236 all 新哆啦A夢
 28150 all 魔動王
 28237 all 閃電霹靂車
 39914 all 萬有引力
@@ -88,8 +89,8 @@
 39193 all Thunderbolt Fantasy 東離劍遊紀 3
 39206 all Thunderbolt Fantasy 生死一劍
 39207 all Thunderbolt Fantasy 西幽玹歌
-35241 all 葬送的芙莉蓮
 10212 all 音樂少女
+35241 all 葬送的芙莉蓮
 38955 all 這是妳與我的最後戰場，或是開創世界的聖戰 第二季
 39152 all 青春豬頭少年不會夢到紅書包女孩
 32344 all 魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～第二季
@@ -156,8 +157,8 @@
 21907 all 我家有個魚乾妹 R
 23616 all Code Geass 反叛的魯路修
 24779 all Code Geass 反叛的魯路修 R2
-7900 all 魔彈之王與戰姬
 22336 all 不正經的魔術講師與禁忌教典
+7900 all 魔彈之王與戰姬
 8120 all 山田君與 7 位魔女
 23063 all DEVILSLINE 惡魔戰線
 12004 all 東京喰種：re
@@ -468,11 +469,11 @@
 27317 all 進擊的巨人：突然的來訪者
 26339 all 進擊的巨人：Wall Sina,Goodbye―Part One―
 26340 all 進擊的巨人：Wall Sina,Goodbye―Part Two―
-26728 all 進擊的巨人：Lost Girls Lost in the Cruel World
 27316 all 進擊的巨人：伊爾澤的筆記
 27318 all 進擊的巨人：困難
 26726 all 進擊的巨人：無悔的選擇-前篇-
 26727 all 進擊的巨人：無悔的選擇-後篇-
+26728 all 進擊的巨人：Lost Girls Lost in the Cruel World
 11590 all 情色漫畫老師
 33696 all 假面騎士劇場版 Battle Royale
 8785 all 奇諾之旅 the Beautiful World
