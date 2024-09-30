@@ -1,4 +1,9 @@
 38662 all 寶可夢地平線：系列
+40183 all 嘆氣的亡靈想隱退
+40180 all 轉生貴族憑鑑定技能扭轉人生 第二季
+38888 all FAIRY TAIL 魔導少年 百年任務
+38886 all 杖與劍的魔劍譚
+37898 all 夜櫻家大作戰
 38881 all 敗北女角太多了！
 38879 all 擅長逃跑的殿下
 38918 all 天穗之咲稻姬
@@ -28,9 +33,6 @@
 38831 all 深夜 Punch
 38894 all 金肉人 完美超人始祖篇
 38890 all 身為 VTuber 的我因為忘記關台而成了傳說
-38888 all FAIRY TAIL 魔導少年 百年任務
-37898 all 夜櫻家大作戰
-38886 all 杖與劍的魔劍譚
 38874 all 精靈小姐瘦不了
 38956 all 拉麵赤貓
 38846 all 模擬後宮體驗
@@ -43,7 +45,6 @@
 38876 all 我的妻子不具感情
 38869 all 從路人角色開始的探索英雄譚
 39151 all TRUMP 系列 Delico’s Nursery
-39596 all SPY×FAMILY 間諜家家酒 CODE: White
 39236 all 新哆啦A夢
 28150 all 魔動王
 28237 all 閃電霹靂車
@@ -61,6 +62,7 @@
 39600 all 突然降臨的埃及神 第二季
 39928 all 魯邦三世 卡里奧斯特羅城
 35908 all KIRARIN 花漾明星
+39596 all SPY×FAMILY 間諜家家酒 CODE: White
 9693 all 皇帝聖印戰記
 39748 all 將國戡亂記
 37842 all 搖曳露營△ 第三季
@@ -89,8 +91,8 @@
 39193 all Thunderbolt Fantasy 東離劍遊紀 3
 39206 all Thunderbolt Fantasy 生死一劍
 39207 all Thunderbolt Fantasy 西幽玹歌
-10212 all 音樂少女
 35241 all 葬送的芙莉蓮
+10212 all 音樂少女
 38955 all 這是妳與我的最後戰場，或是開創世界的聖戰 第二季
 39152 all 青春豬頭少年不會夢到紅書包女孩
 32344 all 魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～第二季
@@ -157,8 +159,8 @@
 21907 all 我家有個魚乾妹 R
 23616 all Code Geass 反叛的魯路修
 24779 all Code Geass 反叛的魯路修 R2
-22336 all 不正經的魔術講師與禁忌教典
 7900 all 魔彈之王與戰姬
+22336 all 不正經的魔術講師與禁忌教典
 8120 all 山田君與 7 位魔女
 23063 all DEVILSLINE 惡魔戰線
 12004 all 東京喰種：re
@@ -469,11 +471,11 @@
 27317 all 進擊的巨人：突然的來訪者
 26339 all 進擊的巨人：Wall Sina,Goodbye―Part One―
 26340 all 進擊的巨人：Wall Sina,Goodbye―Part Two―
+26728 all 進擊的巨人：Lost Girls Lost in the Cruel World
 27316 all 進擊的巨人：伊爾澤的筆記
 27318 all 進擊的巨人：困難
 26726 all 進擊的巨人：無悔的選擇-前篇-
 26727 all 進擊的巨人：無悔的選擇-後篇-
-26728 all 進擊的巨人：Lost Girls Lost in the Cruel World
 11590 all 情色漫畫老師
 33696 all 假面騎士劇場版 Battle Royale
 8785 all 奇諾之旅 the Beautiful World
@@ -683,8 +685,8 @@
 30049 all 幽零幻鏡
 30006 all 冰冰冰 冰淇淋君 第二季
 30002 all 出租女友 第二季
-31240 all 假面騎士 ZI-O 外傳：RIDER TIME 假面騎士 SHINOBI
 31246 all 假面騎士 ZI-O 外傳：RIDER TIME 假面騎士龍騎
+31240 all 假面騎士 ZI-O 外傳：RIDER TIME 假面騎士 SHINOBI
 30018 all 轉生賢者的異世界生活～取得第二職業，成為世界最強～
 26753 all 怪獸大戰爭超銀河傳說 The Movie
 30016 all 森林裡的熊先生，冬眠中。
@@ -1063,11 +1065,11 @@
 23101 all Fate/Grand Order - 神聖圓桌領域卡美洛 - Wandering；Agateram
 23164 all Orange 橘色奇蹟
 23066 all 少女與戰車 最終章 第2話
+10719 all 打工吧！魔王大人
+474 all 槍彈辯駁 希望學園與絕望高中生
 22899 all 夏目友人帳特別上映版：喚石與可疑訪客
 22902 all 夏目友人帳
 22915 all 假面騎士 Wizard In Magic Land
-474 all 槍彈辯駁 希望學園與絕望高中生
-10719 all 打工吧！魔王大人
 22893 all 十二國記 第二季
 22900 all 假面騎士×假面騎士 鎧武 & Wizard 天下決勝之戰國 MOVIE 大合戰
 22943 all 喵的咧～貓咪戲說日本史！第四季
@@ -1172,8 +1174,8 @@
 20507 all 幼女社長
 3165 all Angel Beats！
 4376 all 鋼之鍊金術師 嘆息之丘的聖星
-20348 all WORKING!!迷糊餐廳 第三季
 20363 all 假面騎士 Drive
+20348 all WORKING!!迷糊餐廳 第三季
 18537 all 大貴族
 18535 all 月歌。THE ANIMATION 2
 18612 all 光之戰記 -ZUERST-
