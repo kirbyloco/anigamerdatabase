@@ -1,5 +1,11 @@
 41720 all 假面騎士 GAVV
 42770 all 人生中有貓的話 總有辦法的喵
+41805 all 金肉人 完美超人始祖篇 Season 2
+35508 all 超超超超超喜歡你的 100 個女朋友
+41650 all 我想蹺掉太子妃培訓
+41800 all 魔神創造傳
+40262 all 香格里拉・開拓異境～糞作獵手挑戰神作～ 第二季
+41798 all 地縛少年花子君 第二季
 41647 all 青之驅魔師 終夜篇
 41648 all 在沖繩喜歡上的女孩方言講得太過令人困擾
 41646 all 我與尼特女忍者的莫名同居生活
@@ -33,12 +39,6 @@
 41634 all 平凡上班族到異世界當上了四天王的故事
 41734 all 這公司有我喜歡的人
 40265 all 轉生成貓咪的大叔
-41805 all 金肉人 完美超人始祖篇 Season 2
-35508 all 超超超超超喜歡你的 100 個女朋友
-41650 all 我想蹺掉太子妃培訓
-41800 all 魔神創造傳
-40262 all 香格里拉・開拓異境～糞作獵手挑戰神作～ 第二季
-41798 all 地縛少年花子君 第二季
 41784 all UniteUp! 眾星齊聚 -Uni:Birth-
 41597 all S 級怪獸《貝希摩斯》被誤認成小貓，成為精靈女孩的騎士（寵物）一起生活
 40132 all 在地下城尋求邂逅是否搞錯了什麼 第五季
@@ -222,7 +222,7 @@
 39408 all 調教咖啡廳
 39420 all Conception 產子救世錄
 39432 all 百鍊霸王與聖約女武神
-39432 all 百鍊霸王與聖約女武神
+8780 all URAHARA
 3022 all 請問您今天要來點兔子嗎？？
 1908 all 請問您今天要來點兔子嗎？
 37786 all 遊戲王 怪獸之決鬥
@@ -292,8 +292,8 @@
 37845 all 身為魔王的我娶了奴隸精靈為妻，該如何表白我的愛？
 10258 all 遊戲 3 人娘
 38709 all OVERLORD
-38734 all 環戰公主 CIRCLET PRINCESS
 38722 all 奇幻怪盜 Hatena☆Illusion
+38734 all 環戰公主 CIRCLET PRINCESS
 21671 all 搖曳露營△
 21907 all 我家有個魚乾妹 R
 23616 all Code Geass 反叛的魯路修
@@ -745,8 +745,8 @@
 31469 all 結界師
 32214 all 有頂天家族 2
 11241 all 超人力霸王傑洛：英雄傳
-32166 all ZERO-ONE Others 假面騎士滅亡迅雷
 32168 all 假面騎士 ZERO-ONE 外傳：Project・千騎
+32166 all ZERO-ONE Others 假面騎士滅亡迅雷
 32175 all 烘焙小精靈
 32165 all 再見了，橡果兄弟！
 11338 all 超人力霸王勝利：超級戰鬥
@@ -800,8 +800,8 @@
 30049 all 幽零幻鏡
 30006 all 冰冰冰 冰淇淋君 第二季
 30002 all 出租女友 第二季
-31240 all 假面騎士 ZI-O 外傳：RIDER TIME 假面騎士 SHINOBI
 31246 all 假面騎士 ZI-O 外傳：RIDER TIME 假面騎士龍騎
+31240 all 假面騎士 ZI-O 外傳：RIDER TIME 假面騎士 SHINOBI
 30018 all 轉生賢者的異世界生活～取得第二職業，成為世界最強～
 26753 all 怪獸大戰爭超銀河傳說 The Movie
 30016 all 森林裡的熊先生，冬眠中。
@@ -1230,7 +1230,7 @@
 20996 all 傷物語 II 熱血篇
 20995 all 傷物語 I 鐵血篇
 20834 all 18if 夢境異聞錄
-20834 all 18if 夢境異聞錄
+20535 all Dimension W 維度戰記
 20748 all 劇場版 獸電戰隊強龍者 GABURINCHO OF MUSIC
 11177 all 魔法科高中的劣等生
 20631 all 大人的防具店 裏面
@@ -1423,8 +1423,8 @@
 4616 all 無頭騎士異聞錄 DuRaRaRa!!×2 結
 2145 all 無頭騎士異聞錄 DuRaRaRa!!×2 承
 196 all 來自風平浪靜的明日
-1896 all 蒼翼默示錄 Alter Memory
 66 all WIZARD BARRISTERS～弁魔士賽希爾
+1896 all 蒼翼默示錄 Alter Memory
 14315 all 假面騎士 ZI-O
 12678 all 在地下城尋求邂逅是否搞錯了什麼 第二季
 13822 all 神田川 JET GIRLS
@@ -1525,16 +1525,16 @@
 9251 all IDOLiSH7 - 偶像星願 -
 9821 all 超力戰隊 VS 忍者戰隊
 9826 all 星獸戰隊 VS 電磁戰隊
-9819 all 激走戰隊 VS 超力戰隊
-9820 all 電磁戰隊 VS 激走戰隊
 9822 all 救急戰隊特別篇 衝突！新出現的超戰士
 9823 all 救急戰隊 VS 星獸戰隊
+9819 all 激走戰隊 VS 超力戰隊
+9820 all 電磁戰隊 VS 激走戰隊
 9825 all 魔法戰隊 VS 特搜戰隊
 9815 all 假面騎士 THE FIRST
 9817 all 重返再現！侍戰隊真劍者
 9824 all 未來戰隊 VS 救急戰隊
-9818 all 獸拳戰隊 香港大決戰
 9816 all 超級戰隊 199 英雄大對決
+9818 all 獸拳戰隊 香港大決戰
 9748 all 假面騎士 FOREVER W - A to Z 命運的記憶體
 9750 all 假面騎士 OOO and W Feat Skull Movie 大戰 Core
 9749 all 天裝戰隊護星者 epic ON THE MOVIE
