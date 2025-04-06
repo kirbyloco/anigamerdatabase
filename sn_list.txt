@@ -1,4 +1,13 @@
 42770 all 人生中有貓的話 總有辦法的喵
+42918 all 小市民系列 第二季
+41784 all UniteUp! 眾星齊聚 -Uni:Birth-
+42914 all Classic★Stars – 古典樂★之星
+41786 all 離開 A 級隊伍的我，和從前的弟子往迷宮深處邁進
+42911 all 黑執事 綠之魔女篇
+42909 all 九龍大眾浪漫
+42907 all 搞笑漫畫日和 GO
+42905 all 持續狩獵史萊姆三百年，不知不覺就練到 LV MAX 第二季
+42903 all 安妮・雪莉
 40152 all 凍牌~地下麻將鬥牌錄~
 42901 all 炎炎消防隊 參之章
 42898 all 男女之間存在純友情嗎？（不，不存在！）
@@ -23,25 +32,23 @@
 41798 all 地縛少年花子君 第二季
 41646 all 我與尼特女忍者的莫名同居生活
 41645 all 我獨自升級 第二季 －起於闇影－
-41786 all 離開 A 級隊伍的我，和從前的弟子往迷宮深處邁進
-41784 all UniteUp! 眾星齊聚 -Uni:Birth-
 42835 all 我是星際國家的惡德領主！
 40525 all 青之壬生浪
 41774 all 雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目
+42834 all 劇場版 轉生成女性向遊戲只有毀滅 END 的壞人大小姐
+42801 all Hello Kitty 與好朋友的超可愛大冒險 第四季
 41770 all FARMAGIA 魔農傳記
 41766 all 歡迎來到日本，妖精小姐。
+30234 all 名偵探柯南
+42776 all 遊戲王 VRAINS
 40332 all 一兆＄遊戲
 41762 all 終究，與你相戀。
+41720 all 假面騎士 GAVV
 41756 all 中年大叔轉生反派千金
 41754 all 不幸職業【鑑定士】其實是最強的
 41638 all BanG Dream! Ave Mujica
 41750 all Dr.STONE 新石紀 第四季
 41748 all 青春特調蜂蜜檸檬蘇打
-42834 all 劇場版 轉生成女性向遊戲只有毀滅 END 的壞人大小姐
-42801 all Hello Kitty 與好朋友的超可愛大冒險 第四季
-30234 all 名偵探柯南
-42776 all 遊戲王 VRAINS
-41720 all 假面騎士 GAVV
 40260 all Re：從零開始的異世界生活 第三季
 41743 all 群花綻放、彷如修羅
 40122 all 結緣甘神神社
@@ -218,11 +225,11 @@
 38824 all 魔王軍最強的魔術師是人類
 24301 all 妖怪少爺
 10906 all 火之丸相撲
-39600 all 突然降臨的埃及神 第二季
 39928 all 魯邦三世 卡里奧斯特羅城
+39600 all 突然降臨的埃及神 第二季
 39596 all SPY×FAMILY 間諜家家酒 CODE: White
-39748 all 將國戡亂記
 9693 all 皇帝聖印戰記
+39748 all 將國戡亂記
 26454 all 突然降臨的埃及神
 39541 all 春原莊的管理員小姐
 39553 all A 頻道
@@ -259,11 +266,11 @@
 6413 all 我太受歡迎了該怎麼辦
 8786 all 寶石之國
 10085 all UQ HOLDER！悠久持有者！夏凜前輩不可告人的祕密
-840 all 魔鬼戀人
-1354 all 尋找失去的未來
-8716 all UQ HOLDER！悠久持有者！-Amor Primus ～初戀～
 9638 all UQ HOLDER！悠久持有者！剎那永恆的初吻
+840 all 魔鬼戀人
+8716 all UQ HOLDER！悠久持有者！-Amor Primus ～初戀～
 8777 all UQ HOLDER！悠久持有者！
+1354 all 尋找失去的未來
 39071 all 光之美少女 All Stars F
 38976 all 這是妳與我的最後戰場，或是開創世界的聖戰
 37927 all 失憶投捕
@@ -271,8 +278,8 @@
 34092 all 無職轉生～到了異世界就拿出真本事 第二季
 35248 all 隊長小翼 Season2 青少年篇
 37895 all THE NEW GATE
-37879 all 龍族
 37877 all 怪獸 8 號
+37879 all 龍族
 37863 all 魔法科高中的劣等生 第三季
 37854 all 關於我們把節目全部丟給聲優那件事
 37837 all WIND BREAKER—防風少年—
@@ -315,9 +322,9 @@
 24779 all Code Geass 反叛的魯路修 R2
 7900 all 魔彈之王與戰姬
 22336 all 不正經的魔術講師與禁忌教典
-8120 all 山田君與 7 位魔女
 12004 all 東京喰種：re
 12016 all 東京喰種：re 第二季
+8120 all 山田君與 7 位魔女
 23063 all DEVILSLINE 惡魔戰線
 9227 all 黑執事 劇場版 豪華客船編
 32338 all Love Live！虹咲學園 學園偶像同好會 短篇動畫
@@ -393,8 +400,8 @@
 9474 all 新網球王子
 37637 all 新次元！蠟筆小新電影超能力大決戰~飛吧！手卷壽司~
 3601 all FAIRY TAIL 魔導少年
-37373 all 永久少年 Eternal Boys
 20810 all 神偷怪盜 1412
+37373 all 永久少年 Eternal Boys
 37480 all 海獺波樂
 37607 all 排球少年！！劇場版：觀念之戰
 37606 all 排球少年！！劇場版：才能與感覺
@@ -551,8 +558,8 @@
 34643 all 鬼滅之宴（無限列車篇）
 34644 all 鬼滅之宴（遊郭篇）
 34823 all 募戀英雄 WARMTH OF MEMORIES
-34642 all 鬼滅之奏（無限列車篇）
 34631 all 劇場版 假面騎士 REVICE Battle Familia
+34642 all 鬼滅之奏（無限列車篇）
 34640 all 暴太郎戰隊 Don Brothers THE MOVIE 新．初戀英雄
 28356 all 地獄少女 宵伽
 14882 all 慕留人 - 火影新世代 -
@@ -563,8 +570,8 @@
 34423 all 扶桑花女孩之舞
 34282 all 友情X戰士美少女
 34239 all 機界戰隊全開者 VS 煌輝者 VS 前輩者
-5747 all 獵人劇場版 - 緋色幻影
 5746 all 獵人劇場版 - 最終任務
+5747 all 獵人劇場版 - 緋色幻影
 34268 all 劇場版 Collar×Malice -deep cover- 後篇
 34267 all 劇場版 Collar×Malice -deep cover- 前篇
 34231 all TEN·豪快者
@@ -616,8 +623,8 @@
 26728 all 進擊的巨人：Lost Girls Lost in the Cruel World
 11590 all 情色漫畫老師
 33696 all 假面騎士劇場版 Battle Royale
-6419 all 無畏魔女
 8785 all 奇諾之旅 the Beautiful World
+6419 all 無畏魔女
 4480 all 暗殺教室 第二季
 3441 all 暗殺教室
 30294 all 超人力霸王德卡
@@ -713,8 +720,8 @@
 5928 all 影子籃球員 第二季
 3896 all 影子籃球員
 8326 all New Game! 第二季
-20998 all 超人力霸王銀河 S
 11701 all 超人力霸王銀河 S 劇場版 決戰！超人10勇士
+20998 all 超人力霸王銀河 S
 32324 all 劇場版 擅長捉弄人的高木同學
 32415 all 土下座跪求給看
 18622 all 土下座跪求給看
@@ -770,8 +777,8 @@
 10745 all 銀河英雄傳說 Die Neue These 邂逅
 11470 all 超人力霸王格鬥歐布 請賜與我親子的力量！
 12684 all 超人力霸王大河
-31999 all 文豪 Stray Dogs 劇場版 BEAST
 32007 all 歌之☆王子殿下♪ 真愛 ST☆RISH TOURS～旅程的起點～
+31999 all 文豪 Stray Dogs 劇場版 BEAST
 31863 all 名偵探柯南 警察學校篇 Wild Police Story CASE.松田陣平
 31895 all 名偵探柯南 警察學校篇 Wild Police Story CASE.伊達航
 26755 all 超人力霸王銀河大戰：新世代英雄
@@ -815,8 +822,8 @@
 30049 all 幽零幻鏡
 30006 all 冰冰冰 冰淇淋君 第二季
 30002 all 出租女友 第二季
-31240 all 假面騎士 ZI-O 外傳：RIDER TIME 假面騎士 SHINOBI
 31246 all 假面騎士 ZI-O 外傳：RIDER TIME 假面騎士龍騎
+31240 all 假面騎士 ZI-O 外傳：RIDER TIME 假面騎士 SHINOBI
 30018 all 轉生賢者的異世界生活～取得第二職業，成為世界最強～
 26753 all 怪獸大戰爭超銀河傳說 The Movie
 30016 all 森林裡的熊先生，冬眠中。
@@ -888,8 +895,8 @@
 461 all 超級索尼子
 29326 all 新 忍者哈特利 第五季
 29515 all 凸槌大歷險
-29099 all 茄子 劇場版2 行李箱的候鳥
 29098 all 茄子 劇場版1 安達魯西亞之夏
+29099 all 茄子 劇場版2 行李箱的候鳥
 29076 all 我讓最想被擁抱的男人給威脅了 劇場版～西班牙篇～
 29213 all 盾之勇者成名錄
 27582 all 白領羽球部
@@ -1115,9 +1122,9 @@
 23739 all 怪物彈珠 THE MOVIE 路西法 絕望的黎明
 16243 all 刀劍神域 Alicization War of Underworld -THE LAST SEASON-
 13805 all 刀劍神域 Alicization War of Underworld
+21354 all 鬼滅之刃 兄妹之絆
 21373 all 鬼滅之刃 那田蜘蛛山篇
 21356 all 鬼滅之刃 柱合會議‧蝴蝶屋篇
-21354 all 鬼滅之刃 兄妹之絆
 23505 all 鬼滅之刃劇場版 無限列車篇
 2564 all 銀河騎士傳
 17981 all 阿松
@@ -1198,8 +1205,8 @@
 22080 all 一週的朋友。
 3308 all 境界的彼方
 22154 all 炎神戰隊轟音者 10 YEARS GRANDPRIX
-22054 all 螢火之森
 22042 all 六花的勇者
+22054 all 螢火之森
 22152 all 宇宙戰隊九連者 VS SPACE SQUAD
 20859 all 魔術士歐菲 流浪之旅 基姆拉克篇
 22070 all 佐賀偶像是傳奇 舞台劇 Stage de Dooon！
@@ -1225,8 +1232,8 @@
 18421 all 暮蟬悲鳴時 業
 20342 all 花樣滑冰 Stars
 21610 all 我家有個魚乾妹
-21534 all 男女蹺蹺板
 21634 all 特命戰隊 Go Busters THE MOVIE 保護東京 Enetower!
+21534 all 男女蹺蹺板
 21562 all 假面騎士 鎧武
 21636 all 海賊戰隊豪快者 The Movie 飛天幽靈船
 20608 all 工作細胞 第二季
@@ -1275,15 +1282,15 @@
 18487 all 秘密結社 鷹之爪 -Golden Spell-
 18439 all 眾神眷顧的男人
 18369 all 憂國的莫里亞蒂 第一季
-18438 all 攀岩少女！
 18552 all 體操武士
+18438 all 攀岩少女！
 18432 all 排球少年！！第四季 Part 2
 18484 all 鐵路浪漫譚
 18428 all 我立於百萬生命之上
 18427 all 魔女之旅
 5408 all 惡魔奶爸
-19900 all 飆速宅男 第二季
 19801 all 飆速宅男
+19900 all 飆速宅男 第二季
 19783 all 黑執事 II
 1125 all 黑執事 馬戲團篇
 4718 all 黑執事 幽鬼城殺人事件篇
@@ -1345,8 +1352,8 @@
 17334 all Re：從零開始的異世界生活 Memory Snow
 17225 all 鬼滅之宴
 17096 all 闇芝居
-17109 all 闇芝居 第二季
 17122 all 闇芝居 第三季
+17109 all 闇芝居 第二季
 16910 all 魯邦三世 過去的監獄
 16952 all 我的英雄學院 OVA：活下來！殊死的生存訓練
 12076 all 一拳超人 第二季
@@ -1423,11 +1430,11 @@
 14826 all 青春豬頭少年不會夢到懷夢美少女
 14757 all 白箱 SHIROBAKO
 2157 all 無頭騎士異聞錄 DuRaRaRa!!×2 轉
-4616 all 無頭騎士異聞錄 DuRaRaRa!!×2 結
 2145 all 無頭騎士異聞錄 DuRaRaRa!!×2 承
+4616 all 無頭騎士異聞錄 DuRaRaRa!!×2 結
 196 all 來自風平浪靜的明日
-66 all WIZARD BARRISTERS～弁魔士賽希爾
 1896 all 蒼翼默示錄 Alter Memory
+66 all WIZARD BARRISTERS～弁魔士賽希爾
 14315 all 假面騎士 ZI-O
 12678 all 在地下城尋求邂逅是否搞錯了什麼 第二季
 13822 all 神田川 JET GIRLS
@@ -1528,9 +1535,9 @@
 9251 all IDOLiSH7 - 偶像星願 -
 9821 all 超力戰隊 VS 忍者戰隊
 9826 all 星獸戰隊 VS 電磁戰隊
-9820 all 電磁戰隊 VS 激走戰隊
 9822 all 救急戰隊特別篇 衝突！新出現的超戰士
 9819 all 激走戰隊 VS 超力戰隊
+9820 all 電磁戰隊 VS 激走戰隊
 9823 all 救急戰隊 VS 星獸戰隊
 9825 all 魔法戰隊 VS 特搜戰隊
 9815 all 假面騎士 THE FIRST
@@ -1572,9 +1579,9 @@
 8490 all 假面騎士 OOO
 8418 all 假面騎士 W
 7610 all 劍姬神聖譚
-8272 all 劇場版 假面騎士 Drive SURPRISE FUTURE
 8273 all 超級英雄大戰 GP 假面騎士 3 號
 8274 all 假面騎士 1 號
+8272 all 劇場版 假面騎士 Drive SURPRISE FUTURE
 7606 all 末日時在做什麼？有沒有空？可以來拯救嗎？
 7581 all 愛麗絲與藏六
 7584 all 碧藍幻想
@@ -1629,8 +1636,8 @@
 3030 all 重裝武器
 4557 all 魔法禁書目錄
 4581 all 魔法禁書目錄外傳 科學超電磁砲
-790 all 蠟筆小新：大對決！機器人爸爸的反擊！
 222 all 怪醫黑傑克 OVA
+790 all 蠟筆小新：大對決！機器人爸爸的反擊！
 1113 all Hello！！黃金拼圖
 804 all 魔法禁書目錄 Ⅱ
 1302 all 學園孤島
